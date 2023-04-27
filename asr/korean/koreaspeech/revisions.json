@@ -1,0 +1,6597 @@
+{
+  "test-dialog_00000198": {
+    "action": "replace",
+    "text": "요새 머리카락이 너무 많이 빠지는 것 같아"
+  },
+  "test-dialog_00000334": {
+    "action": "replace",
+    "text": "이해가 안 돼요. 좀 더 쉽게 말씀해 주세요."
+  },
+  "test-dialog_00000509": {
+    "action": "replace",
+    "text": "휴가 며칠 가냐고? 나 (3박)/(삼 박) (4일)/(사 일) 가는데?"
+  },
+  "test-dialog_00000680": {
+    "action": "replace",
+    "text": "응. 내일 일찍 일어나야 돼서 자려고."
+  },
+  "test-dialog_00000702": {
+    "action": "replace",
+    "text": "토마스 씨는 언제부터 한국 여행에 관심을 갖게 됐어요?"
+  },
+  "test-dialog_00000838": {
+    "action": "replace",
+    "text": "중요한 문서라서 등기로 보내주셔야 돼요."
+  },
+  "test-dialog_00000841": {
+    "action": "replace",
+    "text": "내일 오전 (10시)/(열 시)까지 나와주시면 돼요."
+  },
+  "test-dialog_00000873": {
+    "action": "replace",
+    "text": "밥이 죽이 돼버려서 우리는 먹을 게 없었어."
+  },
+  "test-dialog_00000905": {
+    "action": "replace",
+    "text": "근데 거기 진짜 (19만원)/(십 구 만원) 맞죠? 네. 맞아요."
+  },
+  "test-dialog_00000951": {
+    "action": "replace",
+    "text": "요즘은 (7080)/(칠 공 팔 공) 노래가 참 좋더라."
+  },
+  "test-dialog_00001331": {
+    "action": "replace",
+    "text": "전화 통화를 하는데 친구랑 의사소통이 안돼서 알고 보니까 되게 피곤하다고 하더라고. 그래서 (1시간)/(한 시간) 동안 자고 일어나라고 말해줬어."
+  },
+  "test-dialog_00001690": {
+    "action": "replace",
+    "text": "다음 주가 동생 졸업식이라 가봐야 돼요."
+  },
+  "test-dialog_00001785": {
+    "action": "replace",
+    "text": "아/ 짜증 나. 녹음을 해 놨어야 됐는데 진짜.*"
+  },
+  "test-dialog_00002194": {
+    "action": "replace",
+    "text": "인터넷으로 사야 돼. 그게 더+ 싸더라."
+  },
+  "test-dialog_00002195": {
+    "action": "replace",
+    "text": "(16만 원)/(십 육만 원) 빌려 주시면 감사하겠습니다."
+  },
+  "test-dialog_00002252": {
+    "action": "replace",
+    "text": "(24일)/(이십 사 일)까지 마무리하면 됩니다."
+  },
+  "test-dialog_00002372": {
+    "action": "replace",
+    "text": "(네)/(니) 어제 뭐 했는데 그렇게 연락이 안되노?"
+  },
+  "test-dialog_00002412": {
+    "action": "replace",
+    "text": "그/ 책 나도 좀 빌려주면 안 돼 읽고 (줄게)/(줄께)."
+  },
+  "test-dialog_00002457": {
+    "action": "replace",
+    "text": "한강 가서 맥주 안 마신 지 진짜 오래됐지 않냐?"
+  },
+  "test-dialog_00002480": {
+    "action": "replace",
+    "text": "미스터 트롯 콘서트 계속 연기돼서 그냥 취소했어."
+  },
+  "test-dialog_00002559": {
+    "action": "replace",
+    "text": "아/ 나도 로또 일등 (1 번)/(한 번) 돼보고 싶다."
+  },
+  "test-dialog_00002560": {
+    "action": "replace",
+    "text": "아/ 나도 로또 일등 (1 번)/(한 번) 돼보고 싶다."
+  },
+  "test-dialog_00003270": {
+    "action": "replace",
+    "text": "미나리 푹 삶아서 주꾸미 넣고 참기름 장에 찍어 먹으면 돼요."
+  },
+  "test-dialog_00003454": {
+    "action": "replace",
+    "text": "주택청약은 얼마나 돼야 분양권 (1순위)/(일 순위)고?"
+  },
+  "test-dialog_00003660": {
+    "action": "replace",
+    "text": "적금을 하나 들었는데 잘 유지할 수 있을지 걱정돼요."
+  },
+  "test-dialog_00003861": {
+    "action": "replace",
+    "text": "학교 축제 기간이 어떻게 돼요?"
+  },
+  "test-dialog_00004417": {
+    "action": "replace",
+    "text": "선생님한테 대들고 그러면 안 돼"
+  },
+  "test-dialog_00004448": {
+    "action": "replace",
+    "text": "몸무게 (50킬로도 안돼)/(오십 키로도 안돼) 보이는데 (다이어트하신다고요)/(다이어트하신다구요)? 무리한 다이어트는 안 좋습니다."
+  },
+  "test-dialog_00004489": {
+    "action": "replace",
+    "text": "임용고시가 어려워서 걱정돼요."
+  },
+  "test-dialog_00004850": {
+    "action": "replace",
+    "text": "금리가 (1%)/(일 프로) 때이니 어떻게 은행에다 맡겨."
+  },
+  "test-dialog_00005153": {
+    "action": "replace",
+    "text": "그/ 지역의 특산물을 사는 게 주민분들께 도움이 돼요."
+  },
+  "test-dialog_00005390": {
+    "action": "replace",
+    "text": "건강검진 중에 위내시경이랑 대장 내시경은 꼭 받아봐야 돼."
+  },
+  "test-dialog_00005391": {
+    "action": "replace",
+    "text": "청약에 당첨돼서 (2년)/(이년) 뒤에 이사 갈 거야."
+  },
+  "test-dialog_00005500": {
+    "action": "replace",
+    "text": "다음 달이면 적금 만기가 돼서 기뻐."
+  },
+  "test-dialog_00005764": {
+    "action": "replace",
+    "text": "반려동물 키우는 건 아주 신중해야 돼요."
+  },
+  "test-dialog_00005845": {
+    "action": "replace",
+    "text": "(2023년)/(이천 이십 삼 년)에나 해외여행을 재개하게 될 것 같아요."
+  },
+  "test-dialog_00005908": {
+    "action": "replace",
+    "text": "관리할 자산의 규모가 얼마나 돼요?"
+  },
+  "test-dialog_00006037": {
+    "action": "replace",
+    "text": "이젠 마스크 안 쓰면 벌금 내야 돼요."
+  },
+  "test-dialog_00006389": {
+    "action": "replace",
+    "text": "아/ 하다 보면 언젠가 다 돼있겠지 가능해."
+  },
+  "test-dialog_00006725": {
+    "action": "replace",
+    "text": "그런데 코로나 끝나면 함 보자. 못 본 지 오래됐잖아."
+  },
+  "test-dialog_00007025": {
+    "action": "replace",
+    "text": "오늘은 마감돼서 내일 다시 오셔야 돼요."
+  },
+  "test-dialog_00007142": {
+    "action": "replace",
+    "text": "건강은 건강할 때 지켜야 돼요*."
+  },
+  "test-dialog_00007356": {
+    "action": "replace",
+    "text": "외롭다고 반려동물 함부로 키우면 안 돼."
+  },
+  "test-dialog_00007652": {
+    "action": "replace",
+    "text": "아직 생일이 지나지 않아서 만 (29)/(스물 아홉)이에요."
+  },
+  "test-dialog_00007958": {
+    "action": "replace",
+    "text": "반려동물은 끝까지 키우셔야 돼요."
+  },
+  "test-dialog_00007988": {
+    "action": "replace",
+    "text": "건강을 위해서 관리를 잘해야 돼요."
+  },
+  "test-dialog_00008104": {
+    "action": "replace",
+    "text": "지진을 대비할 때는 신문지가 있어야 돼."
+  },
+  "test-dialog_00008232": {
+    "action": "replace",
+    "text": "근속 (15주년)/(십 오 주년) 기념 해외여행 보내 준대요."
+  },
+  "test-dialog_00008344": {
+    "action": "replace",
+    "text": "지진을 대비하기 위해선 주의를 기울여야 돼요."
+  },
+  "test-dialog_00008379": {
+    "action": "replace",
+    "text": "자산관리는 언제나 잘해야 돼요."
+  },
+  "test-dialog_00008401": {
+    "action": "replace",
+    "text": "다이어트를 하려면 다이어트 식품을 먹어야 돼요."
+  },
+  "test-dialog_00008463": {
+    "action": "replace",
+    "text": "건강 프로그램 방송을 자주 보게 돼요."
+  },
+  "test-dialog_00008591": {
+    "action": "replace",
+    "text": "질병에 걸리지 않게 조심해야 돼."
+  },
+  "test-dialog_00008691": {
+    "action": "replace",
+    "text": "요즘은 부모와 자식 (2세대)/(이 세대)로만 구성된 핵가족이 많습니다."
+  },
+  "test-dialog_00008793": {
+    "action": "replace",
+    "text": "롯데자이언츠 아직도 (7위)/(칠 위)에요? 가을 야구 못하겠네요."
+  },
+  "test-dialog_00008943": {
+    "action": "replace",
+    "text": "영어로 코비드 (19)/(일 구)인데 왜 코로나라고 부르나요?"
+  },
+  "test-dialog_00009276": {
+    "action": "replace",
+    "text": "영양제는 오남용하면 안 돼."
+  },
+  "test-dialog_00009643": {
+    "action": "replace",
+    "text": "자동차 보험은 필수적으로 가입해야 돼요."
+  },
+  "test-dialog_00009991": {
+    "action": "replace",
+    "text": "우리 집은 총 다섯 식구입니다.*"
+  },
+  "test-dialog_00010049": {
+    "action": "replace",
+    "text": "음악을 들으면 마음이 힐링 돼."
+  },
+  "test-dialog_00010179": {
+    "action": "replace",
+    "text": "아니/ KF (94)/(구 사) 마스크는 면 마스크보다 더 안전할걸?"
+  },
+  "test-dialog_00010333": {
+    "action": "replace",
+    "text": "음/ 어제 적금 만기 됐는데 이 돈 어떻게 하면 될까요?"
+  },
+  "test-dialog_00010463": {
+    "action": "replace",
+    "text": "저기/ 아니요. 병원은 이쪽으로 쭉 올라가셔야 돼요."
+  },
+  "test-dialog_00010587": {
+    "action": "replace",
+    "text": "아니/ 내일은 보건소에 가봐야 돼서 어쩔 수 없어?"
+  },
+  "test-dialog_00010794": {
+    "action": "replace",
+    "text": "아니/ 왜 이렇게 늦게 왔어 벌써 (30분)/(삼십 분)이나 지났어."
+  },
+  "test-dialog_00010862": {
+    "action": "replace",
+    "text": "그/ 화장 안 하고 가도 돼서 편하긴 한데 불편해요."
+  },
+  "test-dialog_00010891": {
+    "action": "replace",
+    "text": "그런데 과거에는 통치자들이 자신의 권력을 유지하기 위한 수단으로 이용했습니다. 이번 공고는 마감돼서 접수가 어렵습니다."
+  },
+  "test-dialog_00011304": {
+    "action": "replace",
+    "text": "저기/ 예약한 식사 다+ 됐다고 지금 가면 된대."
+  },
+  "test-dialog_00011356": {
+    "action": "replace",
+    "text": "그런데 요즘 다이어트 중이어서 (식사량을)/(식사양을) (3분의 1)/(삼 분의 일)로 줄였더니 좀 어지럽네."
+  },
+  "test-dialog_00011557": {
+    "action": "replace",
+    "text": "그런데 청소는 적어도 일주일에 세 번은 해야 돼."
+  },
+  "test-dialog_00011657": {
+    "action": "replace",
+    "text": "미사 한 시간 전에는 음식 먹으면 안 돼."
+  },
+  "test-dialog_00011742": {
+    "action": "replace",
+    "text": "이번에는 (네가)/(너가) 선생님이 돼서 나한테 설명해봐."
+  },
+  "test-dialog_00011753": {
+    "action": "replace",
+    "text": "폭염이 시작된 해로 (10년)/(십 년)이 지났어."
+  },
+  "test-dialog_00012010": {
+    "action": "replace",
+    "text": "저기/ 선생님도 이제 나이가 있으시니까 건강관리 좀 하셔야 돼요."
+  },
+  "test-dialog_00012031": {
+    "action": "replace",
+    "text": "그런데 이제 정말 건강을 지킬 줄 알아야 돼."
+  },
+  "test-dialog_00012053": {
+    "action": "replace",
+    "text": "그/ 반갑습니다. 가족분들을 뵙게 돼서 영광입니다."
+  },
+  "test-dialog_00012239": {
+    "action": "replace",
+    "text": "저/ 내가 노력해서 될 (일이었으면)/(일이였으면) 진작에 됐지 않을까?"
+  },
+  "test-dialog_00012305": {
+    "action": "replace",
+    "text": "그런데 이 친구는 학창시절부터 만나서 벌써 (10년)/(십 년) 지기입니다."
+  },
+  "test-dialog_00012307": {
+    "action": "replace",
+    "text": "저기/ 영양제 많은데 또 안 사도 돼요."
+  },
+  "test-dialog_00012328": {
+    "action": "replace",
+    "text": "그런데 설마 이번에도 대출 빌려야 돼요?"
+  },
+  "test-dialog_00012357": {
+    "action": "replace",
+    "text": "영양제 먹으면서 한약같이 먹어도 돼요?"
+  },
+  "test-dialog_00012363": {
+    "action": "replace",
+    "text": "옛날 가수들이 교수들이 돼있더라고요."
+  },
+  "test-dialog_00012511": {
+    "action": "replace",
+    "text": "저는 적금 만기 돼서 또 다른 적금 가입하려고 알아보는 (중이에요)/(중이예요)."
+  },
+  "test-dialog_00012553": {
+    "action": "replace",
+    "text": "아/ 신용대출이 잘 안돼서 걱정이 많으시겠어요?"
+  },
+  "test-dialog_00012691": {
+    "action": "replace",
+    "text": "코로나가 조금 잠잠해져 거리두기 (1단계)/(일 단계)일 때 경제 살리기에 노력해야 해."
+  },
+  "test-dialog_00013121": {
+    "action": "replace",
+    "text": "아니/ 단기 금리 기한은 대체로 일 년이나 대부분이 (3개월)/(삼 개월) 내지 (6개월)/(육 개월)이야."
+  },
+  "test-dialog_00013164": {
+    "action": "replace",
+    "text": "그런데 친구에 대해 알아보고 싶어."
+  },
+  "test-dialog_00013177": {
+    "action": "replace",
+    "text": "내가 이번에 대출금을 다 갚았는데 너무 홀가분하고 좋아서 친구들하고 술 한잔했어 더 이상 대출 이자 안내도 돼서 너무 좋다."
+  },
+  "test-dialog_00013254": {
+    "action": "replace",
+    "text": "음/ 적금 보더는 금리가 조금 더 있는 대신에 (2년)/(이 년) 만기 해약은 불가능합니다."
+  },
+  "test-dialog_00013290": {
+    "action": "replace",
+    "text": "그/ 휴양지에서 오리 백숙을 시켜 먹었어."
+  },
+  "test-dialog_00013524": {
+    "action": "replace",
+    "text": "아/ 요즘은 자녀가 둘만 돼도 대가족이라고 하시네요."
+  },
+  "test-dialog_00013582": {
+    "action": "replace",
+    "text": "그런데 우와 너 운전도 할 수 있구나. 대단하다. 코로나 (19)/(일 구) 백신이 일러야 내년 봄쯤에 나온다는데?"
+  },
+  "test-dialog_00013717": {
+    "action": "replace",
+    "text": "아니/ 정부가 (60만)/(육십 만) 군 장병을 위해 금리 (6%)/(육 퍼센트) 대의 적금을 발표했으나 결국 거짓 약속이 됐어."
+  },
+  "test-dialog_00013968": {
+    "action": "replace",
+    "text": "그/ 매일매일 (1시간)/(한 시간)씩 운동하자."
+  },
+  "test-dialog_00014191": {
+    "action": "replace",
+    "text": "아/ 음악시간 리코더 준비해야 돼요."
+  },
+  "test-dialog_00014424": {
+    "action": "replace",
+    "text": "매월 대출 이자 납부가 부담이 돼."
+  },
+  "test-dialog_00014787": {
+    "action": "replace",
+    "text": "아니/ 역시 열심히 한건 나중에 다 보상받게 돼있더라."
+  },
+  "test-dialog_00014863": {
+    "action": "replace",
+    "text": "그/ 이번 학기에는 꼭 성적장학금 받아야 돼요."
+  },
+  "test-dialog_00015080": {
+    "action": "replace",
+    "text": "저/ 건전지 사야 돼서 편의점 좀 갔다 올게요."
+  },
+  "test-dialog_00015102": {
+    "action": "replace",
+    "text": "그/ 슬슬 독립할 때도 됐고 용돈 줄여나가야지."
+  },
+  "test-dialog_00015338": {
+    "action": "replace",
+    "text": "저기/ 딱 (1년)/(일 년) 이상만 적금에 들고 싶어요."
+  },
+  "test-dialog_00015393": {
+    "action": "replace",
+    "text": "저기/ 청약 그게 뭔데? 그거 당첨돼도 돈이 있어야지 중도금 넣지."
+  },
+  "test-dialog_00015462": {
+    "action": "replace",
+    "text": "아니/ 운동은 너무 격하게 하면 안 돼요."
+  },
+  "test-dialog_00015514": {
+    "action": "replace",
+    "text": "저기/ 이모님 오늘 청소 (4시간)/(네 시간) 부탁드려요. 저희는 잠시 외출하고 올게요."
+  },
+  "test-dialog_00015578": {
+    "action": "replace",
+    "text": "아니/ 집이 청약 당첨됐는데 교통 편이 안 좋아서 걱정이야."
+  },
+  "test-dialog_00015611": {
+    "action": "replace",
+    "text": "저기/ 대출 이번에 (5천)/(오 천) 정도 받아야 될 것 같아."
+  },
+  "test-dialog_00015649": {
+    "action": "replace",
+    "text": "그런데 성적이 잘 나와야 되는데 걱정이 돼요."
+  },
+  "test-dialog_00015682": {
+    "action": "replace",
+    "text": "(20대)/(이십 대) 여자 혼자 갈만한 휴양지 추천해줘."
+  },
+  "test-dialog_00015731": {
+    "action": "replace",
+    "text": "(60대)/(육십 대) 어른들이 챙겨드시면 좋은 영양제 좀 추천해주실래요?"
+  },
+  "test-dialog_00015843": {
+    "action": "replace",
+    "text": "(10월)/(시 월)은 날씨가 가장 좋은 달 중에 하나에요."
+  },
+  "test-dialog_00015900": {
+    "action": "replace",
+    "text": "아/ 대출 승인이 안돼서 걱정이야."
+  },
+  "test-dialog_00015912": {
+    "action": "replace",
+    "text": "아/ 반려동물에게 아무 음식을 주면 안 돼요."
+  },
+  "test-dialog_00015930": {
+    "action": "replace",
+    "text": "음/ 폭염에 사람들이 쓰러지면 (119)/(일 일 구)에 전화해 주세요."
+  },
+  "test-dialog_00015990": {
+    "action": "replace",
+    "text": "아/ 매일 운동을 (30분)/(삼십 분)씩 하세요."
+  },
+  "test-dialog_00016003": {
+    "action": "replace",
+    "text": "그/ 지하철역까지는 걸어서 (5분)/(오 분)에서 (10분)/(십 분) 정도 걸릴 거예요."
+  },
+  "test-dialog_00016016": {
+    "action": "replace",
+    "text": "아/ 방탄소년단이 빌보드 차트 (1위)/(일 위)에 올랐습니다."
+  },
+  "test-dialog_00016033": {
+    "action": "replace",
+    "text": "그/ 건강검진 예약 일은 (9월)/(구 월) (4일)/(사 일)입니다."
+  },
+  "test-dialog_00016051": {
+    "action": "replace",
+    "text": "아/ (9월)/(구 월)에 태풍 (2번)/(두 번) 온다고 뉴스에 나왔어."
+  },
+  "test-dialog_00016121": {
+    "action": "replace",
+    "text": "그/ 불쌍한 내 친구 생일이 (2월)/(이 월) (29일)/(이십 구 일)이라 (4년)/(사 년)에 한번 생일이다."
+  },
+  "test-dialog_00016137": {
+    "action": "replace",
+    "text": "아/ 식사는 꼭꼭 씹어서 천천히 드셔야 소화도 잘 돼요."
+  },
+  "test-dialog_00016182": {
+    "action": "replace",
+    "text": "음/ 코로나 때문에 마스크를 꼭 써야 돼."
+  },
+  "test-dialog_00016183": {
+    "action": "replace",
+    "text": "그/ (아기)/(애기) 나이가 올해 어떻게 돼요?"
+  },
+  "test-dialog_00016324": {
+    "action": "replace",
+    "text": "아/ 코로나 (19)/(십 구)로 인해 환경이 좋아졌습니다."
+  },
+  "test-dialog_00016344": {
+    "action": "replace",
+    "text": "아/ 다이어트 심하게 하면 안 돼."
+  },
+  "test-dialog_00016393": {
+    "action": "replace",
+    "text": "음/ 우리가 (10년)/(십 년) (20년)/(이십 년) 후에도 지금처럼 친구로 지낼 수 있을까?"
+  },
+  "test-dialog_00016402": {
+    "action": "replace",
+    "text": "아/ 직업은 좋은데 승진이 잘 안돼요."
+  },
+  "test-dialog_00016526": {
+    "action": "replace",
+    "text": "그/ (9월)/(구 월)인데 태풍이 부니까 너무 추워요."
+  },
+  "test-dialog_00016710": {
+    "action": "replace",
+    "text": "그/ 방탄소년단이 빌보드에서 (1위)/(일 위)를 했다는 기사를 찾아주세요."
+  },
+  "test-dialog_00016761": {
+    "action": "replace",
+    "text": "저기/ 일상대혹에 대해서 아는 게 거의 없다고 할 수 있어요."
+  },
+  "test-dialog_00016784": {
+    "action": "replace",
+    "text": "아/ 내 나이 벌써 (42살)/(마흔 두 살) 슬프다."
+  },
+  "test-dialog_00016795": {
+    "action": "replace",
+    "text": "저기/ 고등학교 (1학년)/(일 학년) 때 담임 선생님이 이번 (연도에)/(년도에) 정년퇴임하셨대."
+  },
+  "test-dialog_00016797": {
+    "action": "replace",
+    "text": "음/ 예중 진학하려면 성적이 어느 정도 돼야 해?"
+  },
+  "test-dialog_00016899": {
+    "action": "replace",
+    "text": "아/ 청약저축을 (5년)/(오 년)이나 들었는데 아직도 아파트 청약 기회가 없네."
+  },
+  "test-dialog_00016912": {
+    "action": "replace",
+    "text": "그/ 요즘 같은 폭염에 일사병 조심하셔야 돼요."
+  },
+  "test-dialog_00016936": {
+    "action": "replace",
+    "text": "음/ 해외여행을 (3년)/(삼 년) 만에 다시 와서 기뻐요."
+  },
+  "test-dialog_00016945": {
+    "action": "replace",
+    "text": "그/ 다이어트를 하는 건 정말 너무 힘들어."
+  },
+  "test-dialog_00017083": {
+    "action": "replace",
+    "text": "그/ 식사를 할 때는 말을 많이 하면 안 돼."
+  },
+  "test-dialog_00017089": {
+    "action": "replace",
+    "text": "그/ 야 너는 건강관리 어떻게 하니? 나는 매일 (1시간)/(한 시간)씩 운동해힘들지 않아? 처음 시작할 땐 어렵지만 하면 할수록 습관이 되더라."
+  },
+  "test-dialog_00017170": {
+    "action": "replace",
+    "text": "음/ 그럼 혹시 (11일)/(십 일 일)로 예약을 변경할 수 있을까요?"
+  },
+  "test-dialog_00017240": {
+    "action": "replace",
+    "text": "음/ 혈액순환이 잘 안돼서 쥐가 나겠지? 쥐나면 겁나."
+  },
+  "test-dialog_00017267": {
+    "action": "replace",
+    "text": "음/ 턱 선이 살아있네. (완전히)/(완전) 다른 사람이 됐어. 눈도 커졌어."
+  },
+  "test-dialog_00017277": {
+    "action": "replace",
+    "text": "음/ 우리 집 방음이 제대로 안돼서 너무 시끄러워."
+  },
+  "test-dialog_00017303": {
+    "action": "replace",
+    "text": "음/ (1년)/(일 년)에 한 번은 꼭 스케일링을 해야겠다는 생각이 든다."
+  },
+  "test-dialog_00017311": {
+    "action": "replace",
+    "text": "음/ (1차)/(일 차)로 회식 마무리하고 노래방 갈 사람은 갑시다."
+  },
+  "test-dialog_00017413": {
+    "action": "replace",
+    "text": "음/ 저도 외래를 같이 보시게 해드리고 싶은데 잘 안돼서요."
+  },
+  "test-dialog_00017456": {
+    "action": "replace",
+    "text": "음/ 해당 매물은 대지 (20평)/(이십 평)에 평당 (5천만)/(오천 만) 원입니다."
+  },
+  "test-dialog_00017774": {
+    "action": "replace",
+    "text": "음/ 당근이지. 학교에서 에어컨이 고장 나는 바람에 선풍기 (4대)/(네 대)로 버틴 적이 있는데 정말 끔찍했어."
+  },
+  "test-dialog_00017795": {
+    "action": "replace",
+    "text": "저/ 다이어트로 (100kg)/(백 키로) 뺀 사람도 있어."
+  },
+  "test-dialog_00017801": {
+    "action": "replace",
+    "text": "음/ 응 방은 편하게 써."
+  },
+  "test-dialog_00017816": {
+    "action": "replace",
+    "text": "음/ 응 직업의 다양성이라는 과목인데 직업 인터뷰를 해야 돼."
+  },
+  "test-dialog_00017869": {
+    "action": "replace",
+    "text": "음/ 교육 끝나면 (10시)/(열 시)라고 하길래 헷갈렸다 야."
+  },
+  "test-dialog_00017913": {
+    "action": "replace",
+    "text": "저+ 저 (고3)/(고 삼) 때 지진 때문에 수능 연기된 거 아세요?"
+  },
+  "test-dialog_00017951": {
+    "action": "replace",
+    "text": "저/ 이 영화 평점이 (9점)/(구 점)이에요."
+  },
+  "test-dialog_00017969": {
+    "action": "replace",
+    "text": "음/ 나 오늘 (6시)/(여섯 시)부터 알바야."
+  },
+  "test-dialog_00018064": {
+    "action": "replace",
+    "text": "음/ 이번 달 (20일)/(이십 일)은 우리의 (3주년)/(삼 주년) 기념일이다 좋다."
+  },
+  "test-dialog_00018105": {
+    "action": "replace",
+    "text": "음/ 공항 가려면 어느 쪽에서 버스 타야 돼요?"
+  },
+  "test-dialog_00018176": {
+    "action": "replace",
+    "text": "저/ 공부 할 때 음악 들으면 더 집중이 잘 돼요."
+  },
+  "test-dialog_00018218": {
+    "action": "replace",
+    "text": "저/ 코로나 때문에 (20일)/(이십 일)까지 학교에 갈 수가 없어."
+  },
+  "test-dialog_00018255": {
+    "action": "replace",
+    "text": "저/ 금리 (2%)/(이 프로) 정도만 낮게 (대출받고)/(대출받구) 싶어요."
+  },
+  "test-dialog_00018300": {
+    "action": "replace",
+    "text": "저/ 내일 짜장면 먹으러 갈래? (7시)/(일곱 시)까지 만나."
+  },
+  "test-dialog_00018424": {
+    "action": "replace",
+    "text": "저/ (6개월)/(육 개월)에 한번 연락해도 가족 같은 친구가 진짜 친구 아닐까요?"
+  },
+  "test-dialog_00018454": {
+    "action": "replace",
+    "text": "저/ 건강관리를 위해서 운동을 하셔야 돼요."
+  },
+  "test-dialog_00018521": {
+    "action": "replace",
+    "text": "저/ 모두들 질병에 걸리지 않도록 주의해야 돼요."
+  },
+  "test-dialog_00018524": {
+    "action": "replace",
+    "text": "저/ (9월)/(구 월)에 태풍이 꼭 오는 거 같아."
+  },
+  "test-dialog_00018535": {
+    "action": "replace",
+    "text": "저/ 코로나 때문에 (2020년)/(이천 이십 년)이 없어졌어요."
+  },
+  "test-dialog_00018581": {
+    "action": "replace",
+    "text": "부분 스케일링은 (1년)/(일 년) 안에 해도 보험 적용된대요."
+  },
+  "test-dialog_00018621": {
+    "action": "replace",
+    "text": "특산물은 유명한 곳에서 먹어야 돼요."
+  },
+  "test-dialog_00018739": {
+    "action": "replace",
+    "text": "외국공항에 도착했을 때 우리는 그냥 (렌터카만)/(렌트카만) 타면 돼요."
+  },
+  "test-dialog_00018775": {
+    "action": "replace",
+    "text": "이번 달이면 적금이 만료돼서 이자가 들어올 거야."
+  },
+  "test-dialog_00018827": {
+    "action": "replace",
+    "text": "코로나 오늘은 (2단계)/(이 단계)로 내려갔어."
+  },
+  "test-economy_00000269": {
+    "action": "replace",
+    "text": "복숭아 (2박스)/(두 박스) 샀어 와서 가지고 가."
+  },
+  "test-economy_00000289": {
+    "action": "replace",
+    "text": "(1층)/(일 층) 로비 기념품점에서 살 거 있으신 분들은 가서 쇼핑하세요."
+  },
+  "test-economy_00000510": {
+    "action": "replace",
+    "text": "그/ 요새 살 빼야 돼서 밥 조금씩만 먹을게요."
+  },
+  "test-economy_00001041": {
+    "action": "replace",
+    "text": "기사 봤어? 광주 코로나 거리두기 (3단계)/(삼 단계)로 격상될 수도 있다더라."
+  },
+  "test-economy_00001113": {
+    "action": "replace",
+    "text": "제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "test-economy_00001343": {
+    "action": "replace",
+    "text": "그렇게 쓰여있는 거는 손님께서 최대 (7박)/(칠 박) (8일)/(팔 일) 까지 빌릴 수 있는 기간을 정하실 수 있어요."
+  },
+  "test-economy_00001519": {
+    "action": "replace",
+    "text": "작년에 선생님께서 많이 가르쳐주셔서 한국어 실력이 늘었어요"
+  },
+  "test-economy_00001590": {
+    "action": "replace",
+    "text": "구매 확인 정보는 아래쪽에 (쓰여있는)/(써있는) 대로 다 확인하실 수 있는 겁니다."
+  },
+  "test-economy_00001597": {
+    "action": "replace",
+    "text": "당신과 함께 일하게 돼서 정말 기뻐요."
+  },
+  "test-economy_00001624": {
+    "action": "replace",
+    "text": "옳음과 친절함 중 하나를 선택할 땐 친절함을 선택하라."
+  },
+  "test-economy_00002026": {
+    "action": "replace",
+    "text": "모두들 (5분)/(오 분) 내로 떠날 준비를 하고 다시 이 자리로 모여."
+  },
+  "test-economy_00002037": {
+    "action": "replace",
+    "text": "괜찮아요. 하지만 저는 오후 (1시)/(한 시)까지는 로스앤젤레스에 도착해야 돼요."
+  },
+  "test-economy_00002080": {
+    "action": "replace",
+    "text": "이제 취직해서 일은 많고 몸은 피곤하니까 주말에 그냥 쉬고도 싶었겠지"
+  },
+  "test-economy_00002594": {
+    "action": "replace",
+    "text": "출타 점수 (1점)/(일 점)이 모자란 거 다른 걸로 채우면 돼."
+  },
+  "test-economy_00002699": {
+    "action": "replace",
+    "text": "네 제 아내도 제가 싫지 않았나 봐요. 한 달쯤부터 사귀게 됐어요*."
+  },
+  "test-economy_00002907": {
+    "action": "replace",
+    "text": "출근은 (8시)/(여덟 시)부터 해야 돼."
+  },
+  "test-economy_00002991": {
+    "action": "replace",
+    "text": "광고가 나오니 다른 거 틀어도 돼요?"
+  },
+  "test-economy_00003045": {
+    "action": "replace",
+    "text": "그때 산 (러닝머신)/(런닝머신) 완전 옷걸이 됐어."
+  },
+  "test-economy_00003102": {
+    "action": "replace",
+    "text": "부동산은 길 건너서 쭉 가면 돼요."
+  },
+  "test-economy_00003361": {
+    "action": "replace",
+    "text": "질병휴직하느라 (1년)/(일 년)이나 쉬었어."
+  },
+  "test-economy_00003443": {
+    "action": "replace",
+    "text": "(9월)/(구 월) 말쯤에 바닷가 여행 저하고 가실래요?"
+  },
+  "test-economy_00003516": {
+    "action": "replace",
+    "text": "근력운동을 병행하면 더 다이어트에 도움 돼요."
+  },
+  "test-economy_00003654": {
+    "action": "replace",
+    "text": "걔 나이가 벌써 그렇게 됐어?"
+  },
+  "test-economy_00003866": {
+    "action": "replace",
+    "text": "(20살)/(스무 살)만 돼도 체력이 약해진 게 느껴져서 건강관리를 해야겠다고 생각했어."
+  },
+  "test-economy_00003941": {
+    "action": "replace",
+    "text": "환태평양 지진대가 뭐죠? 지도를 보시면 이해가 돼요.*"
+  },
+  "test-economy_00004141": {
+    "action": "replace",
+    "text": "적금은 뭐니+ 뭐니 해도 금리가 높아야 돼."
+  },
+  "test-economy_00004315": {
+    "action": "replace",
+    "text": "예전에는 우리나라 아이돌 그룹이 세계적인 주목을 받을지는 상상도 못 했대"
+  },
+  "test-economy_00004356": {
+    "action": "replace",
+    "text": "금리 계산을 하고 난 후에 적금을 들어도 돼."
+  },
+  "test-economy_00004373": {
+    "action": "replace",
+    "text": "질병 예방을 위해서는 우선 개인이 잘해야 돼요."
+  },
+  "test-economy_00004382": {
+    "action": "replace",
+    "text": "지진 때문에 자동차가 파손됐습니다.*"
+  },
+  "test-economy_00004429": {
+    "action": "replace",
+    "text": "내 생일 아직 (3개월)/(삼 개월)이나 남았어."
+  },
+  "test-economy_00004693": {
+    "action": "replace",
+    "text": "(3월)/(삼 월)에 선생님 한번 뵙고 계속 온라인 수업만 하네요."
+  },
+  "test-economy_00004700": {
+    "action": "replace",
+    "text": "성적이 안 좋아서 지금 연락이 안 돼."
+  },
+  "test-economy_00004746": {
+    "action": "replace",
+    "text": "코로나 장기화로 마스크는 일상이 돼버렸어."
+  },
+  "test-economy_00004979": {
+    "action": "replace",
+    "text": "코로나 (19)/(일 구) 때문에 대학 축제가 사라져서 속상해."
+  },
+  "test-economy_00005221": {
+    "action": "replace",
+    "text": "금리가 인상돼서 조금 신경 (쓰여요)/(쓰여여)."
+  },
+  "test-economy_00005391": {
+    "action": "replace",
+    "text": "이제 정말 그 방송을 봐야 돼."
+  },
+  "test-economy_00005585": {
+    "action": "replace",
+    "text": "내일 수영장에서 (5시)/(다섯 시)에 만나자."
+  },
+  "test-economy_00005872": {
+    "action": "replace",
+    "text": "아/ 지하 (3층)/(삼 층) 주차장에 주차를 하고 오면 돼"
+  },
+  "test-economy_00005899": {
+    "action": "replace",
+    "text": "그/ 경찰관이 돼서 도둑들을 잡고 싶어요."
+  },
+  "test-economy_00006075": {
+    "action": "replace",
+    "text": "그런데 난 네가 전부터 하고 싶어 하던 작가가 됐으면 좋겠어."
+  },
+  "test-economy_00006556": {
+    "action": "replace",
+    "text": "부동산에서 연락이 올 때가 됐는데."
+  },
+  "test-economy_00006570": {
+    "action": "replace",
+    "text": "*선생님 아까 수업시간 내용 중에 이+ 부분이 이해가 안 돼요."
+  },
+  "test-economy_00006643": {
+    "action": "replace",
+    "text": "태풍이 온다고 해서 일정이 취소됐어."
+  },
+  "test-economy_00006705": {
+    "action": "replace",
+    "text": "여행 가면 꼭 특산물을 사 오게 돼요."
+  },
+  "test-economy_00006979": {
+    "action": "replace",
+    "text": "아/ 이 지하수는 오염돼서 먹을 수 없어."
+  },
+  "test-economy_00007036": {
+    "action": "replace",
+    "text": "아/ 난 작년 (7월)/(칠 월) 초에 갔었는데 저녁에는 조금 쌀쌀했어.*"
+  },
+  "test-economy_00007160": {
+    "action": "replace",
+    "text": "아니/ 그렇긴 한데 습관 됐나 봐요. 아/ 배 안 고프신가 봐요."
+  },
+  "test-economy_00007251": {
+    "action": "replace",
+    "text": "저기/ 그래도 해결이 잘 돼서 진짜 다행이다."
+  },
+  "test-economy_00007459": {
+    "action": "replace",
+    "text": "아니요. 비닐봉지는 안 주셔도 돼요."
+  },
+  "test-economy_00008117": {
+    "action": "replace",
+    "text": "그/ 중요한 문서라서 등기로 보내주셔야 돼요."
+  },
+  "test-economy_00008210": {
+    "action": "replace",
+    "text": "그/ 과거에는 통치자들이 자신의 권력을 유지하기 위한 수단으로 이용했습니다. 이번 공고는 마감돼서 접수가 어렵습니다."
+  },
+  "test-economy_00008433": {
+    "action": "replace",
+    "text": "그런데 세계도시를 공부할 땐 집중을 해야 돼요."
+  },
+  "test-economy_00008436": {
+    "action": "replace",
+    "text": "그런데 지진을 대비하기 위해선 주의를 기울여야 돼요."
+  },
+  "test-economy_00008815": {
+    "action": "replace",
+    "text": "그런데 이제 정말 청약 저축을 해야 돼."
+  },
+  "test-economy_00008871": {
+    "action": "replace",
+    "text": "우리 학교는 지어진지 얼마 안 돼서 깨끗한 것 같아."
+  },
+  "test-economy_00009007": {
+    "action": "replace",
+    "text": "(운동은)/(운동안) 간지 너무 오래돼서 기구 사용법을 잊어버렸어요."
+  },
+  "test-economy_00009112": {
+    "action": "replace",
+    "text": "음/ 이해가 안 돼서 그러는데 예를 좀 들어주시겠어요?"
+  },
+  "test-economy_00009230": {
+    "action": "replace",
+    "text": "해외여행이 어려워지자 명품 구매로 선회하며 온 오프라인 명품 구매 시장이 뜨겁다."
+  },
+  "test-economy_00009408": {
+    "action": "replace",
+    "text": "음/ 제 (2)/(이) 금융권의 금리가 더 높아요."
+  },
+  "test-economy_00009589": {
+    "action": "replace",
+    "text": "그런데 지진 나면 책상 밑으로 숨어야 돼요."
+  },
+  "test-economy_00009971": {
+    "action": "replace",
+    "text": "저기/ 이 적금은 금리가 얼마나 돼요?"
+  },
+  "test-economy_00010090": {
+    "action": "replace",
+    "text": "그/ 적금 들어 놓으면 그래도 안심이 돼요."
+  },
+  "test-economy_00010289": {
+    "action": "replace",
+    "text": "그/ 아니요. 병원은 이쪽으로 쭉 올라가셔야 돼요."
+  },
+  "test-economy_00010386": {
+    "action": "replace",
+    "text": "음/ 오빠가 생일선물 사준다고 했는데 그냥 됐다고 했어요."
+  },
+  "test-economy_00010613": {
+    "action": "replace",
+    "text": "그/ 공부 열심히 할게요. 축제 다녀오게 해주시면 안 돼요?"
+  },
+  "test-economy_00010854": {
+    "action": "replace",
+    "text": "저기/ 나보다 (2살)/(두 살) 많으시네요 언니라 불러도 되죠."
+  },
+  "test-economy_00010855": {
+    "action": "replace",
+    "text": "그런데 치아 건강을 꼭 잘 챙겨야 돼."
+  },
+  "test-economy_00010891": {
+    "action": "replace",
+    "text": "그런데 환경오염을 막기 위한 방법을 찾아야 돼요."
+  },
+  "test-economy_00011056": {
+    "action": "replace",
+    "text": "저기/ 건강을 위해서 관리를 잘해야 돼요."
+  },
+  "test-economy_00011441": {
+    "action": "replace",
+    "text": "그런데 창틀에도 곰팡이가 생겼는데 어떻게 없애야 돼요?"
+  },
+  "test-economy_00011586": {
+    "action": "replace",
+    "text": "아니/ 우리 언니는 청약에 당첨돼서 집에 살고 있어."
+  },
+  "test-economy_00011662": {
+    "action": "replace",
+    "text": "그런데 녹음이 안돼서 미션 수행이 어렵다."
+  },
+  "test-economy_00011834": {
+    "action": "replace",
+    "text": "그/ 세계 (5대)/(오 대) 도시는 어디일까요?"
+  },
+  "test-economy_00011964": {
+    "action": "replace",
+    "text": "아/ 토익시험 (900점)/(구백 점)은 높은 점수입니다."
+  },
+  "test-economy_00012132": {
+    "action": "replace",
+    "text": "그/ 한강 가서 맥주 안 마신 지 진짜 오래됐지 않냐?"
+  },
+  "test-economy_00012512": {
+    "action": "replace",
+    "text": "그런데 지금 건강하다고 소홀히 하면 안 돼요."
+  },
+  "test-economy_00012801": {
+    "action": "replace",
+    "text": "그/ 일단 최대한 (1번)/(한 번) 해볼게 근데 장담은 못 하겠어 영어를 배우기 전에 한글을 다시 배워."
+  },
+  "test-economy_00012841": {
+    "action": "replace",
+    "text": "음/ 셋 째 금방 돌아올게. 같은 말은 절대 하지 않는다. 핸드폰의 전원을 꺼주시기 바랍니다."
+  },
+  "test-economy_00012853": {
+    "action": "replace",
+    "text": "저기/ 휴양지로 여행 갔던 걸 남에게 들어야 돼요?"
+  },
+  "test-economy_00012922": {
+    "action": "replace",
+    "text": "저기/ 온난화를 막으려면 대중교통을 이용해야 돼."
+  },
+  "test-economy_00013007": {
+    "action": "replace",
+    "text": "음/ 독일 맥주 축제는 꼭 (1번)/(한 번) 가보고 싶어."
+  },
+  "test-economy_00013143": {
+    "action": "replace",
+    "text": "매일 만보 걷는 것도 큰 운동이 돼요."
+  },
+  "test-economy_00013147": {
+    "action": "replace",
+    "text": "그/ (4호선)/(사 호선)으로 환승하려면 어디로 가야 하나요?"
+  },
+  "test-economy_00013485": {
+    "action": "replace",
+    "text": "저/ (10월 달)/(시 월 달) 안에 운전면허 딸 수 있겠지."
+  },
+  "test-economy_00013651": {
+    "action": "replace",
+    "text": "그+ 그 책 절판돼서 구하기 힘들던데 어디서 구했어? 하루만 빌려주라. 감정 기복이 많은 사람들은 피곤해."
+  },
+  "test-economy_00013848": {
+    "action": "replace",
+    "text": "음/ (어휴)/(에휴). 나도 부지런 해지고 싶은데 그게 맘처럼 쉽게 잘 안돼."
+  },
+  "test-economy_00013875": {
+    "action": "replace",
+    "text": "저기/ 남편 친구들이 오기 전에 식사를 차려야 돼요."
+  },
+  "test-economy_00013962": {
+    "action": "replace",
+    "text": "아니/ 지진 났을 때 침착하게 움직여야 돼."
+  },
+  "test-economy_00013965": {
+    "action": "replace",
+    "text": "아니/ 우리 아파트값이 (1억)/(일 억)이나 올랐대요."
+  },
+  "test-economy_00014011": {
+    "action": "replace",
+    "text": "저기/ 청약에 당첨돼서 (2년)/(이 년) 뒤에 이사해요."
+  },
+  "test-economy_00014371": {
+    "action": "replace",
+    "text": "경제적 상황을 고려해서 (1단계)/(일 단계)로 조정되었어요."
+  },
+  "test-economy_00014485": {
+    "action": "replace",
+    "text": "독감에 걸려서 열이 (39도)/(삼십 구 도)까지 올랐어."
+  },
+  "test-economy_00014544": {
+    "action": "replace",
+    "text": "아/ 수업료는 (220달러)/(이백 이십 달러)로 재료비를 포함하는 거 아시죠? 부모님한테 좀 더 신경을 써야 할 것 같아."
+  },
+  "test-economy_00014573": {
+    "action": "replace",
+    "text": "아/ 나 요즘 알렉사(AI)/(에이 아이) 쓰고 있거든? 근데 얘가 무슨 사람처럼 일상 대화를 능숙하게 (하더라고)/(하더라구). 좀 무섭더라."
+  },
+  "test-economy_00014633": {
+    "action": "replace",
+    "text": "음/ 가족 여행 안 간지 (1년)/(일 년)은 더 된 거 같아."
+  },
+  "test-economy_00014646": {
+    "action": "replace",
+    "text": "아/ 여보. 이집 사려면 (3천만)/(삼천 만) 원 정도 대출을 받아야 해."
+  },
+  "test-economy_00014803": {
+    "action": "replace",
+    "text": "음/ 이 동네에 (2억)/(이 억) 이하로 괜찮은 매물 있나요?"
+  },
+  "test-economy_00014813": {
+    "action": "replace",
+    "text": "아/ 집의 화재가 걱정돼 화재보험을 들었다."
+  },
+  "test-economy_00014835": {
+    "action": "replace",
+    "text": "그/ 저축은행이나 (제3금융)/(제 삼 금융) 대부 업체에서 돈 빌리면 쉽게 빌려주나요?"
+  },
+  "test-economy_00014849": {
+    "action": "replace",
+    "text": "그/ 보험에 가입하려면 어디로 가야 되노?"
+  },
+  "test-economy_00015044": {
+    "action": "replace",
+    "text": "음/ 캘리포니아에서 하루 만에 기온이 (30도)/(삼십 도) 떨어졌대."
+  },
+  "test-economy_00015045": {
+    "action": "replace",
+    "text": "아/ 내가 (9시)/(아홉 시)에 널 깨워도 못 일어나더라."
+  },
+  "test-economy_00015079": {
+    "action": "replace",
+    "text": "음/ (1년)/(일 년) 만에 받은 휴가인데 뭘 할까?"
+  },
+  "test-economy_00015093": {
+    "action": "replace",
+    "text": "음/ 요즘은 데뷔하는 아이돌 그룹이 많은데 코로나 (19)/(일 구)의 여파로 무대에 설 기회가 매우 적을 것 같아요."
+  },
+  "test-economy_00015164": {
+    "action": "replace",
+    "text": "아/ 자산관리를 잘하려면 공부도 해야 돼요."
+  },
+  "test-economy_00015481": {
+    "action": "replace",
+    "text": "그/ 지진이 날 때는 머리를 보호해야 돼."
+  },
+  "test-economy_00015615": {
+    "action": "replace",
+    "text": "음/ 아/ 저는 배고파서 밥 먹었어요 유유."
+  },
+  "test-economy_00015617": {
+    "action": "replace",
+    "text": "저기/ 우리 학교에는 수요일에 (7시)/(일곱 시) 저기/ 우리 학교는 수요일에 (7교시)/(칠 교시)까지 있었어."
+  },
+  "test-economy_00015691": {
+    "action": "replace",
+    "text": "그/ 이 시설은 (65세)/(육십 오 세) 이상 어르신들만 무료로 입장하실 수 있습니다."
+  },
+  "test-economy_00015759": {
+    "action": "replace",
+    "text": "음/ 저랑 친구 된 지 (10년)/(십 년)이 넘었어요."
+  },
+  "test-economy_00015790": {
+    "action": "replace",
+    "text": "아/ 올여름은 (3개)/(세 개)의 태풍이 지나갔다."
+  },
+  "test-economy_00015852": {
+    "action": "replace",
+    "text": "음/ 정부가 (3기)/(삼 기) 신도시 공공 분양 단지에 중형 아파트 공급 비율을 최대 (50%)/(오십 퍼센트)까지 늘려서 청약 주택이 늘어날 거예요."
+  },
+  "test-economy_00015867": {
+    "action": "replace",
+    "text": "음/ 메탄가스가 해양에서 대량 방출돼서 해양 온난화로 인한 장기적 기후 변화가 발생하고 있대요."
+  },
+  "test-economy_00016067": {
+    "action": "replace",
+    "text": "음/ 건강검진을 최소 (2년)/(이 년)에 한번 합니다."
+  },
+  "test-economy_00016093": {
+    "action": "replace",
+    "text": "아/ 근력 운동 위주로 매일 (1시간)/(한 시간)씩 하세요."
+  },
+  "test-economy_00016221": {
+    "action": "replace",
+    "text": "그/ 매년 유행하는 질병이 있지만 코로나 (19)/(십 구)만큼 심한 적은 없었어요."
+  },
+  "test-economy_00016234": {
+    "action": "replace",
+    "text": "그/ 금리 (1%)/(일 프로)라니 차라리 투자가 낫겠네."
+  },
+  "test-economy_00016262": {
+    "action": "replace",
+    "text": "그/ 건강검진 전 저녁 (9시)/(아홉 시)부터 (금식입니다)/(금십입니다)."
+  },
+  "test-economy_00016290": {
+    "action": "replace",
+    "text": "음/ 나 어제 노래방 가서 (1시간)/(한 시간) 동안 노래 불렀어."
+  },
+  "test-economy_00016328": {
+    "action": "replace",
+    "text": "음/ 아/ 맞다 내일 오전에 내 치과 예약돼있다."
+  },
+  "test-economy_00016492": {
+    "action": "replace",
+    "text": "음/ 우리 내일 (3시)/(세 시)에 버스정류장 앞에서 만날까?"
+  },
+  "test-economy_00016527": {
+    "action": "replace",
+    "text": "음/ 그래도 많이 마신 건 아니니까 한 (2시간)/(두 시간)쯤 기다리면 될 거예요."
+  },
+  "test-economy_00016549": {
+    "action": "replace",
+    "text": "음/ 원주까지 가는데 거의 (5시간)/(다섯 시간) 걸렸나?"
+  },
+  "test-economy_00016627": {
+    "action": "replace",
+    "text": "음/ 한 달에 한 (4권)/(네 권)은 읽는 것 (같아)/(같애)."
+  },
+  "test-economy_00016660": {
+    "action": "replace",
+    "text": "음/ 쟤 (2시간)/(두 시간) 동안 게임만 하고 있어."
+  },
+  "test-economy_00016828": {
+    "action": "replace",
+    "text": "음/ (7월)/(칠 월)의 날씨는 거의 매일 더운 것 같아."
+  },
+  "test-economy_00016993": {
+    "action": "replace",
+    "text": "음/ 나 할 말이 있는데 내일 (5시)/(다섯 시)에 만날 수 있어?"
+  },
+  "test-economy_00017003": {
+    "action": "replace",
+    "text": "음/ 삼겹살 (2인분)/(이 인분)이랑 된장 (1인분)/(일 인분) 주세요."
+  },
+  "test-economy_00017042": {
+    "action": "replace",
+    "text": "음/ 광주 갔다가 통금 전에 서울로 다시 오면 (10만)/(십 만) 원 주신다고. 맞죠?"
+  },
+  "test-economy_00017257": {
+    "action": "replace",
+    "text": "저/ (60세)/(육십 세) 생일잔치는 환갑잔치야."
+  },
+  "test-economy_00017482": {
+    "action": "replace",
+    "text": "음/ (5시)/(다섯 시)에 집 앞으로 모시러 가겠습니다."
+  },
+  "test-economy_00017528": {
+    "action": "replace",
+    "text": "저/ 제 친한 친구는 (5명)/(다섯 명)입니다. 그래서 친구들끼리 독수리 (5형제)/(오 형제)라 합니다."
+  },
+  "test-economy_00017710": {
+    "action": "replace",
+    "text": "음/ 안녕하세요. 만나게 돼서 반가워요. 제 이름은 이건우예요."
+  },
+  "test-economy_00017716": {
+    "action": "replace",
+    "text": "저/ 고향에 못 간지 벌써 (10년)/(십 년)은 됐네요."
+  },
+  "test-economy_00017736": {
+    "action": "replace",
+    "text": "저/ 나는 (4남)/(사 남) (1녀)/(일 녀) 중 막내야."
+  },
+  "test-economy_00017754": {
+    "action": "replace",
+    "text": "저/ (2금융권)/(이 금융권)도 생각보다 대출이자가 세네요."
+  },
+  "test-economy_00017854": {
+    "action": "replace",
+    "text": "음/ 올 때 (A4)/(에이 포) 용지 한 묶음만 사다 줄 수 있어?"
+  },
+  "test-economy_00017890": {
+    "action": "replace",
+    "text": "저/ 학교에 친구들 데리고 와도 돼요?"
+  },
+  "test-economy_00017894": {
+    "action": "replace",
+    "text": "저/ 이번 달에 태풍이 (3개)/(세 개)나 왔었대."
+  },
+  "test-economy_00017950": {
+    "action": "replace",
+    "text": "저/ 이 음악을 들으면 마음이 안정돼요."
+  },
+  "test-economy_00017959": {
+    "action": "replace",
+    "text": "엄마 오늘 수학 성적이 나왔는데 (1등이에요)/(일 등이에요)."
+  },
+  "test-economy_00017999": {
+    "action": "replace",
+    "text": "저/ 학교 졸업한 지 오래돼서 다 잊어버렸어요."
+  },
+  "test-economy_00018051": {
+    "action": "replace",
+    "text": "저/ 보험 들어놓으니까 안심이 돼요."
+  },
+  "test-economy_00018098": {
+    "action": "replace",
+    "text": "저/ 이건 흔한 질병이라 너무 걱정 안 하셔도 돼요."
+  },
+  "test-economy_00018124": {
+    "action": "replace",
+    "text": "저/ 와. 봤어요?? 두 달 만에 (1억)/(일 억)이 올랐어요. (1억)/(일 억)이."
+  },
+  "test-economy_00018133": {
+    "action": "replace",
+    "text": "저/ 건강검진 주기적으로 꼭 하셔야 돼요."
+  },
+  "test-economy_00018153": {
+    "action": "replace",
+    "text": "저/ 난 아이돌들 노래는 잘 안 들어 다 비슷해."
+  },
+  "test-economy_00018324": {
+    "action": "replace",
+    "text": "아이돌 중에서는 NCT (127)/(일 이 칠)이 가장 좋습니다."
+  },
+  "test-economy_00018397": {
+    "action": "replace",
+    "text": "꿈을 위해 노력하는 사람도 있는 것을 선생님도 아셔야 돼요."
+  },
+  "test-economy_00018546": {
+    "action": "replace",
+    "text": "대출에 습관이 들면 안 돼요."
+  },
+  "test-economy_00018583": {
+    "action": "replace",
+    "text": "내 대출 좀 해주라. (257억)/(이백 오십 칠 억)만 대출해주면 된다."
+  },
+  "test-hobby_00000064": {
+    "action": "replace",
+    "text": "방 (3개)/(세 개)에 욕실 (2개)/(두 개) 거실 하나 부엌 하나 배란다 하나. 이렇게."
+  },
+  "test-hobby_00000175": {
+    "action": "replace",
+    "text": "선배 저 아직 밥 못 먹어서 배고픈데 밥 좀 사주시면 안 돼요?"
+  },
+  "test-hobby_00000220": {
+    "action": "replace",
+    "text": "나는 항상 좀 저음의 목소리를 가졌으면 좋겠다고 생각했어"
+  },
+  "test-hobby_00000221": {
+    "action": "replace",
+    "text": "글쎄 편지 한 통을 받았는데 내 계좌로 (500달러)/(오백 달러)가 들어와 있어."
+  },
+  "test-hobby_00000436": {
+    "action": "replace",
+    "text": "세계 (8대)/(팔 대) 불가사의가 압력 분산이 안돼서 무너지면 아깝지 않나요."
+  },
+  "test-hobby_00000533": {
+    "action": "replace",
+    "text": "인터넷이 너무 느리고 접속이 잘 안돼서 *속도가 느리네요."
+  },
+  "test-hobby_00000630": {
+    "action": "replace",
+    "text": "(1장)/(한장)밖에 남지 않았는데 이걸로 돼?"
+  },
+  "test-hobby_00001011": {
+    "action": "replace",
+    "text": "이+ 상황이 좋아지면 해외로 여행 가기로 하자."
+  },
+  "test-hobby_00001287": {
+    "action": "replace",
+    "text": "고객님 (오메가3)/(오메가 쓰리) (30%)/(삼십 프로) DC 합니다 하나 사 가세요."
+  },
+  "test-hobby_00001610": {
+    "action": "replace",
+    "text": "그런데 나는 팝콘 안 먹을래. 영화 볼 때 집중이 안 돼서 뭘 먹으면 안 되거든."
+  },
+  "test-hobby_00001665": {
+    "action": "replace",
+    "text": "저도 내일 같이 가야 돼서요."
+  },
+  "test-hobby_00001671": {
+    "action": "replace",
+    "text": "신혼부부 생애 첫 주택 이런 거로 청약 (1순위)/(일 순위) 되잖아."
+  },
+  "test-hobby_00002216": {
+    "action": "replace",
+    "text": "저/ 오늘 밤저녁식사에 함께 하실 거죠 안 그럴 건가요? 집 앞에서 봐요. 네. 진짜 긴 데는 엄청 오래 기다려야 돼요."
+  },
+  "test-hobby_00002636": {
+    "action": "replace",
+    "text": "아니/ 결국 저나 다른 사람들이 그 사람의 일까지 하게 돼요."
+  },
+  "test-hobby_00002672": {
+    "action": "replace",
+    "text": "저기/ 요즘은 그런 신종 사기 수법이 많으니까 항상 조심하지 않으면 안 돼."
+  },
+  "test-hobby_00002697": {
+    "action": "replace",
+    "text": "저기/ 건강을 위해서 (108배)/(백 팔 배)를 해요."
+  },
+  "test-hobby_00002726": {
+    "action": "replace",
+    "text": "아/ 에너지 절약을 해서 온난화 피해를 줄여야 돼요."
+  },
+  "test-hobby_00002941": {
+    "action": "replace",
+    "text": "아/ 저는 중학교 (3학년)/(삼 학년) 시절 담임 선생님을 제일 존경합니다."
+  },
+  "test-hobby_00003038": {
+    "action": "replace",
+    "text": "친구들이 계속 보채는 바람에 이렇게 됐네요."
+  },
+  "test-hobby_00003188": {
+    "action": "replace",
+    "text": "그/ (5일)/(오 일) 쉬고 (2일)/(이틀 일) 하면 재밌게 할 수 있을 거 같기도 하고?"
+  },
+  "test-hobby_00003266": {
+    "action": "replace",
+    "text": "그/ 크릴 오일 (오메가3)/(오메가 쓰리) 어떤 게 더 저한테 잘 맞을까요?"
+  },
+  "test-hobby_00003289": {
+    "action": "replace",
+    "text": "그런데 친구는 평생 가는 사람 (1명)/(한 명)이면 돼요."
+  },
+  "test-hobby_00003456": {
+    "action": "replace",
+    "text": "저기/ 젊어서 고생은 늙으면 골병든다고 젊어서 몸 관리 잘 하래요."
+  },
+  "test-hobby_00003468": {
+    "action": "replace",
+    "text": "아니/ 당장 집 구해야 돼서 학교는 다음에 갈려고."
+  },
+  "test-hobby_00003488": {
+    "action": "replace",
+    "text": "그런데 휴가 갔다가 집으로 돌아가야 돼요."
+  },
+  "test-hobby_00003557": {
+    "action": "replace",
+    "text": "제로 금리에서 이자 (10원)/(십 원) 챙겼어요."
+  },
+  "test-hobby_00003646": {
+    "action": "replace",
+    "text": "음/ 직업적으로 자꾸 습관이 돼있는 행동이 있나요?"
+  },
+  "test-hobby_00003670": {
+    "action": "replace",
+    "text": "음/ 올해는 태풍이 너무 많이 생성이 돼서 우리에게 피해를 주네요."
+  },
+  "test-hobby_00003718": {
+    "action": "replace",
+    "text": "음/ 질병에 잘 걸리지 않고 (120세)/(백 이십 세) 정도까지 사는 사람들이 오키나와 지역에 있다고 들은 것 같아."
+  },
+  "test-hobby_00003735": {
+    "action": "replace",
+    "text": "그/ 나는 집에 강아지 키우지. 한 (10년)/(십 년)쯤 됐어."
+  },
+  "test-hobby_00003792": {
+    "action": "replace",
+    "text": "학교에 가시면 이제 정신 차리고 공부 좀 하세요 형님 이번이 (6번째)/(여섯 번째) 초등학교입니다."
+  },
+  "test-hobby_00003803": {
+    "action": "replace",
+    "text": "그/ 내 생일은 (4월)/(사 월) (18일)/(십 팔 일)이에요."
+  },
+  "test-hobby_00003934": {
+    "action": "replace",
+    "text": "그/ 어제 울진 앞바다에서 진도 (3.5)/(삼 점 오)의 지진이 발생하였습니다."
+  },
+  "test-hobby_00004016": {
+    "action": "replace",
+    "text": "음/ 근데 그게 얼만 줄 알아? 한 회에 (990원)/(구백 구십 원)인가 그렇게 올라온 거야."
+  },
+  "test-hobby_00004150": {
+    "action": "replace",
+    "text": "음/ 두 (신)/(씬) 밖에 안돼. 늦어도 (7시)/(일곱 시)면 끝나. 내가 머리가 좋잖아."
+  },
+  "test-hobby_00004176": {
+    "action": "replace",
+    "text": "음/ 이번 주말에도 안 잡히면 (3단계)/(삼 단계)로 격상된 데니까 좀 조심해야지."
+  },
+  "test-hobby_00004290": {
+    "action": "replace",
+    "text": "저/ 아이돌 중 (2AM)/(투 에이엠)이라는 그룹을 알고 있니?"
+  },
+  "test-hobby_00004421": {
+    "action": "replace",
+    "text": "저/ 성적 관리는 (1학년)/(일 학년) 때부터 해야 합니다."
+  },
+  "test-hobby_00004440": {
+    "action": "replace",
+    "text": "저는 다이어트를 하고 있고 (15kg)/(십 오 키로)를 뺐습니다."
+  },
+  "test-hobby_00004461": {
+    "action": "replace",
+    "text": "해외여행할 때 매일 전화하면 안 돼."
+  },
+  "test-hobby_00004522": {
+    "action": "replace",
+    "text": "친구랑 영화 보기로 약속했어요. 기대돼요."
+  },
+  "test-life_00000012": {
+    "action": "replace",
+    "text": "소방관들은 (5분)/(오 분)만에 화재현장에 도착했습니다."
+  },
+  "test-life_00000031": {
+    "action": "replace",
+    "text": "그 회사는 (600만)/(육백 만) 만원이 넘는 부채가 누적되어 있었다."
+  },
+  "test-life_00000039": {
+    "action": "replace",
+    "text": "그 회사는 다른 회사와 합병했다. 그 회사는 연간 외형이 (1000만)/(천 만) 만원이다."
+  },
+  "test-life_00000045": {
+    "action": "replace",
+    "text": "그 회사는 주 (5일)/(오 일) 근무제를 도입했다."
+  },
+  "test-life_00000049": {
+    "action": "replace",
+    "text": "이 회사는 올해 (200 )/(이백 명)의 직원을 해고했다."
+  },
+  "test-life_00000053": {
+    "action": "replace",
+    "text": "그 회사는 (1999년)/(천 구백 구십 구 년) 이후 적자만 기록하다가 최근에야 흑자로 돌아섰다."
+  },
+  "test-life_00000054": {
+    "action": "replace",
+    "text": "그 회사는 종업원이 (500명)/(오백 명)이 넘는다."
+  },
+  "test-life_00000057": {
+    "action": "replace",
+    "text": "그 회사는 그들의 추정치를 (23%)/(이십 삼 퍼센트)나 증가하고 있어왔다."
+  },
+  "test-life_00000074": {
+    "action": "replace",
+    "text": "그 회사는 파산 지경에 이르렀다. 회사는 일자리 (700개)/(칠백 개)를 감축할 것이다."
+  },
+  "test-life_00000096": {
+    "action": "replace",
+    "text": "회사가 바야흐로 파산지경에 이르렀다. 그 업체는 (3개월)/(삼 개월) 전에 매각 처분되었다."
+  },
+  "test-life_00000101": {
+    "action": "replace",
+    "text": "(2주)/(이 주) 전에 파산했던 그 회사는 (109개)/(백 구 개)의 아울렛들을 가지고 있다."
+  },
+  "test-life_00000109": {
+    "action": "replace",
+    "text": "영화 (28주후)/(이십 팔 주후)의 처음 (10분)/(십 분)간의 장면은 완전히 멋졌다."
+  },
+  "test-life_00000110": {
+    "action": "replace",
+    "text": "처음 (10년)/(십 년)간은 흥미로운 시간들이었지."
+  },
+  "test-life_00000111": {
+    "action": "replace",
+    "text": "처음 (15일)/(십 오 일)동안은 혼자 여행을 했습니다."
+  },
+  "test-life_00000112": {
+    "action": "replace",
+    "text": "(5만원)/(오만 원) 이상 구매고객 (3500분)/(삼천 오백 분)께 사은품을 드립니다."
+  },
+  "test-life_00000113": {
+    "action": "replace",
+    "text": "첫 (3만 5천)/(삼만 오천) 명의 사람들은 그 놀이공원에 들여보내졌다."
+  },
+  "test-life_00000114": {
+    "action": "replace",
+    "text": "그 첫 (60분)/(육십 분) 분량의 비디오는 전부 중국의 수점술에 관한 것이다."
+  },
+  "test-life_00000116": {
+    "action": "replace",
+    "text": "(제1막)/(제 일 막)은 이미 끝나 있었다."
+  },
+  "test-life_00000122": {
+    "action": "replace",
+    "text": "미국 수정헌법 (제1조)/(제 일 조)에는 미국 국민 모두에게 이 권리가 보장되어 있습니다."
+  },
+  "test-life_00000123": {
+    "action": "replace",
+    "text": "첫 번째 미국 지폐는 (1690년)/(천 육백 구십 년)에 발행되었습니다."
+  },
+  "test-life_00000124": {
+    "action": "replace",
+    "text": "(제1)/(제 일)의 가장 중요한 공국이 연방과 주정부의 권력을 행사한다."
+  },
+  "test-life_00000137": {
+    "action": "replace",
+    "text": "투표는 (11월)/(십 일 월) (20일)/(이십 일) 화요일에 시작한다."
+  },
+  "test-life_00000139": {
+    "action": "replace",
+    "text": "첫번째 야구팀은 (1845년)/(천 팔백 사십 오 년) 뉴욕에서 만들어졌어요."
+  },
+  "test-life_00000141": {
+    "action": "replace",
+    "text": "선두 타자가 포볼로 (1루)/(일 루)에 출루했다."
+  },
+  "test-life_00000142": {
+    "action": "replace",
+    "text": "선두 타자가 (4구)/(사 구)로 출루했다."
+  },
+  "test-life_00000146": {
+    "action": "replace",
+    "text": "그 이혼 판결은 (5월)/(오 월)에 났어요."
+  },
+  "test-life_00000151": {
+    "action": "replace",
+    "text": "올해 이혼률이 (50%)/(오 십 퍼센트) 가까이 증가했다."
+  },
+  "test-life_00000164": {
+    "action": "replace",
+    "text": "(14대)/(십 사 대) 달라이 라마는 스스로를 반마르크스주의자 반불교신자라고 표현했다."
+  },
+  "test-life_00000174": {
+    "action": "replace",
+    "text": "생년월일이 (2년)/(이 년) 이상의 차이가 난다."
+  },
+  "test-life_00000210": {
+    "action": "replace",
+    "text": "의사가 각 환자들한테 딱 (5분)/(오 분)만을 허락해."
+  },
+  "test-life_00000232": {
+    "action": "replace",
+    "text": "박사님께서 내일 (2시)/(두 시)에 당신을 만나실 수 있습니다."
+  },
+  "test-life_00000344": {
+    "action": "replace",
+    "text": "하지만 저녁 시간이 있어요. 혹시 (6시)/(여섯 시)에 오실 수 있으세요? 그 의사는 현재 뉴욕에서 개업 중이다."
+  },
+  "test-life_00000453": {
+    "action": "replace",
+    "text": "의사 말이 앞으로도 (3주)/(삼 주)는 발목을 쓰면 안된대요."
+  },
+  "test-life_00000459": {
+    "action": "replace",
+    "text": "(3일)/(삼 일)이 지나면 아주 좋아질 것이라고 의사는 말했다."
+  },
+  "test-life_00000460": {
+    "action": "replace",
+    "text": "의사 선생님은 (30분)/(삼십 분)마다 휴식을 취해야 한다고 말씀하셨어요."
+  },
+  "test-life_00000475": {
+    "action": "replace",
+    "text": "의사말로는 내가 (2 3주)/(이 삼 주)간 편히 쉬어야 할 거래. 의사가 말하길 이것은 시간문제라고 합니다."
+  },
+  "test-life_00000482": {
+    "action": "replace",
+    "text": "선생님께서 약 (5분)/(오 분) 후면 진찰을 하실 겁니다."
+  },
+  "test-life_00000491": {
+    "action": "replace",
+    "text": "의사 말로는 (2 3주)/(이 삼 주) 정도면 퇴원할 수 있대. 의사 말로는 (2 3일)/(이 삼 일) 후면 퇴원할 거래. 의사는 그녀가 아기에게서 무언가를 줏었다고 생각했다. 의사는 환자의 수술에 대해 충분히 생각했다. 의사는 네가 회복할 시간이 좀 더 필요하다고 생각했다. 의사는 그녀에게 심한 눈병에 걸렸다고 했다."
+  },
+  "test-life_00000498": {
+    "action": "replace",
+    "text": "의사말로는 난 수술한 뒤 (6개월)/(육 개월) 뒤엔 약을 끊어도 된대."
+  },
+  "test-life_00000499": {
+    "action": "replace",
+    "text": "의사는 내가 염증이 있다고 말했다. 의사가 (6개월)/(육 개월) 밖에 더 살지 못한다고 말했어요. 그 의사는 내가 임신이라고 말했다."
+  },
+  "test-life_00000518": {
+    "action": "replace",
+    "text": "의사 말에 의하면 나는 체중을 꼭 빼야 된대요. 그 의사는 작년 (10월)/(시 월) (4일)/(사 일)에 체포되었다."
+  },
+  "test-life_00000534": {
+    "action": "replace",
+    "text": "의사들은 그녀가 병에서 회복하는 것에 대한 큰 희망을 가지지는 않았다. 의사들은 그녀의 회복을 별로 기대하지 않았다. 그가 말하길 의사들은 공감이 부족하지 않대. 의사의 왕진료는 (50만원)/(오십 만 원)이다 그 의사의 진료비는 비싸지 않았다. 의사가 나의 발열을 잘 잡았다. 의사들은 그녀에게 진정제을 투여했다."
+  },
+  "test-life_00000546": {
+    "action": "replace",
+    "text": "의사들이 그녀의 회복 가능성을 (0)/(영)으로 보았다. 의사가 내가 치료 가능할 거라고 꽤 확신하던데."
+  },
+  "test-life_00000547": {
+    "action": "replace",
+    "text": "의사들은 (11개)/(열 한 개)의 손가락과 발가락을 제거했다 ."
+  },
+  "test-life_00000548": {
+    "action": "replace",
+    "text": "의사의 진료서는 우리가 가장 두려워했던 것을 확인시켜 주었다. 의사들이 그가 (6개월)/(육 개월)밖에 못 살 거라고 했다."
+  },
+  "test-life_00000549": {
+    "action": "replace",
+    "text": "의사들은 우즈가 (1월)/(일 월)에 다시 골프 연습을 시작할 수 있다고 말했다. 재발의 가능성은 불분명하다고 의사들은 말했다. 이 두 의사는 할 수 있을 때 다운시프팅을 하라고 권합니다."
+  },
+  "test-life_00000577": {
+    "action": "replace",
+    "text": "문제의 그 문서는 (1948년)/(천 구백 사십 팔 년) (6월)/(유 월) (18일)/(십 팔 일)자로 된 보고서이다."
+  },
+  "test-life_00000593": {
+    "action": "replace",
+    "text": "그 서류에는 적절한 절차에 따라 검사관이 서명을 했다. 그 서류는 군데군데 찢긴 채 바닥에 놓여 있었다. 그 문서는 (1982년)/(천 구백 팔십 이 년) 대중에게 공개되었다 ."
+  },
+  "test-life_00000594": {
+    "action": "replace",
+    "text": "그 문서는 (1982년)/(천 구백 팔십 이 년)에 대중에게 공개되었다."
+  },
+  "test-life_00000605": {
+    "action": "replace",
+    "text": "이번 일요일 저녁 (8시)/(여덟 시)에 그 다큐멘터리가 방영될 것이다. 그 서류들은 열람을 할 수 있다."
+  },
+  "test-life_00000611": {
+    "action": "replace",
+    "text": "이 서류는 늦어도 (18일)/(십 팔 일) 화요일까지는 도착해야 합니다."
+  },
+  "test-life_00000612": {
+    "action": "replace",
+    "text": "표시된 참조 문서들은 부록 (2)/(이)에 첨부 되었다."
+  },
+  "test-life_00000617": {
+    "action": "replace",
+    "text": "그 비실거리는 노인은 계단에서 넘어질 뻔 했다. 내가 응원하는 야구팀이 (3)/(세) 게임 연속으로 지고 있다."
+  },
+  "test-life_00000618": {
+    "action": "replace",
+    "text": "오늘 밤 다저스가 뉴욕에서 경기할 거야. 다저스는 샌프란시스코 자이언츠를 (10대)/(십 대) (1)/(일)로 묵사발 냈다."
+  },
+  "test-life_00000652": {
+    "action": "replace",
+    "text": "개가 양탄자에 오줌을 쌌다. 그 개의 털속에 벼룩이 있다. 그 개는 입 마개를 하고 있다. 그 개는 지난 (10년)/(십 년)간 그녀의 가까운 친구였다. 개가 묶여 있던 가죽끈을 끊었다."
+  },
+  "test-life_00000658": {
+    "action": "replace",
+    "text": "사진 속의 개는 입에 병아리를 물고 있다. 사진 속의 강아지는 (13살)/(열 세 살)된 치와와입니다."
+  },
+  "test-life_00000701": {
+    "action": "replace",
+    "text": "개가 혓바닥으로 핥다. 개는 그 낯선 사람에게 달려들었다. 그 개는 초기에 몇가지 기술을 익혔지. 개는 혀를 축 늘어뜨리고 있었다. 개가 사납게 짖으며 방향을 바꾸어 그를 향해 돌진했다. 개가 자기 발을 핥았다. 그 개가 내 손을 핥았다. 그 개는 기지개를 편 후에 내 옆 카페트에 엎드려 있는 것을 좋아해. 그 개는 (6년)/(윤 년) 이상 더 살았다. 개가 혀를 축 늘어뜨리고 있었다. 그 개는 나와 함께 집으로 오고 싶어하는 것처럼 보였다. 그 개는 슬픔에 잠긴 표정으로 나를 바라보았다.  그 개는 불쌍해 보였다. 개가 애절한 눈빛으로 주인의 모습을 좇았다. 그 개는 정말 애처로워 보였다. 개가 애원하듯 그녀를 올려다보았다. 개는 그녀의 장난감을 본다."
+  },
+  "test-life_00000710": {
+    "action": "replace",
+    "text": "개는 주인에게 순종했다. 그 개는 주인에게 복종하고 집으로 갔다. 개는 종종 밤에 울부짖는다. 개가 발로 내 소매를 건드렸다. 그 개는 식빵 바구니에 코를 들이밀었다. 그 개똥이 내 새 운동화를 망쳐놨지 뭐야! 개는 그를 위험에서 구했다. 개는 그 소리에 귀를 쫑긋 세웠다. 개가 귀를 세웠다. 그 개는 (3마리)/(세 마리)의 새끼를 낳았다."
+  },
+  "test-life_00000770": {
+    "action": "replace",
+    "text": "그 개는 (6개월)/(육 개월) 동안 격리되어 있었다."
+  },
+  "test-life_00000823": {
+    "action": "replace",
+    "text": "개를 다듬어 주는 중인데, (3시)/(세 시)까지는 돌아올 거야."
+  },
+  "test-life_00000834": {
+    "action": "replace",
+    "text": "이 전쟁견들은 (98%)/(구십 팔 퍼센트)의 정확도를 지니고 있다."
+  },
+  "test-life_00000866": {
+    "action": "replace",
+    "text": "그 인형은 (50만원)/(오십 만 원)이었다."
+  },
+  "test-life_00000867": {
+    "action": "replace",
+    "text": "그 인형은 그에게 (50만원)/(오십 만 원)을 지불하게 했다."
+  },
+  "test-life_00000870": {
+    "action": "replace",
+    "text": "인형은 약 (10)/(십)에서 (15만원)/(십 오만 원)에 팔릴 예정입니다."
+  },
+  "test-life_00000883": {
+    "action": "replace",
+    "text": "달러와 엔화가 각각 (2%)/(이 퍼센트)와 (3%)/(삼 퍼센트)씩 올랐다"
+  },
+  "test-life_00000884": {
+    "action": "replace",
+    "text": "달러 가치가 (200원)/(이백 원) 하락한 채 마감되었다."
+  },
+  "test-life_00000890": {
+    "action": "replace",
+    "text": "엔-달러 환율이 (120엔)/(백 이십 엔) 선을 맴돌고 있다."
+  },
+  "test-life_00000891": {
+    "action": "replace",
+    "text": "달러 시세가 (1,300원)/(천 삼백 원)으로 내렸다."
+  },
+  "test-life_00000895": {
+    "action": "replace",
+    "text": "오늘 달러 시세가 (1,000원)/(천 원)으로 급락했다."
+  },
+  "test-life_00000897": {
+    "action": "replace",
+    "text": "뉴스에 의하면 달러 가치가 (111엔)/(백 십 일 엔)을 넘었어요."
+  },
+  "test-life_00000899": {
+    "action": "replace",
+    "text": "달러가 (9분의 1원)/(구 분의 일 원) 정도 상승했다."
+  },
+  "test-life_00000917": {
+    "action": "replace",
+    "text": "돌고래들은 (30분)/(삼십 분) 동안 배 주위를 헤엄쳤습니다."
+  },
+  "test-life_00000947": {
+    "action": "replace",
+    "text": "(1989년)/(천 구백 팔십 구 년) 이후 미국 세력의 크기는 국제관계에 있어 지배적인 요인이 되었다."
+  },
+  "test-life_00000950": {
+    "action": "replace",
+    "text": "눈 색깔의 우세한 유전자는 (OCA2)/(OCA 투)라고."
+  },
+  "test-life_00000962": {
+    "action": "replace",
+    "text": "기부는 (4번)/(사 번) 큰 픽업 트럭을 가득 채웠다."
+  },
+  "test-life_00000981": {
+    "action": "replace",
+    "text": "운명의 날 시계는 (1998년)/(천 구백 구십 팔 년)에 보여졌다."
+  },
+  "test-life_00001054": {
+    "action": "replace",
+    "text": "(6번선)/(육 번선) 문이 닫힙니다."
+  },
+  "test-life_00001152": {
+    "action": "replace",
+    "text": "그 문들은 (1년)/(일 년)간 봉인되어 있었다."
+  },
+  "test-life_00001164": {
+    "action": "replace",
+    "text": "(4월)/(사 월)에 문을 닫습니다."
+  },
+  "test-life_00001166": {
+    "action": "replace",
+    "text": "그 출입구는 노르만 작품을 (19세기)/(십 구 세기)에 재현한 것이다."
+  },
+  "test-life_00001172": {
+    "action": "replace",
+    "text": "두산 베어스가 마침내 (18회)/(십 팔 회)에 득점을 했다."
+  },
+  "test-life_00001185": {
+    "action": "replace",
+    "text": "제가 제시한 성인 복용량을 반이나 (4분의 1)/(사 분의 일)로 줄여도 좋습니다."
+  },
+  "test-life_00001219": {
+    "action": "replace",
+    "text": "다우 지수가 내년에 (20%)/(이십 퍼센트)가 오를 것이다."
+  },
+  "test-life_00001220": {
+    "action": "replace",
+    "text": "오늘 오전에 다우존스 지수가 (15포인트)/(십 오 포인트) 하락했다."
+  },
+  "test-life_00001222": {
+    "action": "replace",
+    "text": "다우존스 지수가 (8월)/(팔 월)에 (9100)/(구천 백)에 육박했었다."
+  },
+  "test-life_00001225": {
+    "action": "replace",
+    "text": "폭우는 마침내 (5시)/(다섯 시)에 그쳤다."
+  },
+  "test-life_00001237": {
+    "action": "replace",
+    "text": "다운타운수족관은 매일 오전 (9시)/(아홉 시)부터 오후 (9시)/(아홉 시)까지 문을 엽니다."
+  },
+  "test-life_00001238": {
+    "action": "replace",
+    "text": "서울 도심을 통과하는 퍼레이드는 (5년)/(오 년)마다 실시된다."
+  },
+  "test-life_00001245": {
+    "action": "replace",
+    "text": "DPA는 거의 (10년)/(십 년)이 되었다."
+  },
+  "test-life_00001255": {
+    "action": "replace",
+    "text": "(1998년)/(천 구백 구십 팔 년) 북아일랜드법안의 입안자들이 일을 그르쳤다."
+  },
+  "test-life_00001262": {
+    "action": "replace",
+    "text": "난 용을 (4월 21, 22일)/(사 월 이십 일 이십 이 일) 오전 (10시)/(열 시)부터 오후 (6시)/(여섯 시)에 사냥했다."
+  },
+  "test-life_00001278": {
+    "action": "replace",
+    "text": "그 배수 시설은 (20세기)/(이십 세기) 초에 설치된 것이다."
+  },
+  "test-life_00001280": {
+    "action": "replace",
+    "text": "드라마는 매주 금요일 (9시)/(아홉 시) (55분)/(오십 오 분)에 방송된다."
+  },
+  "test-life_00001281": {
+    "action": "replace",
+    "text": "드라마는 매주 토요일과 일요일 (9시)/(아홉 시) (50분)/(오십 분)에 방송된다."
+  },
+  "test-life_00001294": {
+    "action": "replace",
+    "text": "그 연극은 총 (5막)/(오 막)으로 구성되었다."
+  },
+  "test-life_00001300": {
+    "action": "replace",
+    "text": "이 드라마는 (5월)/(오 월)에 방영될 예정이다."
+  },
+  "test-life_00001310": {
+    "action": "replace",
+    "text": "드라마는 (8월)/(팔 월)에 방송될 것이다."
+  },
+  "test-life_00001311": {
+    "action": "replace",
+    "text": "이 드라마는 (6월)/(유 월) (23일)/(이십 삼 일)에 방영된다."
+  },
+  "test-life_00001314": {
+    "action": "replace",
+    "text": "이 연극은 (8월)/(팔 월) (10일)/(십 일)까지 계속될 것이다."
+  },
+  "test-life_00001316": {
+    "action": "replace",
+    "text": "연극은 인기가 많아서 (6개월)/(육 개월) 동안 계속 공연되었다."
+  },
+  "test-life_00001317": {
+    "action": "replace",
+    "text": "이 드라마의 시청률은 약 (40%)/(사십 퍼센트) 정도를 유지해왔다."
+  },
+  "test-life_00001354": {
+    "action": "replace",
+    "text": "그림은 (6천)/(육천)에서 (7천년)/(칠천 년) 전에 그려진 것으로 추정된다."
+  },
+  "test-life_00001389": {
+    "action": "replace",
+    "text": "드레스는 약 (3만원)/(삼만 원)에서 (5만원)/(오만 원) 사이에 팔릴 것으로 예상됐습니다"
+  },
+  "test-life_00001398": {
+    "action": "replace",
+    "text": "이 드레스는 (4,000개)/(사천 개)의 수정으로 만들어졌습니다."
+  },
+  "test-life_00001440": {
+    "action": "replace",
+    "text": "훈련은 사이렌과 함께 오후 (2시)/(두 시)에 시작된다."
+  },
+  "test-life_00001441": {
+    "action": "replace",
+    "text": "훈련은 (20분)/(이십 분) 정도 지속되며 또 한 번의 사이렌과 함께 종료되었다."
+  },
+  "test-life_00001442": {
+    "action": "replace",
+    "text": "훈련은 (20분)/(이십 분)간 지속되고 끝이 나면 모든 것이 원상복귀됩니다."
+  },
+  "test-life_00001444": {
+    "action": "replace",
+    "text": "예전에는 매달 (15일)/(십 오 일)에 실시되었지만, 지금은 일 년에 두 차례만 실시됩니다."
+  },
+  "test-life_00001569": {
+    "action": "replace",
+    "text": "그 운전자는 혈중 알코올의 법적 허용 수치를 (3배)/(세 배)나 초과한 상태였다."
+  },
+  "test-life_00001583": {
+    "action": "replace",
+    "text": "(3개월)/(삼 개월)간 정지되었다."
+  },
+  "test-life_00001602": {
+    "action": "replace",
+    "text": "이 무인기는 청와대 상공에서 약 (20초)/(이십 초) 가량 머문 것으로 추정된다."
+  },
+  "test-life_00001610": {
+    "action": "replace",
+    "text": "(8월)/(팔 월)의 급상승 후에 하락이 나타난다."
+  },
+  "test-life_00001616": {
+    "action": "replace",
+    "text": "(1시간)/(한 시간) 뒤에 투하합니다"
+  },
+  "test-life_00001635": {
+    "action": "replace",
+    "text": "그곳의 가뭄은 (100년)/(백 년) 만에 최악이었다.그 가뭄은 불길한 전조였다."
+  },
+  "test-life_00001670": {
+    "action": "replace",
+    "text": "그 약물이 (200건)/(이백 건)의 사망을 초래한 것으로 의심된다."
+  },
+  "test-life_00001741": {
+    "action": "replace",
+    "text": "드라이 클리닝을 하면 얼룩을 지울 수 있어요.건기는 (11월)/(십 일 월)에 시작해 (4월)/(사 월)까지 계속됩니다."
+  },
+  "test-life_00001756": {
+    "action": "replace",
+    "text": "공작부인은 (11시간)/(열 한 시간) 이상 진통을 겪었으며, 왕자의 무게는 (3.8kg)/(삼 점 팔 키로그램)이다."
+  },
+  "test-life_00001773": {
+    "action": "replace",
+    "text": "그 새끼 오리들은 태어난 지 (24시간)/(이십 사 시간) 밖에 안됐다.새끼오리들이 엄마오리 가까이에서 헤엄치고 있다.새끼 오리들은 헤엄쳐 가 버리고 제리 혼자 남았어요.만반의 준비가 되어있다.오리들이 물을 찾고 있다."
+  },
+  "test-life_00001782": {
+    "action": "replace",
+    "text": "반납일은 (2월)/(이 월) (22일)/(이십 이 일)입니다."
+  },
+  "test-life_00001786": {
+    "action": "replace",
+    "text": "이 공작 부부는 (2011년)/(이천 십 일 년) (4월)/(사 월) (29일)/(이십 구 일)에 호화로운 결혼식을 올렸다."
+  },
+  "test-life_00001806": {
+    "action": "replace",
+    "text": "그 두 산악인은 (2014년)/(이천 십 사 년) (12월)/(십 이 월) (27일)/(이십 칠 일)에 장비 없이 등산을 시작했다."
+  },
+  "test-life_00001807": {
+    "action": "replace",
+    "text": "이 (2인조)/(이 인조)는 최근 영국 전국구 배드민턴 대회 남자복식 경기에서 우승을 차지했다."
+  },
+  "test-life_00001810": {
+    "action": "replace",
+    "text": "그 (2인조)/(이 인조)는 작년 공연에서 정말 큰 인기를 끌었다."
+  },
+  "test-life_00001813": {
+    "action": "replace",
+    "text": "산모가 산후조리원에 머무는 기간은 보통 (2주)/(이 주) 정도 됩니다."
+  },
+  "test-life_00001847": {
+    "action": "replace",
+    "text": "네덜란드 팀은 (5위)/(오 위)로 떨어졌다."
+  },
+  "test-life_00001848": {
+    "action": "replace",
+    "text": "네덜란드 팀이 켈트 팀을 (5)/(오) 대 (1)/(일)로 가뿐히 이겼다."
+  },
+  "test-life_00001904": {
+    "action": "replace",
+    "text": "기존의 연구들은 (1천년)/(일천 년)을 거슬러 올라가는 간접적인 자연기후 증거에 기초하고 있습니다."
+  },
+  "test-life_00001909": {
+    "action": "replace",
+    "text": "가장 초기의 영화는 단 (10분)/(십 분) 동안 상연됐으며,"
+  },
+  "test-life_00001911": {
+    "action": "replace",
+    "text": "가장 초기의 영화는 단 (10분)/(십 분) 동안 상연됐다"
+  },
+  "test-life_00001914": {
+    "action": "replace",
+    "text": "빠르면 내일 오후 (4시)/(네 시)까지 될 겁니다."
+  },
+  "test-life_00001917": {
+    "action": "replace",
+    "text": "그 부족에 관한 최초의 기록은 (1880년)/(천 팔백 팔십 년)대로 거슬러 올라간다."
+  },
+  "test-life_00001918": {
+    "action": "replace",
+    "text": "가장 빨리 보실 수 있는 시간은 오후 (5시)/(다섯 시)입니다."
+  },
+  "test-life_00001920": {
+    "action": "replace",
+    "text": "일본의 신뢰할 수 있는 가장 오랜 역사상의 기록은 (5세기)/(오 세기) 이후의 것이다."
+  },
+  "test-life_00001922": {
+    "action": "replace",
+    "text": "(1970년)/(천 구백 칠십 년)대 초"
+  },
+  "test-life_00001952": {
+    "action": "replace",
+    "text": "페넥여우의 귀는 약 (15센티미터)/(십 오 센치미터)까지 자란다."
+  },
+  "test-life_00001963": {
+    "action": "replace",
+    "text": "지구는 지난 (100년)/(백 년) 동안 점점 따뜻해졌어요."
+  },
+  "test-life_00001969": {
+    "action": "replace",
+    "text": "지구는 둘레가 거의 (2만 5천)/(이만 오천) 마일이다."
+  },
+  "test-life_00001998": {
+    "action": "replace",
+    "text": "지구는 그 축을 중심으로 (24시간)/(이십 사 시간)에 일회전을한다"
+  },
+  "test-life_00002006": {
+    "action": "replace",
+    "text": "지구는 (1년)/(일 년)을 주기로 태양 주위를 공전한다"
+  },
+  "test-life_00002017": {
+    "action": "replace",
+    "text": "태양의 둘레를 한 바퀴 순환하는 데 (1년)/(일 년)이 걸린다."
+  },
+  "test-life_00002037": {
+    "action": "replace",
+    "text": "이지진은 리히터 규모 강도 (7.6)/(칠 점 육) 강도를 기록했다."
+  },
+  "test-life_00002041": {
+    "action": "replace",
+    "text": "이 지진은 진도 (4.2)/(사 점 이)로 측정되었다."
+  },
+  "test-life_00002042": {
+    "action": "replace",
+    "text": "지진은 리히터 계로 강도 (7.6)/(칠 점 육)인 것으로 측정되었다."
+  },
+  "test-life_00002043": {
+    "action": "replace",
+    "text": "이 지진은 진도 (7.9)/(칠 점 구)로 측정되었다."
+  },
+  "test-life_00002044": {
+    "action": "replace",
+    "text": "이 지진은 리히터 규모 (7)/(칠)을 기록했다."
+  },
+  "test-life_00002047": {
+    "action": "replace",
+    "text": "지진 때문에 발생한 화재는 (4일)/(사 일) 동안 지속되었다."
+  },
+  "test-life_00002048": {
+    "action": "replace",
+    "text": "이번 지진은 리히터 지진계로 (5.7)/(오 점 칠)을 기록했다."
+  },
+  "test-life_00002049": {
+    "action": "replace",
+    "text": "그 지진은 리히터 지진계로 진도 (2)/(이)를 기록했다."
+  },
+  "test-life_00002051": {
+    "action": "replace",
+    "text": "이번 지진으로 (1천 800만)/(천 팔백 만) 명의 사망자가 발생했다."
+  },
+  "test-life_00002056": {
+    "action": "replace",
+    "text": "어제 이 곳에서 일어난 지진은 리히터 (4규모)/(사 규모)에 해당됐어요."
+  },
+  "test-life_00002169": {
+    "action": "replace",
+    "text": "(문화센터)/(문화센타) 가 본 지가 몇 개월 됐나 봐."
+  },
+  "test-life_00002362": {
+    "action": "replace",
+    "text": "하루에 물 (2 리터)/(이 리터)를 마셔주는 건 좋은 (거래)/(거애래*)."
+  },
+  "test-life_00002419": {
+    "action": "replace",
+    "text": "오늘 뭐 먹으러 갈 건데? 나 떡볶이가 너무 먹고 싶은데 먹으러 가면 안 돼?"
+  },
+  "test-life_00002436": {
+    "action": "replace",
+    "text": "복구는 시작했지만 도저히 살 수가 없는 마을이 돼버렸어."
+  },
+  "test-life_00002455": {
+    "action": "replace",
+    "text": "우리가 만나지 벌써 (1000일)/(천 일)이나 됐네."
+  },
+  "test-life_00002509": {
+    "action": "replace",
+    "text": "머리가 잘 돌아가지 않아. 오늘 (1교시)/(일 교시) 했거든."
+  },
+  "test-life_00002534": {
+    "action": "replace",
+    "text": "누구를 찾으려니까 그 사람이 없어지면 너무 힘들더라 가족들도 항상 내 편이 돼줄 수는 있지만 내가 기대면 받아줄 수 있다고는 생각 안 해."
+  },
+  "test-life_00002553": {
+    "action": "replace",
+    "text": "등산해본 지가 오래돼서 잘 따라갈 수 있을까 모르겠네."
+  },
+  "test-life_00002703": {
+    "action": "replace",
+    "text": "통학버스는 (8시)/(여덟 시)에 역 근처로 올 거야."
+  },
+  "test-life_00003199": {
+    "action": "replace",
+    "text": "다른 지점에서 샀는데 이 매장에서 교환돼요?"
+  },
+  "test-life_00003501": {
+    "action": "replace",
+    "text": "이번 정류장에서 내려 갈아타면 돼요."
+  },
+  "test-life_00003540": {
+    "action": "replace",
+    "text": "오랜만에 눈 소식이 있는 (2월)/(이 월) (8일)/(팔 일) 목요일 문을 엽니다."
+  },
+  "test-life_00003665": {
+    "action": "replace",
+    "text": "(KF94)/(KF 구십 사) 마스크는 면 마스크보다 더 안전할걸?"
+  },
+  "test-life_00003883": {
+    "action": "replace",
+    "text": "냉면집은 만두가 맛있어야 돼."
+  },
+  "test-life_00003945": {
+    "action": "replace",
+    "text": "어? 너 휴대폰 바꿨어? 처음보는 것 같은데."
+  },
+  "test-life_00004106": {
+    "action": "replace",
+    "text": "(1박2일)/(일 박 이 일)로 여행 갈 거니까 짐은 그냥 간편하게 가져와."
+  },
+  "test-life_00004219": {
+    "action": "replace",
+    "text": "컴퓨터가 다운됐어 어떻게 해."
+  },
+  "test-life_00004317": {
+    "action": "replace",
+    "text": "낮에 집에 있을 땐 암막 (커튼을)/(커텐을) 꼭 쳐야 돼."
+  },
+  "test-life_00004501": {
+    "action": "replace",
+    "text": "전화받고 커피 타는데 드레스라도 입어야 돼?"
+  },
+  "test-life_00004561": {
+    "action": "replace",
+    "text": "내일은 보건소에 가봐야 돼서 어쩔 수 없어?"
+  },
+  "test-life_00004753": {
+    "action": "replace",
+    "text": "자동완성 기능은 별로 도움이 안 돼요."
+  },
+  "test-life_00005033": {
+    "action": "replace",
+    "text": "이해는 돼요. 그렇지만 내가 해야 되잖아요."
+  },
+  "test-life_00005367": {
+    "action": "replace",
+    "text": "나 남동생 (1명)/(한 명)이랑 여동생 (1명)/(한 명) 있어."
+  },
+  "test-life_00005406": {
+    "action": "replace",
+    "text": "이 방은 환기가 안돼서 음식물 금지야."
+  },
+  "test-life_00005829": {
+    "action": "replace",
+    "text": "이 동네 다시 오게 돼서 너도 보고 좋다."
+  },
+  "test-life_00005972": {
+    "action": "replace",
+    "text": "내 폰 너무 오래돼서 렉이 너무 많이 걸려."
+  },
+  "test-life_00006115": {
+    "action": "replace",
+    "text": "비대면 수업은 집중이 잘 안돼서 싫어."
+  },
+  "test-life_00006549": {
+    "action": "replace",
+    "text": "오늘 날씨는 (23도)/(이십 삼 도) 정도 된다고 했어."
+  },
+  "test-life_00007459": {
+    "action": "replace",
+    "text": "어릴 때 너 담임 선생님 성함이 어떻게 돼?"
+  },
+  "test-life_00007485": {
+    "action": "replace",
+    "text": "내 핸드폰은 오래돼서 느린 편이야."
+  },
+  "test-life_00007623": {
+    "action": "replace",
+    "text": "정신 차려보니 어느새 (30대)/(삼십 대) 후반이 되어있는 거예요."
+  },
+  "test-life_00007696": {
+    "action": "replace",
+    "text": "그러면 병원에 가보는게 어때? 약을 먹던지."
+  },
+  "test-life_00007707": {
+    "action": "replace",
+    "text": "오늘 아침 (6시)/(여섯 시) 반에 학교에 가고 있었어."
+  },
+  "test-life_00007850": {
+    "action": "replace",
+    "text": "반품 시킨지 일주일이 지났는데 아직도 환불이 안됐어요."
+  },
+  "test-life_00007973": {
+    "action": "replace",
+    "text": "성인이 돼서도 부모로부터 독립하지 못한 사람들을 캥거루족이라고 하지."
+  },
+  "test-life_00008141": {
+    "action": "replace",
+    "text": "그래도 한꺼번에 (300원)/(삼백 원)이나 인상하는 건 너무해."
+  },
+  "test-life_00008221": {
+    "action": "replace",
+    "text": "그거 오래돼서 곰팡이가 쫙 폈는데 계속 (드세요)/(드슈)?"
+  },
+  "test-life_00008365": {
+    "action": "replace",
+    "text": "산에 안 가본 지 엄청 오래됐어."
+  },
+  "test-life_00008596": {
+    "action": "replace",
+    "text": "시중에 (2천만)/(이천 만) 원도 없는데 어떻게 전세를 구해."
+  },
+  "test-life_00009047": {
+    "action": "replace",
+    "text": "언니 이거 현금으로 하면 싸게 안 돼요?"
+  },
+  "test-life_00009240": {
+    "action": "replace",
+    "text": "시집갈 때 다 됐는데 뭐가 그래 걱정이고."
+  },
+  "test-life_00009388": {
+    "action": "replace",
+    "text": "지금은 하루 종일 일을 해야 돼서 너무 피곤해."
+  },
+  "test-life_00009647": {
+    "action": "replace",
+    "text": "병원 가서 건강검진할 때 됐어."
+  },
+  "test-life_00009883": {
+    "action": "replace",
+    "text": "청약 저축은 미리 할수록 도움이 돼요."
+  },
+  "test-life_00010065": {
+    "action": "replace",
+    "text": "보험이 만기 돼서 재계약을 했어."
+  },
+  "test-life_00010073": {
+    "action": "replace",
+    "text": "온난화가 계속되면 이대로는 안돼요."
+  },
+  "test-life_00010174": {
+    "action": "replace",
+    "text": "학교 개학이 또 열흘이나 연기됐어."
+  },
+  "test-life_00010307": {
+    "action": "replace",
+    "text": "오래 사는 것도 건강해야 가능한 거죠."
+  },
+  "test-life_00010339": {
+    "action": "replace",
+    "text": "청약이 돼도 그 돈을 어디서 다 구해요."
+  },
+  "test-life_00010924": {
+    "action": "replace",
+    "text": "불꽃놀이를 저녁 (10시)/(열 시)부터 시작한대."
+  },
+  "test-life_00010944": {
+    "action": "replace",
+    "text": "오늘은 무조건 (스쾃)/(스쿼트) (100개)/(백 개) 할 거야. 너도 같이 할 거지?"
+  },
+  "test-life_00011141": {
+    "action": "replace",
+    "text": "요즘 소화가 잘 안돼서 걱정이야."
+  },
+  "test-life_00011397": {
+    "action": "replace",
+    "text": "주택 청약 당첨됐으면 소원이 없겠다."
+  },
+  "test-life_00011882": {
+    "action": "replace",
+    "text": "펀드 마이너스 갔다가 이제 플러스돼서 환매했어요."
+  },
+  "test-life_00012171": {
+    "action": "replace",
+    "text": "영화 예매할 때 선결제 해야 돼요?"
+  },
+  "test-life_00012588": {
+    "action": "replace",
+    "text": "괌도 휴양지에 포함돼요???"
+  },
+  "test-life_00012639": {
+    "action": "replace",
+    "text": "가족 여행 안 간 지가 벌써 (10년)/(십 년)이나 됐네요."
+  },
+  "test-life_00012660": {
+    "action": "replace",
+    "text": "축제 중에는 어디 가시면 안 돼요."
+  },
+  "test-life_00013179": {
+    "action": "replace",
+    "text": "방송에 대한 자기 생각 얘기하면 돼요. 방송 전반적인 거요."
+  },
+  "test-life_00013245": {
+    "action": "replace",
+    "text": "나는 (오메가3)/(오메가 쓰리)를 먹고 있지."
+  },
+  "test-life_00013524": {
+    "action": "replace",
+    "text": "카카오뱅크에서는 신용 (4등급)/(사 등급)도 (3%)/(삼 퍼센트) 금리로 대출이 가능합니다."
+  },
+  "test-life_00013746": {
+    "action": "replace",
+    "text": "집에서 매일 (10분)/(십 분)이라도 꾸준히 운동하시는 게 좋아요."
+  },
+  "test-life_00013802": {
+    "action": "replace",
+    "text": "우리의 후손들에게 넘겨줄 땅이기 때문에 우리가 환경에 더욱 신경 써야 돼요."
+  },
+  "test-life_00013891": {
+    "action": "replace",
+    "text": "발도 건강관리해야 돼서 발 마사지 받았어."
+  },
+  "test-life_00013914": {
+    "action": "replace",
+    "text": "아버지 식사 준비다 됐어요 드세요."
+  },
+  "test-life_00014242": {
+    "action": "replace",
+    "text": "청소업체가 따로 있어서 우리는 청소 안 해도 돼."
+  },
+  "test-life_00014257": {
+    "action": "replace",
+    "text": "어머니 건강을 잘 체크해야 돼요."
+  },
+  "test-life_00014295": {
+    "action": "replace",
+    "text": "*이젠 경제 상식도 필수로 알아야 돼요."
+  },
+  "test-life_00014318": {
+    "action": "replace",
+    "text": "고향이 서울이라서 추석에 안 내려가도 돼요."
+  },
+  "test-life_00014612": {
+    "action": "replace",
+    "text": "난 이번 주는 시간이 안 돼서 다음 주에 건강검진 예약했어."
+  },
+  "test-life_00014747": {
+    "action": "replace",
+    "text": "지진 시 대피하는 방법을 꼭 외워야 돼요."
+  },
+  "test-life_00014968": {
+    "action": "replace",
+    "text": "영어 성적이 제일 걱정이 돼요."
+  },
+  "test-life_00015454": {
+    "action": "replace",
+    "text": "내가 잘 돼서 생일상 잘 챙겨 먹을 (거야)/(꺼야)."
+  },
+  "test-life_00015636": {
+    "action": "replace",
+    "text": "이제 그 보험을 해지해야 돼요."
+  },
+  "test-life_00016202": {
+    "action": "replace",
+    "text": "내일 연세대 앞에서 (5시)/(다섯 시)에 봐요."
+  },
+  "test-life_00016672": {
+    "action": "replace",
+    "text": "아/ 기말시험 준비는 잘 돼가? 다음 주에 바로 시험인가?"
+  },
+  "test-life_00018191": {
+    "action": "replace",
+    "text": "그런데 충전이 덜 돼서 다 하고 연락할게."
+  },
+  "test-life_00018255": {
+    "action": "replace",
+    "text": "저기/ 얼마 전에 친 시험 때문에 (3일)/(삼 일) 동안 (4시간)/(네 시간)밖에 못 잔 것 같아."
+  },
+  "test-life_00018311": {
+    "action": "replace",
+    "text": "저기/ 점점 피로가 누적되는 느낌인데 빨리 자야 돼."
+  },
+  "test-life_00018739": {
+    "action": "replace",
+    "text": "자산관리사 채용에 합격됐어요."
+  },
+  "test-life_00018779": {
+    "action": "replace",
+    "text": "가을 됐으니까 이불도 바꿀 겸 대청소해야겠어요."
+  },
+  "test-life_00019000": {
+    "action": "replace",
+    "text": "다이어트를 할 거면 각오를 다져야 돼."
+  },
+  "test-life_00019278": {
+    "action": "replace",
+    "text": "그런데 이 쇼핑몰의 (2층)/(이 층)에서 살 수 있어요."
+  },
+  "test-life_00019309": {
+    "action": "replace",
+    "text": "저기/ 내일은 일찍 출근해야 돼. 먼저 잘게요 여보?"
+  },
+  "test-life_00019378": {
+    "action": "replace",
+    "text": "저기/ 괜찮아. 지금이라도 연락돼서 너무 다행이지."
+  },
+  "test-life_00020190": {
+    "action": "replace",
+    "text": "내가 노력해서 될 (일이었으면)/(일이였으면) 진작에 됐지 않을까?"
+  },
+  "test-life_00020262": {
+    "action": "replace",
+    "text": "저기/ 토마스 씨는 언제부터 한국 여행에 관심을 갖게 됐어요?"
+  },
+  "test-life_00020275": {
+    "action": "replace",
+    "text": "아니/ 배가 고플 땐 그 어떤 것에도 집중하기 너무 힘들게 돼요."
+  },
+  "test-life_00020374": {
+    "action": "replace",
+    "text": "아니/ 신혼여행도 제주도로 가게 돼서 우울하대."
+  },
+  "test-life_00020505": {
+    "action": "replace",
+    "text": "아니/ 준비 다 돼서 곧 나갑니다."
+  },
+  "test-life_00020662": {
+    "action": "replace",
+    "text": "아니/ 도움이 필요하면 언제든 부탁해도 돼요."
+  },
+  "test-life_00020826": {
+    "action": "replace",
+    "text": "아니/ 나 요즘 머리가 복잡하거든. 일이 잘 안돼."
+  },
+  "test-life_00020839": {
+    "action": "replace",
+    "text": "아니/ 주어진 시간을 제대로 중요하게 살아야 돼."
+  },
+  "test-life_00021232": {
+    "action": "replace",
+    "text": "아니/ 요즘 배달 어플 배달비 너무 비싸서 못 시켜 먹겠어."
+  },
+  "test-life_00021333": {
+    "action": "replace",
+    "text": "아니/ 이해가 안 돼서 그러는데 예를 좀 들어주시겠어요?"
+  },
+  "test-life_00021648": {
+    "action": "replace",
+    "text": "그/ 어렸을 때 공부를 많이 해 놔야 돼 공부는 때가 있거든. 휴지가 다 떨어졌는데 혹시 채워주실 수 있을까요?"
+  },
+  "test-life_00021663": {
+    "action": "replace",
+    "text": "그/ 근데 지방은 교통이 불편해서 차가 있어야 돼요."
+  },
+  "test-life_00022143": {
+    "action": "replace",
+    "text": "저/ 전기 요금이 너무 많이 나와서 에어컨을 아껴 써야 돼."
+  },
+  "test-life_00022341": {
+    "action": "replace",
+    "text": "저/ 내가 오늘 늦게까지 일해야 돼서 지금 가서 또 집에서 일해야 해."
+  },
+  "test-life_00022486": {
+    "action": "replace",
+    "text": "아/ 이게 그런 게 아니라 어쩌다 보니까 이렇게 됐어."
+  },
+  "test-life_00023196": {
+    "action": "replace",
+    "text": "저기/ 적금 불입액을 너무 많이 해서 부담이 돼요."
+  },
+  "test-life_00023409": {
+    "action": "replace",
+    "text": "아니/ 너는 자산관리 잘 하고 있니? 나는 잘 안돼서 걱정이야."
+  },
+  "test-life_00023659": {
+    "action": "replace",
+    "text": "저기/ 청약에 들어두어서 조금 안심이 돼요."
+  },
+  "test-life_00023753": {
+    "action": "replace",
+    "text": "아니/ 습관이 안돼서 영양제 먹는 걸 깜빡해."
+  },
+  "test-life_00023876": {
+    "action": "replace",
+    "text": "아니/ 보험도 잘 보고 가입해야 돼요."
+  },
+  "test-life_00024078": {
+    "action": "replace",
+    "text": "저기/ 선생님이 되려면 어떻게 해야 돼요?"
+  },
+  "test-life_00024753": {
+    "action": "replace",
+    "text": "청약 (1순위)/(일 순위) 조건에 해당되니?"
+  },
+  "test-life_00024941": {
+    "action": "replace",
+    "text": "저/ 네. 들어오세요. 그냥 들어오시면 돼요."
+  },
+  "test-life_00025080": {
+    "action": "replace",
+    "text": "저기/ 아무리 급하다고 해도 금리가 높은 사채는 쓰면 안 돼요."
+  },
+  "test-life_00025106": {
+    "action": "replace",
+    "text": "아니/ 너는 지금 돼보고 싶은 직업이 뭐니?"
+  },
+  "test-life_00025119": {
+    "action": "replace",
+    "text": "그런데 나 이번에 이벤트 응모에 당첨돼서 사이판으로 해외여행 가기로 했어."
+  },
+  "test-life_00025455": {
+    "action": "replace",
+    "text": "저/ (네가)/(너가) 준 스카프 여름에 땀 닦는 용도로 잘 쓰고 있어. 갑자기 물먹는 하마가 생각이 났어 제습제 사야 돼."
+  },
+  "test-life_00025519": {
+    "action": "replace",
+    "text": "그/ 이런 미안하네. 내가 좀 늦었지? 가장 자연스럽게 말하는 사람을 고르면 돼요."
+  },
+  "test-life_00025651": {
+    "action": "replace",
+    "text": "그런데 (0%)/(영 프로)대 금리라는 게 정말 있어?"
+  },
+  "test-life_00025658": {
+    "action": "replace",
+    "text": "그런데 건강검진 (2년)/(이 년)에 한 번 받는 것 아닌가요?"
+  },
+  "test-life_00025751": {
+    "action": "replace",
+    "text": "음/ 요즘 코로나 (19)/(일 구) 때문에 여기저기 다 난리야."
+  },
+  "test-life_00025855": {
+    "action": "replace",
+    "text": "그런데 아주머니. 이건 가격이 어떻게 돼요?"
+  },
+  "test-life_00025873": {
+    "action": "replace",
+    "text": "저/ 화장 안 하고 가도 돼서 편하긴 한데 불편해요."
+  },
+  "test-life_00026207": {
+    "action": "replace",
+    "text": "청약 당첨돼도 계약금이 없어서 못 해요."
+  },
+  "test-life_00026276": {
+    "action": "replace",
+    "text": "아/ 코로나 지겹다 짜증 난다 제발 종식돼라."
+  },
+  "test-life_00026292": {
+    "action": "replace",
+    "text": "음/ 고향을 떠나온 지 너무 오래돼서 기억이 가물가물해요."
+  },
+  "test-life_00026521": {
+    "action": "replace",
+    "text": "음/ 체력 소모가 잘 안돼서 그런지 낮잠 재우기가 힘드네요."
+  },
+  "test-life_00026673": {
+    "action": "replace",
+    "text": "그런데 환경 운동가가 돼서 봉사할 거다."
+  },
+  "test-life_00026799": {
+    "action": "replace",
+    "text": "아/ 요새 (대물림)/(개물림) 사고가 너무 이슈화돼서 씁쓸해."
+  },
+  "test-life_00026825": {
+    "action": "replace",
+    "text": "그/ 미리 미리 암보험은 꼭 들어 놓아야 하는 것 같아요."
+  },
+  "test-life_00027209": {
+    "action": "replace",
+    "text": "돈보다 건강이 우선이 돼야 행복해져요."
+  },
+  "test-life_00027429": {
+    "action": "replace",
+    "text": "저/ 선생님 오실 때까지 여기서 기다려야 돼."
+  },
+  "test-life_00027535": {
+    "action": "replace",
+    "text": "음/ 검사가 오래 걸리니까 조금 걱정된다. (2층)/(이 층)입니다. 계단을 올라가 오른쪽으로 가 주세요."
+  },
+  "test-life_00027592": {
+    "action": "replace",
+    "text": "그런데 환경을 잘 지키며 살아야 돼."
+  },
+  "test-life_00027624": {
+    "action": "replace",
+    "text": "그런데 온난화 예방을 위해서 (1회)/(일 회) 용품 사용을 줄이고 장바구니를 사용해요."
+  },
+  "test-life_00027646": {
+    "action": "replace",
+    "text": "아니/ (24개월)/(이십 사 개월) 만기 적금을 추천합니다."
+  },
+  "test-life_00027779": {
+    "action": "replace",
+    "text": "이제 곧 (50)/(오십)도 얼마남지않앟네."
+  },
+  "test-life_00027819": {
+    "action": "replace",
+    "text": "아/ 준비 다 돼서 곧 나갑니다."
+  },
+  "test-life_00027915": {
+    "action": "replace",
+    "text": "그런데 주택청약 일 순위 조건이 어떻게 돼요?"
+  },
+  "test-life_00028166": {
+    "action": "replace",
+    "text": "음/ 오늘 늦게까지 일해야 돼서 짐 싸는 거 도와주지 못할 거 같아. 저는 공포영화는 너무 무서워서 볼 수가 없어요."
+  },
+  "test-life_00028297": {
+    "action": "replace",
+    "text": "아니/ 적금 몇 년짜리 들었어 (1년)/(일 년)?"
+  },
+  "test-life_00028501": {
+    "action": "replace",
+    "text": "요즘은 월급을 받으면 통장이 아니라 투자를 해야 돼."
+  },
+  "test-life_00028503": {
+    "action": "replace",
+    "text": "너 저녁 먹을 거야? (1시간)/(한 시간)만 있다가 나랑 같이 먹자."
+  },
+  "test-life_00028522": {
+    "action": "replace",
+    "text": "체중을 줄이는 것보다 근육량을 늘려야 돼."
+  },
+  "test-life_00028578": {
+    "action": "replace",
+    "text": "그/ 환경보전을 위해서 다 같이 노력해야 돼요."
+  },
+  "test-life_00028934": {
+    "action": "replace",
+    "text": "음/ 창업을 하고 싶은데 요즘 경기가 좋지 않아서 내 선택이 옳은 건지 판단이 잘 안 돼."
+  },
+  "test-life_00029130": {
+    "action": "replace",
+    "text": "아니/ 적금 만기 돼서 목돈 타면 뭐 할 (거야)/(꺼야)?"
+  },
+  "test-life_00029148": {
+    "action": "replace",
+    "text": "저기/ 청소를 (1시간)/(한 시간) 동안이나 했더니 배가 고파요."
+  },
+  "test-life_00029260": {
+    "action": "replace",
+    "text": "저기/ 나는 요새 글로벌 아이돌 방탄소년단이 너무 좋아. 이번에 새로 나온 신곡도 정말 좋고 각 장르를 완벽하게 소화해내는 (21세기)/(이십 일 세기)에 보기 드문 완벽한 아이돌인 것 같아. 코로나가 하루빨리 끝나서 방탄소년단 콘서트 팬미팅에 한 번이라도 가보는 게 내 소원이야. 만약 갈 수만 있다면 얼마나 행복할까? 방탄소년단을 알게 된 후로 내 인생의 활력소가 돼줘서 너무 행복한 것 같아."
+  },
+  "test-life_00029263": {
+    "action": "replace",
+    "text": "그런데 선생님께서 당번은 (1번)/(일 번)이라고 하셨어요."
+  },
+  "test-life_00029274": {
+    "action": "replace",
+    "text": "저기/ 질병도 초기에 발견해야 돼."
+  },
+  "test-life_00029352": {
+    "action": "replace",
+    "text": "아무리 일요일 이어도 (12시)/(열 두 시)까지 자는 건 곤란해요."
+  },
+  "test-life_00029494": {
+    "action": "replace",
+    "text": "그/ 내일 오후 (2시)/(두 시)경 태풍이 서해안 지역을 통과한다고 합니다."
+  },
+  "test-life_00029513": {
+    "action": "replace",
+    "text": "그/ 네 이번에도 전교 (1등)/(일 등)입니다. 성적이 꾸준해서 다행입니다."
+  },
+  "test-life_00029529": {
+    "action": "replace",
+    "text": "그/ (20대)/(이십 대)인데 혹시 건강검진 가능한가요?"
+  },
+  "test-life_00029584": {
+    "action": "replace",
+    "text": "그/ 해외여행 못 간지 (1년)/(일 년)이 넘었어 놀러 가고 싶다."
+  },
+  "test-life_00029665": {
+    "action": "replace",
+    "text": "그/ 드디어 (1년)/(일 년) 만기로 적금을 타는구나."
+  },
+  "test-life_00029763": {
+    "action": "replace",
+    "text": "그/ 락토픽 유산균 너무 맛있어 계속 먹게 돼."
+  },
+  "test-life_00030358": {
+    "action": "replace",
+    "text": "음/ (제2금융권)/(제 이 금융권)에서 대출받았어."
+  },
+  "test-life_00031362": {
+    "action": "replace",
+    "text": "집값 올랐을 때 바로 팔 걸 후회돼요."
+  },
+  "test-life_00031476": {
+    "action": "replace",
+    "text": "음/ 올해의 관광지로 선정된 (100곳)/(백 곳)을 공개합니다."
+  },
+  "test-life_00031483": {
+    "action": "replace",
+    "text": "그/ 주임님 이거 (2시)/(두 시)까지는 늦어도 주셔야 돼요."
+  },
+  "test-life_00031586": {
+    "action": "replace",
+    "text": "아/ 택운이는 내 (9년)/(구 년) 지기 친구입니다."
+  },
+  "test-life_00031591": {
+    "action": "replace",
+    "text": "아/ 다이어트 너 이제 안 해도 돼."
+  },
+  "test-life_00031641": {
+    "action": "replace",
+    "text": "그/ 보험 만료돼서 다시 가입해야 돼."
+  },
+  "test-life_00031661": {
+    "action": "replace",
+    "text": "음/ 요즘 집에만 있으니까 너무 답답하고 스트레스받아 빨리 코로나 (19)/(십 구) 종식되고 해외여행 가고 싶어."
+  },
+  "test-life_00031701": {
+    "action": "replace",
+    "text": "그/ 이런 폭염에도 긴 팔을 입고 다니네."
+  },
+  "test-life_00031767": {
+    "action": "replace",
+    "text": "그/ 나는 (8월)/(팔 월) 말까지 다이어트를 할 예정이야."
+  },
+  "test-life_00031845": {
+    "action": "replace",
+    "text": "음/ 코로나 (19)/(십 구)로 자영업을 그만둘래요."
+  },
+  "test-life_00031846": {
+    "action": "replace",
+    "text": "아/ (30분)/(삼십 분) 이상은 운동해야지 효과가 있어."
+  },
+  "test-life_00031879": {
+    "action": "replace",
+    "text": "그+ 그 친구랑 못 본 지 (5년)/(오 년)이 다 됐네."
+  },
+  "test-life_00031925": {
+    "action": "replace",
+    "text": "그/ 경제학자들이 말하는 논리는 이해가 잘 안돼요."
+  },
+  "test-life_00032097": {
+    "action": "replace",
+    "text": "그/ (1분단)/(일 분단)은 대걸레 (2분단)/(이 분단)은 빗자루 (3분단)/(삼 분단)은 물청소 담당이야."
+  },
+  "test-life_00032157": {
+    "action": "replace",
+    "text": "그/ (10년)/(십 년)짜리 청약 통장을 만들었어."
+  },
+  "test-life_00032250": {
+    "action": "replace",
+    "text": "아/ 자유로운 사람들이 부럽지만 나는 그럴 수 없다는 걸 아니까 지금에 순응하게 돼."
+  },
+  "test-life_00032414": {
+    "action": "replace",
+    "text": "저기/ 별로 어려운 건 없고 책이랑 이용권 바코드 (1 번)/(한 번) 씩 찍으면 돼."
+  },
+  "test-life_00032435": {
+    "action": "replace",
+    "text": "그/ (10월)/(십 월) (27일)/(이십 칠 일) 날 지필 평가 본다는데 공부 좀 해."
+  },
+  "test-life_00032471": {
+    "action": "replace",
+    "text": "저기/ 성적이 안 좋아서 지금 연락이 안 돼."
+  },
+  "test-life_00032551": {
+    "action": "replace",
+    "text": "아니/ 성적이 오르긴 했지만 이걸로는 안돼."
+  },
+  "test-life_00032575": {
+    "action": "replace",
+    "text": "저기/ 또 보험 갱신해야 돼 짜증 나."
+  },
+  "test-life_00032883": {
+    "action": "replace",
+    "text": "음/ 주택청약에 당첨됐어요 와 너무 축하드려요."
+  },
+  "test-life_00032978": {
+    "action": "replace",
+    "text": "저/ 그래 몇 년 후 나는 꼭 프로그래머가 돼서 사람들이 컴퓨터를 쉽게 사용할 수 있게끔 만들고 싶어. 장은 어디서 보지? 주변에 장 볼 곳 있나?*"
+  },
+  "test-life_00033221": {
+    "action": "replace",
+    "text": "저기/ 존재는 존중되어야 하고 결코 수단으로 취급되어서는 안돼요."
+  },
+  "test-life_00033260": {
+    "action": "replace",
+    "text": "그런데 요새 코로나 (19)/(십 구)가 제일 큰 질병이야."
+  },
+  "test-life_00033267": {
+    "action": "replace",
+    "text": "저기/ 근대골목 투어 신청은 어떻게 하면 돼요?"
+  },
+  "test-life_00033498": {
+    "action": "replace",
+    "text": "그런데 오늘부터 영양제 먹도록 해야 돼요."
+  },
+  "test-life_00033502": {
+    "action": "replace",
+    "text": "그런데 태풍 오기 전에 미리 예방을 해야 돼요."
+  },
+  "test-life_00033616": {
+    "action": "replace",
+    "text": "청약에 당첨돼서 너무 행복해요."
+  },
+  "test-life_00033693": {
+    "action": "replace",
+    "text": "아/ 나 이번에 영어시험 못 봤어."
+  },
+  "test-life_00033883": {
+    "action": "replace",
+    "text": "아/ 코로나 빨리 종식됐으면 좋겠어요."
+  },
+  "test-life_00034142": {
+    "action": "replace",
+    "text": "저. 코로나 (19)/(일 구) 확산이 정말 사회를 바꿨어."
+  },
+  "test-life_00034281": {
+    "action": "replace",
+    "text": "음/ 가능하면 제가 운전해서 갈까요? 제가 운전연습을 좀 해야 돼서."
+  },
+  "test-life_00034779": {
+    "action": "replace",
+    "text": "음/ 여기에 (10년)/(십 년) 동안 살아도 특산물이 뭔지 몰랐어요."
+  },
+  "test-life_00034829": {
+    "action": "replace",
+    "text": "그/ 제게는 (10년)/(십 년) 지기 친구가 있어요."
+  },
+  "test-life_00034917": {
+    "action": "replace",
+    "text": "저기 봤지? 그 일 때문에 나한테 얼마나 치욕적인 별명이 붙었는지 알기나 해?"
+  },
+  "test-life_00034935": {
+    "action": "replace",
+    "text": "저기/ 이 주변 환경이 좋지 않아서 좋은 곳으로 이사 갈 (거예요)/(거에요)."
+  },
+  "test-life_00035150": {
+    "action": "replace",
+    "text": "그런데 별로 어려운 건 없고 책이랑 이용권 바코드 (1번)/(한 번) 씩 찍으면 돼."
+  },
+  "test-life_00035174": {
+    "action": "replace",
+    "text": "여/ 아침 (8시)/(여덟 시)에 우리 기숙"
+  },
+  "test-life_00035181": {
+    "action": "replace",
+    "text": "아/ 전기 요금이 너무 많이 나와서 에어컨을 아껴 써야 돼."
+  },
+  "test-life_00035203": {
+    "action": "replace",
+    "text": "아/ 어렸을 때부터 이렇게 앉아 있어서 습관이 돼버렸어."
+  },
+  "test-life_00035410": {
+    "action": "replace",
+    "text": "그런데 태풍 오기 전에 수확을 다 해 놔야 돼."
+  },
+  "test-life_00035488": {
+    "action": "replace",
+    "text": "방배에서 (5시)/(다섯 시)에 보자."
+  },
+  "test-life_00035650": {
+    "action": "replace",
+    "text": "그/ 역시 열심히 한건 나중에 다 보상받게 돼있더라."
+  },
+  "test-life_00035889": {
+    "action": "replace",
+    "text": "그/ 너의 마음을 알 거 같다. 충분히 공감돼."
+  },
+  "test-life_00035901": {
+    "action": "replace",
+    "text": "저 (8월)/(팔 월) 달에 그냥 소소하게 집에서 가까운 친척만 불러서 하기로 했대."
+  },
+  "test-life_00035917": {
+    "action": "replace",
+    "text": "그/ (1)/(일) 지금 내 목소리가 원래 내 목소리가 맞는 걸까?"
+  },
+  "test-life_00035933": {
+    "action": "replace",
+    "text": "그/ 나는 (3월)/(삼 월)에 여행하고 있지 않았어."
+  },
+  "test-life_00035961": {
+    "action": "replace",
+    "text": "아무리 극한 상황이 닥치더라도 (1년)/(일 년) 뒤면 해방이야."
+  },
+  "test-life_00036002": {
+    "action": "replace",
+    "text": "그/ 학교가 끝나면 다른 곳으로 새지 말고 곧장 수영장으로 가서 연습을 해야 돼."
+  },
+  "test-life_00036055": {
+    "action": "replace",
+    "text": "그/ 일부러 일어나시지 않아도 돼요. 괜찮아요."
+  },
+  "test-life_00036112": {
+    "action": "replace",
+    "text": "아/ 엄마. 빨리 일어나요. 지금 학원 가야 돼요. 많이 늦었어요."
+  },
+  "test-life_00036228": {
+    "action": "replace",
+    "text": "아+ 피아노를 치면 언제나 힐링이 되는 것 같아서 자주 연습하게 돼."
+  },
+  "test-life_00036357": {
+    "action": "replace",
+    "text": "저기/ 코로나 (19)/(일 구) 검사 결과 기다리고 있어 어떻게 될지 모르겠다."
+  },
+  "test-life_00036378": {
+    "action": "replace",
+    "text": "저기/ 긴급 보육 대상자는 맞으니까 한번 물어봐 봐. 여기서는 거기까지 거리가 좀 멀어서 (1시간)/(한 시간) 정도 걸립니다."
+  },
+  "test-life_00036745": {
+    "action": "replace",
+    "text": "음/ 그래 맞아. (100%)(백 퍼센트) 확실해."
+  },
+  "test-life_00036750": {
+    "action": "replace",
+    "text": "그/ 우리 과 캠퍼스 커플 (1호)/(일 호)였는데."
+  },
+  "test-life_00036804": {
+    "action": "replace",
+    "text": "저기/ 학교가 멀어서 통학시간이 (1시간)/(한 시간)이나 걸려."
+  },
+  "test-life_00036813": {
+    "action": "replace",
+    "text": "그런데 (고 2)/(고 이) 때 선생님이 내가 진로를 결정하는데 많은 영향을 미쳤어."
+  },
+  "test-life_00036889": {
+    "action": "replace",
+    "text": "저기/ 완치돼도 후유증이 심하대. 정말 무섭구나"
+  },
+  "test-life_00037245": {
+    "action": "replace",
+    "text": "그런데 반려동물을 (3마리)/(세 마리) 키우는 친구가 있어."
+  },
+  "test-life_00037401": {
+    "action": "replace",
+    "text": "아니/ 코로나로 경제가 악화돼서 큰일이야."
+  },
+  "test-life_00037635": {
+    "action": "replace",
+    "text": "저기/ 이번에 금리 인하 요구해서 이자가 (1%)/(일 프로) 내려갔어요."
+  },
+  "test-life_00037642": {
+    "action": "replace",
+    "text": "그런데 해외여행을 안 간지 벌써 (1년째)/(일 년째) 야."
+  },
+  "test-life_00037671": {
+    "action": "replace",
+    "text": "그런데 실례지만 고향이 어느 쪽이세요? 사투리가 정감이 가서요."
+  },
+  "test-life_00037768": {
+    "action": "replace",
+    "text": "그런데 운동 안 한지 오래돼서 근육이 빠졌어요."
+  },
+  "test-life_00037844": {
+    "action": "replace",
+    "text": "그런데 이제 정말 건강검진을 해야 돼."
+  },
+  "test-life_00037894": {
+    "action": "replace",
+    "text": "벌써 학교 졸업한 지 (7년)/(칠 년)이 넘었어요."
+  },
+  "test-life_00037999": {
+    "action": "replace",
+    "text": "적금 들어도 이자 얼마 안 돼."
+  },
+  "test-life_00038036": {
+    "action": "replace",
+    "text": "엄마 나 돈 (3천)/(삼천) 원만 주라 과자 먹고 싶어."
+  },
+  "test-life_00038041": {
+    "action": "replace",
+    "text": "(97년)/(구십 칠 년)생이면 (24살)/(스물 네 살)인가? 그럼 내가 언니니까 말 놓을게."
+  },
+  "test-life_00038087": {
+    "action": "replace",
+    "text": "나이가 어리다고 놀리면 안 돼."
+  },
+  "test-life_00038252": {
+    "action": "replace",
+    "text": "서울 집값 평균을 보니 (6억)/(육억)이 넘던데 도대체 누가 사는 거야?"
+  },
+  "test-life_00038287": {
+    "action": "replace",
+    "text": "난 (1세대)/(일 세대) 아이돌 젝키를 좋아해."
+  },
+  "test-life_00038664": {
+    "action": "replace",
+    "text": "아/ 우리 가족은 (4 명)/(네 명)입니다."
+  },
+  "test-life_00038788": {
+    "action": "replace",
+    "text": "음/ 이제 대출금도 (1년)/(일 년)만 갚으면 끝난다."
+  },
+  "test-life_00038802": {
+    "action": "replace",
+    "text": "아/ 종신보험 가입한지 벌써 (10년)/(십 년)이 되어 갑니다."
+  },
+  "test-life_00039033": {
+    "action": "replace",
+    "text": "그/ 미나리 푹 삶아서 주꾸미 넣고 참기름 장에 찍어 먹으면 돼요."
+  },
+  "test-life_00039047": {
+    "action": "replace",
+    "text": "음/ 친구가 많이 아파서 걱정돼요."
+  },
+  "test-life_00039067": {
+    "action": "replace",
+    "text": "음/ 국내 휴양지 (100선)/(백 선)을 소개해드립니다."
+  },
+  "test-life_00039079": {
+    "action": "replace",
+    "text": "음/ 작년에 청약저축 깬 거 후회돼요."
+  },
+  "test-life_00039120": {
+    "action": "replace",
+    "text": "음/ 나 언니 몰래 적금 들었어. (5년)/(오 년)짜리."
+  },
+  "test-life_00039256": {
+    "action": "replace",
+    "text": "아/ 생일이라고 (케이크)/(케익) 선물이 (4개)/(네 개)나 들어왔어."
+  },
+  "test-life_00039282": {
+    "action": "replace",
+    "text": "아/ 식사시간이 돼서 식사를 했어요."
+  },
+  "test-life_00039300": {
+    "action": "replace",
+    "text": "그/ 너 이제 나이가 (20살)/(스무 살) 되던가?"
+  },
+  "test-life_00039328": {
+    "action": "replace",
+    "text": "음/ 밤까지 폭염이 계속돼서 잠을 설쳤어."
+  },
+  "test-life_00039345": {
+    "action": "replace",
+    "text": "그/ 야 나 이번에 성적 (4점)/(사 점) 대 나왔어. 대박 아니냐."
+  },
+  "test-life_00039426": {
+    "action": "replace",
+    "text": "아/ 건강검진 시+ 공복시간은 얼마나 돼야 하지?"
+  },
+  "test-life_00039512": {
+    "action": "replace",
+    "text": "아/ 청소가 덜 돼서 아직 먼지가 많습니다."
+  },
+  "test-life_00039653": {
+    "action": "replace",
+    "text": "음/ 가을철에는 (3대)/(삼 대) 열성 질병을 조심하세요."
+  },
+  "test-life_00039701": {
+    "action": "replace",
+    "text": "음/ (20대)/(이십 대)에는 어떤 종류의 보험 가입하는 게 좋을까요?"
+  },
+  "test-life_00039713": {
+    "action": "replace",
+    "text": "그/ 너는 진짜 (20살)/(스무 살)처럼 보인다."
+  },
+  "test-life_00039729": {
+    "action": "replace",
+    "text": "아/ (제2)/(제 이)의 고향이라고 해야 할까요?"
+  },
+  "test-life_00039731": {
+    "action": "replace",
+    "text": "음/ 축제만 기다렸는데 코로나로 취소됐어요."
+  },
+  "test-life_00039855": {
+    "action": "replace",
+    "text": "아/ 질병에 대해 궁금한 게 생겼는데 어디에 물어봐야 돼요?"
+  },
+  "test-life_00039865": {
+    "action": "replace",
+    "text": "음/ 초등학교 때 친구들은 연락 안 돼요."
+  },
+  "test-life_00039896": {
+    "action": "replace",
+    "text": "아/ 내가 키우는 강아지는 (2살)/(두 살)이야."
+  },
+  "test-life_00039897": {
+    "action": "replace",
+    "text": "음/ (5년)/(오 년) 전이 너무 그리운데 어떡하지."
+  },
+  "test-life_00040050": {
+    "action": "replace",
+    "text": "그/ 치아보험을 하나 가입할지 말지 고민돼."
+  },
+  "test-life_00040130": {
+    "action": "replace",
+    "text": "그/ 고향을 떠나 서울살이를 시작한 지 벌써 (20년)/(이십 년)이 넘었네요."
+  },
+  "test-life_00040156": {
+    "action": "replace",
+    "text": "그/ 나 내일부터 휴가 (3일)/(삼 일) 동안 쓰려고."
+  },
+  "test-life_00040222": {
+    "action": "replace",
+    "text": "아/ 건강검진은 (1년)/(일 년)에 한 번씩 꼭 받으세요."
+  },
+  "test-life_00040260": {
+    "action": "replace",
+    "text": "아/ 나 그 방송 보느라 어제 새벽 (4시)/(네 시)에 잤어."
+  },
+  "test-life_00040303": {
+    "action": "replace",
+    "text": "그/ 적금을 (10년)/(십 년) 동안 부었더니 큰돈이 되었어요."
+  },
+  "test-life_00040380": {
+    "action": "replace",
+    "text": "그/ 오늘은 고향에 내려가서 벌초를 해야 돼요."
+  },
+  "test-life_00040415": {
+    "action": "replace",
+    "text": "음/ 휴가를 며칠 잡을 수 있는 건지 물어봐도 돼요?"
+  },
+  "test-life_00040521": {
+    "action": "replace",
+    "text": "음/ 청약 당첨돼서 기분이 너무 상쾌해졌어."
+  },
+  "test-life_00040709": {
+    "action": "replace",
+    "text": "저기/ 너의 우리 반 (1등)/(일 등) 비결은 뭐니?"
+  },
+  "test-life_00040800": {
+    "action": "replace",
+    "text": "아/ 기름진 음식은 다이어트에 방해돼요."
+  },
+  "test-life_00040842": {
+    "action": "replace",
+    "text": "그/ 우리 가족은 아빠 엄마 나 동생 두 명 총 (5명)/(다섯 명)이야."
+  },
+  "test-life_00041004": {
+    "action": "replace",
+    "text": "그/ 나이가 드실수록 건강관리를 잘해야 돼요."
+  },
+  "test-life_00041117": {
+    "action": "replace",
+    "text": "그/ 나는 주택청약 가입한지 (3년)/(삼 년) 정도 됐어."
+  },
+  "test-life_00041167": {
+    "action": "replace",
+    "text": "그/ 어제 영화 좋았나요? 괜찮으시다면 다음에는 (2편)/(이 편) 우뢰매 (2편)/(이 편) 같이 봐요."
+  },
+  "test-life_00041187": {
+    "action": "replace",
+    "text": "그/ (오메가3)/(오메가 쓰리) 같은 영양제는 어떠세요?"
+  },
+  "test-life_00041195": {
+    "action": "replace",
+    "text": "저기/ 질병관리본부에서 (2.5단계)/(이 점 오 단계)를 발령했어요."
+  },
+  "test-life_00041219": {
+    "action": "replace",
+    "text": "저기/ 부동산을 매입해서 부자가 돼보려고요."
+  },
+  "test-life_00041467": {
+    "action": "replace",
+    "text": "그/ 코로나 때문에 (2차)/(이 차) 긴급재난지원금을 신청했어."
+  },
+  "test-life_00041473": {
+    "action": "replace",
+    "text": "보다 (2000년)/(이천 년)대 음악"
+  },
+  "test-life_00041641": {
+    "action": "replace",
+    "text": "아/ 운동을 하루에 (1시간)/(한 시간)은 해야지."
+  },
+  "test-life_00041978": {
+    "action": "replace",
+    "text": "음/ 코로나로 음식점이 (9시)/(아홉 시) 이후에는 포장만 가능해."
+  },
+  "test-life_00042162": {
+    "action": "replace",
+    "text": "음/ 내 (제2)/(제 이)의 고향은 텍사스야."
+  },
+  "test-life_00042181": {
+    "action": "replace",
+    "text": "아/ 청약 저축 만기가 다 돼서 해제했어."
+  },
+  "test-life_00042193": {
+    "action": "replace",
+    "text": "음/ 다이어트할 때 무조건 굶는 건 안돼요."
+  },
+  "test-life_00042197": {
+    "action": "replace",
+    "text": "음/ 경+ 경주 간다 제+ 제사 지내러 이것도 경제로 돼요?"
+  },
+  "test-life_00042239": {
+    "action": "replace",
+    "text": "음/ 선생님 (9일)/(구 일) 날 찾아뵈러 가도 돼요?"
+  },
+  "test-life_00042296": {
+    "action": "replace",
+    "text": "그/ 후쿠시마에는 아직 가면 안 돼요."
+  },
+  "test-life_00042325": {
+    "action": "replace",
+    "text": "음/ 야 걔는 (20대)/(이십 대) 때부터 갭투자했던 거 알아?"
+  },
+  "test-life_00042341": {
+    "action": "replace",
+    "text": "그/ 난 아이돌들 노래는 잘 안 들어 다 비슷해."
+  },
+  "test-life_00042393": {
+    "action": "replace",
+    "text": "음/ 경제 관련 프로그램에 방청객으로 출연하게 됐습니다."
+  },
+  "test-life_00042557": {
+    "action": "replace",
+    "text": "음/ 성적이 안 좋았던 친구가 월 (1억)/(일억)을 번대."
+  },
+  "test-life_00042607": {
+    "action": "replace",
+    "text": "그/ 코로나 때문에 가족에게 안부 전화를 자주 하게 돼."
+  },
+  "test-life_00042644": {
+    "action": "replace",
+    "text": "그/ 형님 이번 (9호)/(구 호) 태풍 마이삭이 제 (7살)/(일곱 살) 인생 최고의 태풍이었습니다."
+  },
+  "test-life_00042670": {
+    "action": "replace",
+    "text": "그/ 내일 건강검진받아야 한다면서 그런 거 먹어도 돼?"
+  },
+  "test-life_00042743": {
+    "action": "replace",
+    "text": "그/ 코로나 때문에 큰일이야. 이러다 (제2)/(제 이)의 IMF가 오겠어."
+  },
+  "test-life_00042767": {
+    "action": "replace",
+    "text": "그/ 내 신용으로 저금리 대출받을 수 있을 을까? 넌 직장도 없는데 어떻게 대출을 받니? 보험 이력이 있어야 돼."
+  },
+  "test-life_00042772": {
+    "action": "replace",
+    "text": "그/ 청약통장은 필수지 (20살)/(스무 살) 넘음 무조건 만들어."
+  },
+  "test-life_00043016": {
+    "action": "replace",
+    "text": "음/ 그 정도는 이제 습관이 돼서 잘하지."
+  },
+  "test-life_00043102": {
+    "action": "replace",
+    "text": "음/ 먼저 저녁 먹고 있어 (30분)/(삼십 분) 후에 갈게."
+  },
+  "test-life_00043271": {
+    "action": "replace",
+    "text": "음/ 동사무소는 왼쪽으로 가시면 (되고요)/(되구요) 구청은 오른쪽 방향으로 가시면 돼요."
+  },
+  "test-life_00043272": {
+    "action": "replace",
+    "text": "음/ 오늘 뭐 먹으러 갈 건데? 나 떡볶이가 너무 먹고 싶은데 먹으러 가면 안 돼?"
+  },
+  "test-life_00043280": {
+    "action": "replace",
+    "text": "음/ 오빠 나 커피 한 잔만 내려주면 안 돼? 커피가 너무 마시고 싶다."
+  },
+  "test-life_00043357": {
+    "action": "replace",
+    "text": "음/ 척추랑 골반이 똑바르게 돼있어야 운동했을 때 살이 잘 빠져."
+  },
+  "test-life_00043460": {
+    "action": "replace",
+    "text": "음/ (63빌딩)/(육 삼 빌딩)에 가보셨나요? 좋은 장소에요."
+  },
+  "test-life_00043483": {
+    "action": "replace",
+    "text": "음/ 잠깐만요 영화가 (20분)/(이십 분) 뒤에 시작하거든요."
+  },
+  "test-life_00043500": {
+    "action": "replace",
+    "text": "음/ 영어 선생님 (10분)/(십 분) 늦는다고 연락 왔어."
+  },
+  "test-life_00043508": {
+    "action": "replace",
+    "text": "음/ 화장실 급해? (좀만)/(쫌만) 참아 (100미터)/(백 미터) 가면 화장실 있어."
+  },
+  "test-life_00043513": {
+    "action": "replace",
+    "text": "음/ 대학교 때 두 시간 이상 통학해야 돼서 진짜 힘들었어."
+  },
+  "test-life_00043514": {
+    "action": "replace",
+    "text": "음/ 지금 핸드폰 안 바꾼지 한 삼 년 돼가는 것 같아."
+  },
+  "test-life_00043522": {
+    "action": "replace",
+    "text": "음/ 방 (3개)/(세 개)에 욕실 (2개)/(두 개) 거실 하나 부엌 하나 배란다 하나. 이렇게."
+  },
+  "test-life_00043528": {
+    "action": "replace",
+    "text": "음/ 삼겹살에 소금을 찍을지 쌈장을 찍을지 고민이 돼."
+  },
+  "test-life_00043529": {
+    "action": "replace",
+    "text": "음/ (3일)/(삼 일) 내내 쉬었더니 너무 좋다. 출근하기 싫어."
+  },
+  "test-life_00043589": {
+    "action": "replace",
+    "text": "음/ 재활용 쓰레기는 깨끗하게 잘 씻어서 분리해야 재활용이 돼."
+  },
+  "test-life_00043712": {
+    "action": "replace",
+    "text": "음/ 나는 매일 영어 공부를 (2시간)/(두 시간)씩 하려고 노력한다."
+  },
+  "test-life_00043934": {
+    "action": "replace",
+    "text": "음/ (2018년)/(이 공 일 팔 년) 지진 때문에 수능이 미뤄진 뒤 경각심을 가지게 되었어."
+  },
+  "test-life_00043987": {
+    "action": "replace",
+    "text": "저/ 안된다니까. 전기세 아껴야 돼. 돈은 (네가)/(너가) 내지 (않잖아)/(않잔아)."
+  },
+  "test-life_00044146": {
+    "action": "replace",
+    "text": "음/ 누군가한테 댄스를 부탁하지 않으면 안 돼요."
+  },
+  "test-life_00044347": {
+    "action": "replace",
+    "text": "음/ (기역 미산이)/(기역 메산이) 잘못된 거 같아요. 이 금액은 뭐예요?"
+  },
+  "test-life_00044354": {
+    "action": "replace",
+    "text": "음/ 다른 지점에서 샀는데 이 매장에서 교환돼요?"
+  },
+  "test-life_00044468": {
+    "action": "replace",
+    "text": "저/ 내일 (6시)/(여섯 시)쯤에 만나는 걸로 전부 다 약속이 되어 있거든?"
+  },
+  "test-life_00044563": {
+    "action": "replace",
+    "text": "음/ (20원)/(이십 원)짜리 우표 (20장)/(스무 장) 살 수 있을까요?"
+  },
+  "test-life_00044566": {
+    "action": "replace",
+    "text": "음/ 나는 강아지를 (7년)/(칠 년)째 키우고 있어."
+  },
+  "test-life_00044619": {
+    "action": "replace",
+    "text": "저/ 내 주변엔 군대 있는 사람도 프랑스 간 사람도 없어서 그냥 제값 주고 사야 돼."
+  },
+  "test-life_00044798": {
+    "action": "replace",
+    "text": "음/ 그리핀도르에서 (5점)/(오 점)을 감점하도록 하겠다."
+  },
+  "test-life_00044863": {
+    "action": "replace",
+    "text": "음/ (6시)/(여섯 시) 이후로는 이 번호로 전화하면 안 돼."
+  },
+  "test-life_00044870": {
+    "action": "replace",
+    "text": "음/ 우리 집에서 지하철역까지는 (10분)/(십 분) 정도 걸려."
+  },
+  "test-life_00045105": {
+    "action": "replace",
+    "text": "저/ 가족을 소중히 여기셔야 합니다 가족을 잃어버리면 모든 것을 잃게 되 때문입니다."
+  },
+  "test-life_00045225": {
+    "action": "replace",
+    "text": "음/ (6시)/(여섯 시)에 축구 경기 시작이니까 그때까지 오세요."
+  },
+  "test-life_00045235": {
+    "action": "replace",
+    "text": "음/ 나 못할 것 같아. 미국에서 사촌이 오는데 공항에 데리러 가야 돼."
+  },
+  "test-life_00045240": {
+    "action": "replace",
+    "text": "저/ 주택 청약은 로또 (1등)/(일 등) 당첨 확률이래."
+  },
+  "test-life_00045247": {
+    "action": "replace",
+    "text": "음/ 나 지금 가야 돼. 열한 시 사십 분 기차야."
+  },
+  "test-life_00045251": {
+    "action": "replace",
+    "text": "저/ 예금 하나 넣었는데 (5대)/(오 대) 금리 받으려고 별 짓 다 했어."
+  },
+  "test-life_00045355": {
+    "action": "replace",
+    "text": "저/ (1년)/(일 년) (365일)/(삼백 육십 오 일) 언제나 도전하고 있습니다. 다이어트는 정말 힘듭니다."
+  },
+  "test-life_00045358": {
+    "action": "replace",
+    "text": "음+ 다음 달에 본다는 시험 준비는 잘 돼가고 있어?"
+  },
+  "test-life_00045449": {
+    "action": "replace",
+    "text": "저/ (20대)/(이십 대)에는 정말 열심히 살았어요."
+  },
+  "test-life_00045450": {
+    "action": "replace",
+    "text": "최근 들어 생긴 질병 중에 가장"
+  },
+  "test-life_00045521": {
+    "action": "replace",
+    "text": "저/ 휴양지 예약까지 다 해놨는데 못 가게 돼서 슬퍼."
+  },
+  "test-life_00045649": {
+    "action": "replace",
+    "text": "저/ 나는 신용 (1등급)/(일 등급)이라 대출받을 수 있어."
+  },
+  "test-life_00045708": {
+    "action": "replace",
+    "text": "음/ 내일 출근이라 진짜 우울하지만 행복했어. 그래도 월 화 수 목 금만 참으면 (3일)/(삼 일)이나 쉬잖아."
+  },
+  "test-life_00045735": {
+    "action": "replace",
+    "text": "저/ 국어랑 영어는 성적이 전교 (100등)/(백 등) 안에 들었습니다. 수학은 그대로 최하위권이에요."
+  },
+  "test-life_00045764": {
+    "action": "replace",
+    "text": "음/ 실장님이 (2차)/(이 차) 가자는데 같이 갈 사람 있어요?"
+  },
+  "test-life_00045791": {
+    "action": "replace",
+    "text": "음/ 그래도 (4500원)/(사천 오백 원) 벌었네요 좋다."
+  },
+  "test-life_00045872": {
+    "action": "replace",
+    "text": "저/ 내 나이 아직 (20대)/(이십 대)밖에 안됐어."
+  },
+  "test-life_00045877": {
+    "action": "replace",
+    "text": "음/ 벌써 (8월)/(팔 월)이야. 시간이 어떻게 이렇게 빨리 가는지 모르겠어."
+  },
+  "test-life_00045905": {
+    "action": "replace",
+    "text": "음/ (2시)/(두 시) 영화와 (4시)/(네 시) 영화가 있는데 어떤 거 볼래?"
+  },
+  "test-life_00045911": {
+    "action": "replace",
+    "text": "저/ 하루에 (30분)/(삼십 분)씩 운동을 하면 건강해집니다."
+  },
+  "test-life_00045935": {
+    "action": "replace",
+    "text": "저/ 내가 벌써 이+ 나이가 돼버렸네."
+  },
+  "test-life_00045973": {
+    "action": "replace",
+    "text": "음/ 내일은 친구랑 꼭 화해해야 돼."
+  },
+  "test-life_00046077": {
+    "action": "replace",
+    "text": "저/ 귀찮다고 건강검진 안 받으면 안 돼요."
+  },
+  "test-life_00046108": {
+    "action": "replace",
+    "text": "저/ 그 드라마는 너무 슬퍼서 보고 있으면 몰입이 돼요."
+  },
+  "test-life_00046163": {
+    "action": "replace",
+    "text": "저/ 폭염 때 나가지 마세요. 걱정돼요."
+  },
+  "test-life_00046192": {
+    "action": "replace",
+    "text": "음/ 교산에 신도시가 생긴다고 합니다. (3기)/(삼 기) 신도시입니다."
+  },
+  "test-life_00046223": {
+    "action": "replace",
+    "text": "음/ 내가 예약한 항공기가 취소됐다고 메일이 왔어."
+  },
+  "test-life_00046236": {
+    "action": "replace",
+    "text": "음/ 장난해? 나+ 만나기 전에 (2년)/(이 년)간 데이트 한번 못 (해봤다며)/(해봤다매)."
+  },
+  "test-life_00046273": {
+    "action": "replace",
+    "text": "음/ 날씨가 더우니까 에어컨 좀 틀고 온도는 (18도)/(십 팔 도)로 맞춰줘."
+  },
+  "test-life_00046275": {
+    "action": "replace",
+    "text": "음/ (1박2일)/(일 박 이 일)로 여행 갈 거니까 짐은 그냥 간편하게 가져와."
+  },
+  "test-life_00046338": {
+    "action": "replace",
+    "text": "저/ 생일이 돼서 한 살 더 먹는 게 슬퍼."
+  },
+  "test-life_00046451": {
+    "action": "replace",
+    "text": "음/ 맞아 운동은 좋은 거야. 내 몸은 젊었을 때 미리 관리해야 돼."
+  },
+  "test-life_00046487": {
+    "action": "replace",
+    "text": "음/ 시간이 얼마나 걸릴까요? 저희가 이후에 영화 예약이 돼있어서요."
+  },
+  "test-life_00046660": {
+    "action": "replace",
+    "text": "저/ 지구 온난화로 북극 얼음이 (30년)/(삼십 년) 내에 다 녹는데."
+  },
+  "test-life_00046670": {
+    "action": "replace",
+    "text": "저/ 소상인들 매출이 (90%)/(구십 프로) 줄었답니다."
+  },
+  "test-life_00046671": {
+    "action": "replace",
+    "text": "음/ 알람을 맞추고 자는 건 어때요? 저는 알람을 (10개)/(열 개)씩 맞추고 자거든요."
+  },
+  "test-life_00046678": {
+    "action": "replace",
+    "text": "음/ 혹시 프린트 좀 부탁해도 돼? 우리 집 프린터가 망가져서."
+  },
+  "test-life_00046747": {
+    "action": "replace",
+    "text": "저/ 운동을 열심히 하면 다이어트가 조금 돼요."
+  },
+  "test-life_00046950": {
+    "action": "replace",
+    "text": "저/ 오늘 대구는 (40도)/(사십 도)가 넘는 폭염이라 합니다. 물 많이 드세요."
+  },
+  "test-life_00046961": {
+    "action": "replace",
+    "text": "저/ 어제 영화 좋았나요? 괜찮으시다면 다음에는 (2편)/(이 편) 우뢰매 (2편)/(이 편) 같이 봐요."
+  },
+  "test-life_00047014": {
+    "action": "replace",
+    "text": "저/ (오래간만에)/(간만에) 가는 해외여행이라 너무 설레고 기대돼요."
+  },
+  "test-life_00047101": {
+    "action": "replace",
+    "text": "저/ 코로나가 끝나야 울 (아기들도)/(애기들도) 한국으로 오는데."
+  },
+  "test-life_00047142": {
+    "action": "replace",
+    "text": "저/ 마스크 잘 쓰면 코로나 (19)/(십 구)도 안 무섭다."
+  },
+  "test-life_00047146": {
+    "action": "replace",
+    "text": "저/ (1월)/(일 월) 생일인 사람이 나랑 엄마 두 사람이나 있네."
+  },
+  "test-life_00047160": {
+    "action": "replace",
+    "text": "저/ 전세대출받고 사면 안되는 주택은 투기와 투과 투과+ 지역 내 (3억)/(삼 억) 초과 아파트야."
+  },
+  "test-life_00047245": {
+    "action": "replace",
+    "text": "저/ (10월)/(시 월)이면 대하축제할 텐데 이번엔 집에서 먹어야 해."
+  },
+  "test-life_00047264": {
+    "action": "replace",
+    "text": "상위 (10%)/(십 프로)가 나머지 사람들의 평균 수입보다 훨씬 더 많은 돈을 번대."
+  },
+  "test-life_00047351": {
+    "action": "replace",
+    "text": "저/ 그녀는 보험을 (12개)/(열 두 개)나 들었대."
+  },
+  "test-life_00047388": {
+    "action": "replace",
+    "text": "저/ (3분)/(삼 분) 뒤에 그 쇼가 시작된대요."
+  },
+  "test-life_00047398": {
+    "action": "replace",
+    "text": "저/ 엄마 돌아가셨을 때 친구들이 많이 힘이 됐지."
+  },
+  "test-life_00047500": {
+    "action": "replace",
+    "text": "저/ 요즘 코로나 (19)/(십 구)가 유행이라 걱정이야. 맞아. 마스크 꼭 쓰고 다니고 사람이 많은 곳은 가지 말자. 그래. 집에 있는 게 제일 안전한 것 같으니 되도록이면 집에 있자. 응. 요새는 집에서도 할 수 있는 취미생활이 많으니까. 그리고 손소독 열심히 하고 열이 난다면 코로나 검사를 받는 게 좋겠어."
+  },
+  "test-life_00047508": {
+    "action": "replace",
+    "text": "저/ 어제 소화가 안 돼서 병원에 갔더니 의사선생님이 위염이라고 하더라고요."
+  },
+  "test-life_00047590": {
+    "action": "replace",
+    "text": "저/ 오늘은 무조건 (스쾃)/(스쿼트) (100개)/(백 개) 할 거야. 너도 같이 할 거지?"
+  },
+  "test-life_00047625": {
+    "action": "replace",
+    "text": "저/ 내일 (6시)/(여섯 시)에 만나서 새벽 운동 가자."
+  },
+  "test-life_00047673": {
+    "action": "replace",
+    "text": "청약 당첨돼서 너무 축하드립니다."
+  },
+  "test-life_00047872": {
+    "action": "replace",
+    "text": "지구온난화를 줄이기 위해서는 에너지를 아껴야 돼."
+  },
+  "test-life_00047938": {
+    "action": "replace",
+    "text": "온난화 막으려면 나무를 많이 심어야 돼."
+  },
+  "test-life_00047972": {
+    "action": "replace",
+    "text": "지진이 일어나면 대피해야 돼.*"
+  },
+  "test-life_00048042": {
+    "action": "replace",
+    "text": "당신이 씻지 않고 생활을 하면 질병에 노출이 돼요."
+  },
+  "test-life_00048181": {
+    "action": "replace",
+    "text": "코로나 때문에 딸기축제가 취소돼서 너무 속상해요."
+  },
+  "test-life_00048416": {
+    "action": "replace",
+    "text": "음식을 먹을 때는 소리 내면 안돼."
+  },
+  "test-play_00000507": {
+    "action": "replace",
+    "text": "최소한의 사회화라도 돼야지."
+  },
+  "test-play_00000892": {
+    "action": "replace",
+    "text": "워낙 똥 손인지라 걱정돼요."
+  },
+  "test-play_00000919": {
+    "action": "replace",
+    "text": "희망하는 이유와 구체적인 활동 계획도 적어야 돼요."
+  },
+  "test-play_00001036": {
+    "action": "replace",
+    "text": "항상 괜찮은 사람이 아니어도 돼."
+  },
+  "test-play_00001192": {
+    "action": "replace",
+    "text": "지진 나면 식탁 밑으로 대피해야 돼."
+  },
+  "test-play_00001356": {
+    "action": "replace",
+    "text": "청약 조건은 되는데 당첨이 돼야 말이죠."
+  },
+  "test-play_00001546": {
+    "action": "replace",
+    "text": "생일이라서 외식하러 가기로 했어요."
+  },
+  "test-play_00001670": {
+    "action": "replace",
+    "text": "코로나에 대한 자기 생각 얘기하면 돼. 코로나 전반적인 거."
+  },
+  "test-play_00001689": {
+    "action": "replace",
+    "text": "금리를 지나치게 내릴 경우 급격한 수신 감소가 예상돼요."
+  },
+  "test-play_00002217": {
+    "action": "replace",
+    "text": "그/ 이번에 비자 때문에 중국에 못 가게 돼서 너무 아쉬워."
+  },
+  "test-play_00002367": {
+    "action": "replace",
+    "text": "저기/ 아이폰은 교통카드가 안돼서 너무 불편해."
+  },
+  "test-play_00002481": {
+    "action": "replace",
+    "text": "새+생일에 대해 아는 지식이 전무해."
+  },
+  "test-play_00003218": {
+    "action": "replace",
+    "text": "저기/ 부동산 가서 (50억)/(오십 억) 이하 집 알아봐라 (사줄게)/(사줄께)."
+  },
+  "test-play_00003243": {
+    "action": "replace",
+    "text": "그런데 시험 보려면 얼마 안 남아서 열심히 해야 돼."
+  },
+  "test-play_00003329": {
+    "action": "replace",
+    "text": "하루에 영양제 (2종류)/(두 종류)를 먹어."
+  },
+  "test-play_00003640": {
+    "action": "replace",
+    "text": "그런데 지진이 나면 옥상에 가서 구조요청해야 돼."
+  },
+  "test-play_00003661": {
+    "action": "replace",
+    "text": "그런데 그럼 이제 그분 연세가 어떻게 돼?"
+  },
+  "test-play_00003785": {
+    "action": "replace",
+    "text": "저기/ 지금 해외 나가면 자가 격리해야 돼요."
+  },
+  "test-play_00003936": {
+    "action": "replace",
+    "text": "그/ 농구를 꾸준히 하면 키 성장에도 도움이 돼요."
+  },
+  "test-play_00004050": {
+    "action": "replace",
+    "text": "음/ 우리 가족은 (5인)/(오 인) 가족이에요."
+  },
+  "test-play_00004438": {
+    "action": "replace",
+    "text": "저/ 근데 비용이 일본 보다 더 비싸. 그래서 돈을 더 저축해야 돼."
+  },
+  "test-play_00004626": {
+    "action": "replace",
+    "text": "음/ 선생님이 학생을 성폭행해서 신고가 접수됐대."
+  },
+  "test-play_00004715": {
+    "action": "replace",
+    "text": "음/ 학교가 끝나면 다른 곳으로 새지 말고 곧장 수영장으로 가서 연습을 해야 돼."
+  },
+  "test-play_00004801": {
+    "action": "replace",
+    "text": "저기/ 영양제를 (12가지)/(열 두 가지)나 먹는다고?"
+  },
+  "test-play_00004843": {
+    "action": "replace",
+    "text": "그/ 하루에 (스쾃)/(스쿼트) (100개)/(백 개)씩 하다가 한 달 안에 (500개)/(오백 개) 도전해야지."
+  },
+  "test-play_00004949": {
+    "action": "replace",
+    "text": "저/ 그렇긴 한데 습관 됐나 봐요. 아/ 배 안 고프신가 봐요."
+  },
+  "test-play_00005224": {
+    "action": "replace",
+    "text": "저기/ 청소는 삼 십분 안에 끝내야 돼요."
+  },
+  "test-play_00005346": {
+    "action": "replace",
+    "text": "회사에서 휴가 (10일)/(십 일)간 쉽니다."
+  },
+  "test-play_00005500": {
+    "action": "replace",
+    "text": "그/ 청약저축 이번에 신청할 건데 당첨됐으면 좋겠다. 그치?"
+  },
+  "test-play_00005504": {
+    "action": "replace",
+    "text": "음/ 학교에서 돌아온 지 (5분)/(오 분) 만에 이러네."
+  },
+  "test-play_00005553": {
+    "action": "replace",
+    "text": "음/ 우리 엄마가 고혈압 걸리셔서 걱정돼."
+  },
+  "test-play_00005642": {
+    "action": "replace",
+    "text": "그/ 지진 나면 재빠르게 숨어야 돼."
+  },
+  "test-play_00005884": {
+    "action": "replace",
+    "text": "음/ (40대)/(사십 대)에 먹어야 할 영양제가 뭐가 있을까?"
+  },
+  "test-play_00005958": {
+    "action": "replace",
+    "text": "음/ 내 나이는 올해 (28살)/(스물 여덟 살)이 되었어."
+  },
+  "test-play_00005962": {
+    "action": "replace",
+    "text": "음/ 요즘 자주 우울해? 그럼 (30분)/(삼십 분)씩 운동이라도 해봐."
+  },
+  "test-play_00006061": {
+    "action": "replace",
+    "text": "음/ (1년)/(일 년)은 (365일)/(삼백 육십 오 일)이야."
+  },
+  "test-play_00006191": {
+    "action": "replace",
+    "text": "음/ 아/ 진짜 이 짓을 언제까지 해야 되노 진짜."
+  },
+  "test-play_00006215": {
+    "action": "replace",
+    "text": "음/ 몇 시에 집 갈 예정이야? 난 (4시)/(네 시)에 집 갈 예정이야."
+  },
+  "test-play_00006469": {
+    "action": "replace",
+    "text": "저/ 상하이는 인구가 (2300만)/(이천 삼백 만) 명 대도시입니다."
+  },
+  "test-play_00006555": {
+    "action": "replace",
+    "text": "음/ 낮에 집에 있을 땐 암막 (커튼을)/(커텐을) 꼭 쳐야 돼."
+  },
+  "test-play_00006618": {
+    "action": "replace",
+    "text": "저/ 가족들이랑 여행 안 간지 오래됐네."
+  },
+  "test-play_00006637": {
+    "action": "replace",
+    "text": "저/ (3년)/(삼 년)의 추억이 담긴 고등학교를 떠나려니 너무 아쉽습니다."
+  },
+  "test-play_00006683": {
+    "action": "replace",
+    "text": "저/ 어휴. 이번 코로나 (땜에)/(때매) 장사가 안돼서 죽겠어요."
+  },
+  "test-shopping_00000086": {
+    "action": "replace",
+    "text": "넌 취업 준비 잘 돼가나? 자기소개서 써야지 이제."
+  },
+  "test-shopping_00000207": {
+    "action": "replace",
+    "text": "내일 아침에는 수업 없어 오후에 학교 가면 돼."
+  },
+  "test-shopping_00000474": {
+    "action": "replace",
+    "text": "이미 (2일)/(이틀) 정도 미뤄진 거라 오늘까지는 꼭 해야 돼요."
+  },
+  "test-shopping_00000546": {
+    "action": "replace",
+    "text": "너에게 도움이 돼서 정말 기뻐."
+  },
+  "test-shopping_00000547": {
+    "action": "replace",
+    "text": "내일 (5시)/(다섯 시)까지 이 주소로 오시면 돼요. 알겠죠?"
+  },
+  "test-shopping_00000580": {
+    "action": "replace",
+    "text": "스코어는 (5 대 3)/(오 대 삼)이었고 우리가 이겼어요."
+  },
+  "test-shopping_00000619": {
+    "action": "replace",
+    "text": "요즘 면접 준비는 어떻게 잘 돼가고 있어?"
+  },
+  "test-shopping_00000777": {
+    "action": "replace",
+    "text": "이번에 잠자리는 많이 잡으셨어요?"
+  },
+  "test-shopping_00001097": {
+    "action": "replace",
+    "text": "건강검진으로 우울증도 판단이 돼?"
+  },
+  "test-shopping_00001199": {
+    "action": "replace",
+    "text": "이번 추석은 집에서 음식 만들어야 돼."
+  },
+  "test-shopping_00001556": {
+    "action": "replace",
+    "text": "안녕하세요. 어머니. 요번에 종학이가 성적이 많이 떨어져서 혹시 무슨 일이 있나 걱정돼서 전화드렸어요."
+  },
+  "test-shopping_00001625": {
+    "action": "replace",
+    "text": "대출 상담은 받았고 집만 구하면 돼."
+  },
+  "test-shopping_00001637": {
+    "action": "replace",
+    "text": "건강관리 잘만 하면 (10살)/(열 살) 어려 보여요."
+  },
+  "test-shopping_00001794": {
+    "action": "replace",
+    "text": "통장을 일단 (3개)/(세 개)는 만들어 놓고 어떤 용으로 쓸 건지 정해봐."
+  },
+  "test-shopping_00001820": {
+    "action": "replace",
+    "text": "휴양지에서 잘 놀고 쓰레기는 되 가져가자."
+  },
+  "test-shopping_00001923": {
+    "action": "replace",
+    "text": "건강검진 제대로 받고 있어? 항상 건강관리해야 돼*."
+  },
+  "test-shopping_00001938": {
+    "action": "replace",
+    "text": "(오메가3)/(오메가 쓰리)는 꼭 챙겨 먹어야 돼."
+  },
+  "test-shopping_00002077": {
+    "action": "replace",
+    "text": "내 인생의 축제는 언제였을까? (20대)/(이십 대) 청춘 때였을까?"
+  },
+  "test-shopping_00002436": {
+    "action": "replace",
+    "text": "그런데 (네가)/(너가) 안 갈 거면 위임장을 받아와야 돼."
+  },
+  "test-shopping_00002746": {
+    "action": "replace",
+    "text": "그런데 (1시)/(한 시)면 밥은 어떡할 거야? 각자 먹고 오는 거야?"
+  },
+  "test-shopping_00003137": {
+    "action": "replace",
+    "text": "그/ 일단 인성 쪽으로는 믿으셔도 돼요."
+  },
+  "test-shopping_00003682": {
+    "action": "replace",
+    "text": "아/ 폭염주의보가 뜨면 고령자들은 조심하셔야 돼요."
+  },
+  "test-shopping_00003736": {
+    "action": "replace",
+    "text": "그런데 앞으로 건강관리 신경 써야 돼."
+  },
+  "test-shopping_00003813": {
+    "action": "replace",
+    "text": "여성암이 걱정돼서 암보험에 가입하려고 합니다."
+  },
+  "test-shopping_00003973": {
+    "action": "replace",
+    "text": "저/ 얘들아 우리 오늘 떡볶이 먹으러 갈래? 내가 쏠게. 난 고등학교 (2학년)/(이 학년) 담임선생님 한문 선생님이었다."
+  },
+  "test-shopping_00004133": {
+    "action": "replace",
+    "text": "저기/ 강릉은 ktx가 연결돼서 이동이 편리해졌어."
+  },
+  "test-shopping_00004317": {
+    "action": "replace",
+    "text": "저기/ 이번 주 가족들끼리 가는 축제가 기대돼요."
+  },
+  "test-shopping_00004349": {
+    "action": "replace",
+    "text": "청소를 해봐야 집이 오래돼서 티도 안 나요."
+  },
+  "test-shopping_00004845": {
+    "action": "replace",
+    "text": "저기/ 아버지 보험 하나 들어 드려야죠."
+  },
+  "test-shopping_00004879": {
+    "action": "replace",
+    "text": "성적만 가지고 잔소리하시면 안 돼요."
+  },
+  "test-shopping_00005199": {
+    "action": "replace",
+    "text": "아니/ 지구 온난화에 대해 이제 신경 써야 돼요."
+  },
+  "test-shopping_00005205": {
+    "action": "replace",
+    "text": "아니/ 대출 상담은 받았고 집만 구하면 돼."
+  },
+  "test-shopping_00005208": {
+    "action": "replace",
+    "text": "그런데 오늘 기온 (40도)/(사십 도) 찍었더라. 지옥도 이렇게 뜨겁진 않을 거야."
+  },
+  "test-shopping_00005326": {
+    "action": "replace",
+    "text": "휴가철 때 휴가를 못 가게 됐어."
+  },
+  "test-shopping_00005352": {
+    "action": "replace",
+    "text": "난 우리 (담임선생님)/(담임쌤) 좋던데? (3반)/(삼 반)보다는 괜찮지 않아?"
+  },
+  "test-shopping_00005371": {
+    "action": "replace",
+    "text": "가족 회사는 절대 가면 안 돼."
+  },
+  "test-shopping_00005463": {
+    "action": "replace",
+    "text": "그/ (2020년)/(이천 이십 년) (9월)/(구 월) (2일)/(이 일) 배가 고프다 밥을 먹자."
+  },
+  "test-shopping_00005471": {
+    "action": "replace",
+    "text": "음/ 해외여행을 못 간지 벌써 (5년)/(오 년)이 지났어."
+  },
+  "test-shopping_00005472": {
+    "action": "replace",
+    "text": "그/ 자가 격리 기간에 몸짱 되겠네 딱 (2주)/(이 주)잖아."
+  },
+  "test-shopping_00005561": {
+    "action": "replace",
+    "text": "아/ 해외여행을 갔지만 (2주)/(이 주)간의 자가 격리가 필요했어요."
+  },
+  "test-shopping_00005580": {
+    "action": "replace",
+    "text": "음/ 영화 보러 갔더니 티켓이 매진됐지 뭐예요."
+  },
+  "test-shopping_00005590": {
+    "action": "replace",
+    "text": "그/ 요즘 코로나라는 질병이 다시 유행돼서 불안이 증가하고 있다."
+  },
+  "test-shopping_00005718": {
+    "action": "replace",
+    "text": "음/ 해외여행 (1박2일)/(일 박 이 일) 어떻게 보내셨나요."
+  },
+  "test-shopping_00005770": {
+    "action": "replace",
+    "text": "저기/ 주거래 은행에 (10%)/(십 프로) 대 적금이 생겼어 생겼어+"
+  },
+  "test-shopping_00005798": {
+    "action": "replace",
+    "text": "그/ 저희 가족은 모두 (5명)/(다섯 명)입니다."
+  },
+  "test-shopping_00005832": {
+    "action": "replace",
+    "text": "음/ 중개사님 이문동 근처 월세 (50만)/(오십 만) 원 보증금 (1000만)/(천 만) 원에 맞춘 원룸 매물 좀 볼 수 있을까요?"
+  },
+  "test-shopping_00005847": {
+    "action": "replace",
+    "text": "음/ 그 드라마 매주 목요일 (10시)/(열 시)에 방송한대."
+  },
+  "test-shopping_00005926": {
+    "action": "replace",
+    "text": "음/ 적금 넣고 (계시나요)/(계신가요)? 네 한 달에 (200)/(이 백)씩 넣고 있어요."
+  },
+  "test-shopping_00006020": {
+    "action": "replace",
+    "text": "음/ (1차)/(일 차) 검사 때 이상 없어도 재검 때 건강검진 이상으로 나올 수 있습니다."
+  },
+  "test-shopping_00006317": {
+    "action": "replace",
+    "text": "음/ 선풍기 (3단)/(삼 단)으로 좀 틀어죠."
+  },
+  "test-shopping_00006373": {
+    "action": "replace",
+    "text": "저/ 편의점 가서 택배 등록하고 오면 (2만)/(이만) 원 줄게."
+  },
+  "test-shopping_00006509": {
+    "action": "replace",
+    "text": "음/ 응 매주 (3일)/(삼 일)은 체육관에 다니고 있어. 아직 익숙하지 않아서 아침에 일어나는 것도 힘들지만."
+  },
+  "test-shopping_00006596": {
+    "action": "replace",
+    "text": "음/ 아/ 내 컴퓨터 바이러스 걸렸는데 이거 어떻게 해야 돼? 백신 돌려야 되나?"
+  },
+  "test-shopping_00006623": {
+    "action": "replace",
+    "text": "음/ 선생님 오실 때까지 여기서 기다려야 돼."
+  },
+  "test-shopping_00006630": {
+    "action": "replace",
+    "text": "음/ 잘못을 했으면 꼭 사과를 해야 돼요."
+  },
+  "test-shopping_00006689": {
+    "action": "replace",
+    "text": "저/ 학교 등교 시간이 (9시)/(아홉 시)까지인 거 알지?"
+  },
+  "test-shopping_00006765": {
+    "action": "replace",
+    "text": "생일 축하해. 맛난 거 많이 먹어라."
+  },
+  "test-shopping_00006899": {
+    "action": "replace",
+    "text": "식탁에 반찬이 많으면 무엇을 먹어야 할지 고민이 돼요."
+  },
+  "test-weather_00000417": {
+    "action": "replace",
+    "text": "그래도 강의 들으면서 괜찮았으면 흥미 있는 분야 아닐까요??"
+  },
+  "test-weather_00000583": {
+    "action": "replace",
+    "text": "그럼 이거는 누구한테 물어봐야 돼요."
+  },
+  "test-weather_00000712": {
+    "action": "replace",
+    "text": "시청역에서 (1호선)/(일 호선)을 타고 가다가 (4호선)/(사 호선)으로 갈아탄다."
+  },
+  "test-weather_00000721": {
+    "action": "replace",
+    "text": "(13번가)/(십 삼 번가) 거리에 고양이 카페 가 하나 있어요."
+  },
+  "test-weather_00000939": {
+    "action": "replace",
+    "text": "학원들이 비대면으로 강의를 시작해서 운전면허를 못 따게 됐어."
+  },
+  "test-weather_00001448": {
+    "action": "replace",
+    "text": "이렇게 시간이 지난 줄 몰랐습니다."
+  },
+  "test-weather_00002208": {
+    "action": "replace",
+    "text": "*영양제도 맞는 궁합이 있다니까 잘 알아보고 먹어야 돼요."
+  },
+  "test-weather_00002228": {
+    "action": "replace",
+    "text": "쓰레기 분리수거를 꼼꼼하게 해야 해요."
+  },
+  "test-weather_00002234": {
+    "action": "replace",
+    "text": "아니/ 무슨 보험이 한 달에 (15000원)/(만 오천 원)(이더라고)/(이더라구). 그래서 (그냥)/(걍) 해지했어."
+  },
+  "test-weather_00002349": {
+    "action": "replace",
+    "text": "오늘 성적표가 나왔는데 반에서 (1등)/(일 등)이에요."
+  },
+  "test-weather_00002425": {
+    "action": "replace",
+    "text": "내가 건강하기 위해서는 하루에 조금씩 (6끼)/(여섯 끼)는 먹어야 돼."
+  },
+  "test-weather_00002478": {
+    "action": "replace",
+    "text": "코로나로 이번 (연도에는)/(년도에는) 모든 축제가 취소돼서 속상해요."
+  },
+  "test-weather_00002589": {
+    "action": "replace",
+    "text": "우리들도 경제관념을 가져야 해요."
+  },
+  "test-weather_00003113": {
+    "action": "replace",
+    "text": "(건강검진받으려면)/(건강검진받을려면) 서울까지 올라가야 돼?"
+  },
+  "test-weather_00003244": {
+    "action": "replace",
+    "text": "중국에서 웅담을 가지고 오시면 안 돼요."
+  },
+  "test-weather_00003260": {
+    "action": "replace",
+    "text": "영양제 (오메가3)/(오메가 쓰리) 추천해드립니다."
+  },
+  "test-weather_00003718": {
+    "action": "replace",
+    "text": "그런데 기말시험 준비는 잘 돼가? 다음 주에 바로 시험인가?"
+  },
+  "test-weather_00003754": {
+    "action": "replace",
+    "text": "그런데 (KF94)/(KF 구 사) 마스크는 면 마스크보다 더 안전할걸?"
+  },
+  "test-weather_00003891": {
+    "action": "replace",
+    "text": "저기/ 나 못할 것 같아. 미국에서 사촌이 오는데 공항에 데리러 가야 돼."
+  },
+  "test-weather_00003961": {
+    "action": "replace",
+    "text": "그런데 그 외에도 한 달에 (5만)/(오만) 원씩 관리비가 있어요."
+  },
+  "test-weather_00003995": {
+    "action": "replace",
+    "text": "그런데 꽃이 피려면 누군가는 거름이 돼야 하지 않겠어?*"
+  },
+  "test-weather_00004033": {
+    "action": "replace",
+    "text": "그런데 이제부터 시작이에요 함부로 판단하면 안 돼요."
+  },
+  "test-weather_00004152": {
+    "action": "replace",
+    "text": "폭염 시 (39도)/(삼십 구 도)까지 올라갈 수 있습니다."
+  },
+  "test-weather_00004282": {
+    "action": "replace",
+    "text": "저기/ 근데 지방은 교통이 불편해서 차가 있어야 돼요."
+  },
+  "test-weather_00005151": {
+    "action": "replace",
+    "text": "그/ 이거 얼마 동안 해야 돼요?"
+  },
+  "test-weather_00005388": {
+    "action": "replace",
+    "text": "아니/ 영화에 대한 자기 생각 얘기하면 돼요. 영화 전반적인 거요."
+  },
+  "test-weather_00005841": {
+    "action": "replace",
+    "text": "음/ 건강검진은 잊지 말고 꼭 하셔야 돼요."
+  },
+  "test-weather_00005912": {
+    "action": "replace",
+    "text": "(9월)/(구 월) 초순까지 폭염이 계속 이어질 전망입니다."
+  },
+  "test-weather_00005985": {
+    "action": "replace",
+    "text": "그런데 환경을 생각해서 분리수거는 해야 돼."
+  },
+  "test-weather_00006151": {
+    "action": "replace",
+    "text": "저기/ 반려동물 키우는 건 아주 신중해야 돼요."
+  },
+  "test-weather_00006611": {
+    "action": "replace",
+    "text": "그런데 학교에 가려면 적어도 (5시간)/(다섯 시간)은 잡아야 해요."
+  },
+  "test-weather_00006661": {
+    "action": "replace",
+    "text": "친구랑 영화 보기로 약속했어요 기대돼요."
+  },
+  "test-weather_00006698": {
+    "action": "replace",
+    "text": "그런데 아저씨. 조금만 깎아주시면 안 돼요?"
+  },
+  "test-weather_00006848": {
+    "action": "replace",
+    "text": "뉴스 볼 때마다 금리 때문에 긴장돼."
+  },
+  "test-weather_00006851": {
+    "action": "replace",
+    "text": "야 (인마)/(임마) 생일 축하한다 (1년)/(일 년)이 금방이네."
+  },
+  "test-weather_00006904": {
+    "action": "replace",
+    "text": "음/ 식사할 때는 소리를 내어 먹으면 안 돼."
+  },
+  "test-weather_00006919": {
+    "action": "replace",
+    "text": "음/ 건강검진을 한 번만 받고 오면 돼요."
+  },
+  "test-weather_00006959": {
+    "action": "replace",
+    "text": "그/ 아빠 저 이번 (1학년)/(일 학년) (1학기)/(일 학기) 성적 나왔어요."
+  },
+  "test-weather_00007257": {
+    "action": "replace",
+    "text": "저기/ 생일선물로 (MP3)/(엠 피 쓰리) 받았을 때의 그 기쁨은 말로 설명 못 해. 우리 공연 시작이 몇 시지?*"
+  },
+  "test-weather_00007436": {
+    "action": "replace",
+    "text": "그/ (고3)/(고 삼) 담임 선생님께서 유난히 예뻐해 주셨어요."
+  },
+  "test-weather_00007842": {
+    "action": "replace",
+    "text": "저기/ 아버님 곧 건강검진받으실 때가 돼가죠?"
+  },
+  "test-weather_00007845": {
+    "action": "replace",
+    "text": "아니/ 세계도시 중 가본 곳이 얼마 안 돼요."
+  },
+  "test-weather_00008043": {
+    "action": "replace",
+    "text": "그/ 준비 다 돼서 곧 나갑니다."
+  },
+  "test-weather_00008102": {
+    "action": "replace",
+    "text": "저기/ 루테인은 잘 챙겨드셔야 돼요."
+  },
+  "test-weather_00008139": {
+    "action": "replace",
+    "text": "민식이 법 때문에 보험 하나 더 들었어."
+  },
+  "test-weather_00008192": {
+    "action": "replace",
+    "text": "부동산 관련 일하고 싶은데 어떻게 하면 돼?"
+  },
+  "test-weather_00008252": {
+    "action": "replace",
+    "text": "아니/ 태풍으로 북한이 식량부족국에 재지정 됐어요."
+  },
+  "test-weather_00008375": {
+    "action": "replace",
+    "text": "저기/ 청에 대해서는 아는 게 별로 없어요."
+  },
+  "test-weather_00008392": {
+    "action": "replace",
+    "text": "(1일)/(일 일) 렌트 가격은 (60)/(육십) 달러입니다."
+  },
+  "test-weather_00008424": {
+    "action": "replace",
+    "text": "그런데 에어컨을 너무 많이 틀어서 전기값이 걱정돼."
+  },
+  "test-weather_00008457": {
+    "action": "replace",
+    "text": "저/ 겨울 방학이 시작돼서 오늘은 할머니 집에 가요."
+  },
+  "test-weather_00008614": {
+    "action": "replace",
+    "text": "저기/ 쌈박하게 눈치 보지 말고 소신껏 손들어 보아요. 죄송하지만 (10층)/(십 층) 좀 눌러주세요."
+  },
+  "test-weather_00008615": {
+    "action": "replace",
+    "text": "그/ 응 우선순위대로 하면 돼. 오늘 오전에 선반에서 물건을 치우는 것을 도와주시겠어요?"
+  },
+  "test-weather_00008619": {
+    "action": "replace",
+    "text": "음/ 자동완성 기능은 별로 도움이 안 돼요."
+  },
+  "test-weather_00008628": {
+    "action": "replace",
+    "text": "그이 방은 환기가 안돼서 음식물 금지야."
+  },
+  "test-weather_00008699": {
+    "action": "replace",
+    "text": "저기/ 노래를 들으면 힐링이 돼요."
+  },
+  "test-weather_00008855": {
+    "action": "replace",
+    "text": "저기/ 세계에서 가장 부유한 도시는 어디일까요?아프라시아 은행이 선정한 결과를 함께 볼까요? (3위)/(삼 위) 영국의 런던. (2위)/(이 위)는 일본의 도쿄. (1위)/(일 위)는 네+ 예상대로네요 미국 뉴욕."
+  },
+  "test-weather_00008873": {
+    "action": "replace",
+    "text": "아니/ 보험 만기가 언제라고 했지? 거의 다 돼가는 것 같은데."
+  },
+  "test-weather_00008962": {
+    "action": "replace",
+    "text": "그런데 엄마 생일 초대 백 명도 해도 돼요?"
+  },
+  "test-weather_00009046": {
+    "action": "replace",
+    "text": "근처 호수가 관광지 개발이 돼서 정신없어."
+  },
+  "test-weather_00009047": {
+    "action": "replace",
+    "text": "내 나이는 아직 (20대)/(이십 대) 라구."
+  },
+  "test-weather_00009113": {
+    "action": "replace",
+    "text": "친구 영화는 (10번)/(열 번) 이상 본 거 (같아)/(같애)."
+  },
+  "test-weather_00009115": {
+    "action": "replace",
+    "text": "경제 발전이 둔화돼서 걱정이에요."
+  },
+  "test-weather_00009130": {
+    "action": "replace",
+    "text": "이젠 진짜 건강관리해야 돼. 약속해 나랑."
+  },
+  "test-weather_00009171": {
+    "action": "replace",
+    "text": "아/ 내 인생의 축제는 언제였을까? (20대)/(이십 대) 청춘 때였을까?"
+  },
+  "test-weather_00009175": {
+    "action": "replace",
+    "text": "아/ 벌써 제 나이가 (27살)/(이십 칠 살)이에요 너무 세월이 빠른 거 같아요."
+  },
+  "test-weather_00009260": {
+    "action": "replace",
+    "text": "그/ 파일럿 교육은 실기의 가중치가 거의 (70%)/(칠십 퍼센트)에 가깝다고 해요."
+  },
+  "test-weather_00009403": {
+    "action": "replace",
+    "text": "그/ IMF 땐 금리가 (12%)/(십 이 프로) 넘는 상품도 많았어요."
+  },
+  "test-weather_00009416": {
+    "action": "replace",
+    "text": "음/ 빨리 (10만)/(십 만) 원을 모아서 금리가 높은 증권을 구매해야겠다."
+  },
+  "test-weather_00009426": {
+    "action": "replace",
+    "text": "그/ 이번에 (주택청약을)/(주탹청약을) 넣었는데 제발 됐으면 좋겠다."
+  },
+  "test-weather_00009428": {
+    "action": "replace",
+    "text": "음/ 의료 보험에 대해서 잘 아시나요? 직장에서 (4대)/(사 대) 보험을 들려 하는데 자문 좀 구해도 될까요?"
+  },
+  "test-weather_00009596": {
+    "action": "replace",
+    "text": "음/ 어제 지진은 진도 (2.4)/(이 점 사) 경남에서 발생했데."
+  },
+  "test-weather_00009637": {
+    "action": "replace",
+    "text": "음/ 다이어트는 늘 포기하게 돼요."
+  },
+  "test-weather_00009711": {
+    "action": "replace",
+    "text": "아/ 다이어트로 (5킬로나)/(오 키로나) 빠졌어."
+  },
+  "test-weather_00009728": {
+    "action": "replace",
+    "text": "아/ 내일 건강검진해야 돼서 금식해."
+  },
+  "test-weather_00009818": {
+    "action": "replace",
+    "text": "그/ 매일 빠르게 (30분)/(삼십 분)씩 걷는 운동을 해보세요 건강에 도움이 돼요."
+  },
+  "test-weather_00009920": {
+    "action": "replace",
+    "text": "음/ 오늘 날씨는 서울 기준 최고기온 (32도)/(삼십 이 도)로 폭염주의보가 발효될 예정입니다."
+  },
+  "test-weather_00010039": {
+    "action": "replace",
+    "text": "아/ 대출은 (1금융권)/(일 금융권)에서 받아야 해요."
+  },
+  "test-weather_00010060": {
+    "action": "replace",
+    "text": "음/ 부동산 사장님 혹시 (1억)/(일억)으로 구입할 수 있는 집 있을까요?"
+  },
+  "test-weather_00010166": {
+    "action": "replace",
+    "text": "아/ 금리 (1%)/(일 퍼센트)에 사람들은 민감해져."
+  },
+  "test-weather_00010173": {
+    "action": "replace",
+    "text": "그/ 선생님. (5분)/(오 분)만 일찍 수업 끝내주세요."
+  },
+  "test-weather_00010307": {
+    "action": "replace",
+    "text": "그/ (1인)/(일 인) 가족이 늘어나면서 점차 소비문화도 바뀌고 있는 거 같아요."
+  },
+  "test-weather_00010422": {
+    "action": "replace",
+    "text": "음/ 버스 탈 때는 마스크 꼭 해야 돼."
+  },
+  "test-weather_00010444": {
+    "action": "replace",
+    "text": "음/ 엄마 저 다음 주에 친구들이랑 여행 가기로 했는데 가도 돼요?"
+  },
+  "test-weather_00010492": {
+    "action": "replace",
+    "text": "음/ 우리 집 강아지가 새끼를 (5마리)/(다섯 마리)나 낳았어. 얼마나 귀여운지 몰라."
+  },
+  "test-weather_00010762": {
+    "action": "replace",
+    "text": "음/ 오늘 비가 와서 비행기가 연착돼서 좀 늦을 것 같아."
+  },
+  "test-weather_00010936": {
+    "action": "replace",
+    "text": "저/ (오메가3)/(오메가 쓰리) 챙겨 먹고 출근해."
+  },
+  "test-weather_00010940": {
+    "action": "replace",
+    "text": "음/ 벌써 (7시)/(일곱 시)인데 집에 안 가세요?"
+  },
+  "test-weather_00011100": {
+    "action": "replace",
+    "text": "저/ 오메가 (3)/(삼) 자주 챙겨 먹으세요."
+  },
+  "test-weather_00011110": {
+    "action": "replace",
+    "text": "음/ 나 내일 아침 (9시)/(아홉 시)에 면접 보러 간다? 마스크는 꼭 쓰고 가야 해."
+  },
+  "test-weather_00011162": {
+    "action": "replace",
+    "text": "음/ 응. 아/ 맞다 영화 끝나고 렌즈 가게에 가야 돼. 오렌즈 가자."
+  },
+  "test-weather_00011188": {
+    "action": "replace",
+    "text": "음/ 나 수업은 (9월 1일)/(구 월 일 일)부터라 아직 들어보지 못했어."
+  },
+  "test-weather_00011218": {
+    "action": "replace",
+    "text": "음/ 요즘에 여아는 (2.9kg)/(이 점 구 키로그람)으로 태어난데."
+  },
+  "test-weather_00011260": {
+    "action": "replace",
+    "text": "음/ 역시 열심히 한건 나중에 다 보상받게 돼있더라."
+  },
+  "test-weather_00011327": {
+    "action": "replace",
+    "text": "음/ 그는 한국 탱화를 그린 지 (20년)/(이십 년)이 넘었다."
+  },
+  "test-weather_00011351": {
+    "action": "replace",
+    "text": "저/ 예약하신 건강검진 일자는 다음 주 수요일 오전 (8시)/(여덟 시)입니다."
+  },
+  "test-weather_00011362": {
+    "action": "replace",
+    "text": "저/ 고등학교 (2학년)/(이 학년) 담임선생님이 제일 기억에 남는다."
+  },
+  "test-weather_00011379": {
+    "action": "replace",
+    "text": "저/ 내가 고등학교를 졸업한 지도 벌써 (10년)/(십 년)이 다 되어가."
+  },
+  "test-weather_00011538": {
+    "action": "replace",
+    "text": "저/ 지구 온도가 (1도)/(일 도)만 올라가도 위험하다던데."
+  },
+  "test-weather_00011547": {
+    "action": "replace",
+    "text": "저/ 강아지 너무 귀엽다 입양한지는 얼마나 됐어?"
+  },
+  "test-weather_00011607": {
+    "action": "replace",
+    "text": "요즘에 (1박)/(일 박) (2일)/(이 일) 방송 보고 있는데 출연하시는 분들이 너무 재밌고 바보같아."
+  },
+  "test-weather_00011729": {
+    "action": "replace",
+    "text": "(80년)/(팔십 년)대에 볼법한 동네에서 자랐습니다."
+  },
+  "train-dialog_00010190": {
+    "action": "replace",
+    "text": "(1박 2일)/(일 박 이 일)로 캠핑 가려고 하는데 너도 갈래?"
+  },
+  "train-dialog_00021555": {
+    "action": "replace",
+    "text": "거리두기가 (2.5단계)/(이 점 오 단계)로 격상되면서 카페도 테이크아웃만 가능하니까."
+  },
+  "train-dialog_00034297": {
+    "action": "replace",
+    "text": "어제저녁에 (6 7시간)/(예닐곱 시간) 동안 떠들어서 그런가?"
+  },
+  "train-dialog_00042301": {
+    "action": "replace",
+    "text": "(5일)/(오 일) 쉬고 이틀 일하면 재밌게 할 수 있을 거 같기도 하고?"
+  },
+  "train-dialog_00049690": {
+    "action": "replace",
+    "text": "(3)/(서) (4개)/(너 개)의 방향으로 갈라질 수도 있어요."
+  },
+  "train-dialog_00056827": {
+    "action": "replace",
+    "text": "마스크를 계속 사다 보니 (300장)/(삼백 장)도 넘어요."
+  },
+  "train-dialog_00056844": {
+    "action": "replace",
+    "text": "지금 다리가 저려서 (1발자국)/(한 발자국)도 움직일 수가 없어."
+  },
+  "train-dialog_00060448": {
+    "action": "replace",
+    "text": "(2.5)/(이 점 오)는 뭔지. 그냥 (3단계)/(삼 단계)로 해서 짧고 굵게 끝내는 게 낫지 않나?"
+  },
+  "train-dialog_00062793": {
+    "action": "replace",
+    "text": "강도가 (8.0)/(팔 점 영)이었데. 와."
+  },
+  "train-dialog_00064494": {
+    "action": "replace",
+    "text": "약간의 리스크를 감당할 수 있다면 (5%)/(오 프로) 금리를 받을 수 있는 펀드가 있어요."
+  },
+  "train-dialog_00065205": {
+    "action": "replace",
+    "text": "내 성적은 (70)/(칠십) 점이야. 너는 (90)/(구십) 점이지?"
+  },
+  "train-dialog_00065663": {
+    "action": "replace",
+    "text": "어제 경주에서 진도 (5.5)/(오 점 오)의 지진이 났대."
+  },
+  "train-dialog_00065965": {
+    "action": "replace",
+    "text": "건강을 위해서 적어도 (1주일)/(일 주일)에 (3번)/(세 번) 정도는 운동을 해줘야 된대요."
+  },
+  "train-dialog_00080705": {
+    "action": "replace",
+    "text": "세계적으로 가장 아름다운 도시는 어디야?"
+  },
+  "train-dialog_00092234": {
+    "action": "replace",
+    "text": "(6개월)/(육 개월)마다 초음파 검사를 하고 있어."
+  },
+  "train-dialog_00093036": {
+    "action": "replace",
+    "text": "휴양지 어디가고 싶으세요? 저는 조용히 몰디브나 하와이가 좋을거 같아요."
+  },
+  "train-dialog_00123799": {
+    "action": "replace",
+    "text": "(1주일)/(일 주일)에 (1번)/(한 번)은 꼭 분리수거를 하러 가자. 환경에게 작지만 큰 도움이 될 거라 생각해."
+  },
+  "train-dialog_00144971": {
+    "action": "replace",
+    "text": "골뱅이는 우리나라만 먹는데 세계 생산량을 (90%)/(구십 프로)가 우리나라가 수입을 한단다."
+  },
+  "train-dialog_00145232": {
+    "action": "replace",
+    "text": "온난화에 대해서 아는 바가 거의 없어요."
+  },
+  "train-dialog_00147839": {
+    "action": "replace",
+    "text": "코로나 때문에 해외여행을 못 가서 답답합니다."
+  },
+  "train-dialog_00163350": {
+    "action": "replace",
+    "text": "운동을 시작하니까 (좋더라고)/(좋더라구)"
+  },
+  "train-dialog_00172501": {
+    "action": "replace",
+    "text": "증권사 종합자산관리계좌 CMA 잔고는 역대 최대치를 기록했습니다. 또한 대기자금도 증가세를 나타내면서 일반 청약에 (100조)/(백 조) 원이 몰릴 것이라는 전망도 나옵니다."
+  },
+  "train-dialog_00175174": {
+    "action": "replace",
+    "text": "희민아 금리가 (2.5%)/(이 점 오 퍼센트)이면 높은 편인가?"
+  },
+  "train-dialog_00194915": {
+    "action": "replace",
+    "text": "그런데 여기서 공항까지 가는 가장 빠른 버스는 (102번)/(백 이 번) 급행버스에요."
+  },
+  "train-dialog_00221776": {
+    "action": "replace",
+    "text": "폭염에 과일이 타들어가서 과일값이 올랐어요"
+  },
+  "train-dialog_00240133": {
+    "action": "replace",
+    "text": "그런데 날씨가 좀 이상한 거 같이요. 요즘 이상 기후 현상이 종종 있는 거 같아요."
+  },
+  "train-dialog_00243426": {
+    "action": "replace",
+    "text": "그/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-dialog_00248383": {
+    "action": "replace",
+    "text": "그/ 우리 (6.9%)/(육 점 구 퍼센트)야. 얼마나 저렴해."
+  },
+  "train-dialog_00258541": {
+    "action": "replace",
+    "text": "아/ 건강에 점점 신경을 쓰셔야 해요."
+  },
+  "train-dialog_00272514": {
+    "action": "replace",
+    "text": "저기/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-dialog_00278967": {
+    "action": "replace",
+    "text": "그런데진심으로 생신축하드립니다."
+  },
+  "train-dialog_00281567": {
+    "action": "replace",
+    "text": "어제 미국 금리가 (1.5%)/(일 점 오 퍼센트)를 기록했습니다."
+  },
+  "train-dialog_00282769": {
+    "action": "replace",
+    "text": "운동선수랑 싸우면 진짜 사람 죽지."
+  },
+  "train-dialog_00284654": {
+    "action": "replace",
+    "text": "아/ 일본 지바현 남남동 쪽 해역서 규모 (6.0)/(육 점 영) 지진이 발생했습니다."
+  },
+  "train-dialog_00287830": {
+    "action": "replace",
+    "text": "그/ 금리 (1%)/(일 프로) 시대에 살고 있으니 투자할 곳이 없네요."
+  },
+  "train-dialog_00289964": {
+    "action": "replace",
+    "text": "그/ 금리가 (1%)/(일 퍼센트)대니까 말 다 했죠 뭐."
+  },
+  "train-dialog_00292817": {
+    "action": "replace",
+    "text": "음/ 진도 (2.4)/(이 점 사)면 잘 못 느껴요. 지진 피해 없어요."
+  },
+  "train-dialog_00304576": {
+    "action": "replace",
+    "text": "그/ 대출 조금 받았는데 이자가 (3.5%)/(삼 점 오 프로)래요."
+  },
+  "train-dialog_00307656": {
+    "action": "replace",
+    "text": "그/ 진도 (6.0)/(육 점 영)의 지진은 어떤 정도일까요?"
+  },
+  "train-dialog_00320734": {
+    "action": "replace",
+    "text": "저/ 금리 (1%)/(일 퍼센트) 시대에 뭘 더 바라냐?"
+  },
+  "train-dialog_00322234": {
+    "action": "replace",
+    "text": "저/ 예금 금리가 (0%)/(영 퍼센트)대 일 것 같은데요."
+  },
+  "train-dialog_00323930": {
+    "action": "replace",
+    "text": "음/ 이 학교에서 장학금을 받으려면 상위 (1%)/(일 퍼센트)는 되어야 한다."
+  },
+  "train-dialog_00328935": {
+    "action": "replace",
+    "text": "저/ 금리가 (8%)/(팔 퍼센트)까지 뛰었습니다."
+  },
+  "train-dialog_00329706": {
+    "action": "replace",
+    "text": "저/ 이 적금 상품은 이자율이 (3.3%)/(삼 점 삼 프로)입니다."
+  },
+  "train-dialog_00333546": {
+    "action": "replace",
+    "text": "이번 달 금리는 대출금 상환이 있어서 (0.1%)/(영 점 일 프로) 내려갑니다."
+  },
+  "train-economy_00004333": {
+    "action": "replace",
+    "text": "여보 커피가 아직 준비가 안되신 걸까요?"
+  },
+  "train-economy_00007556": {
+    "action": "replace",
+    "text": "선배는 단 거 싫어해요? 역시 (어른)/(으른)이네."
+  },
+  "train-economy_00016274": {
+    "action": "replace",
+    "text": "안녕하세요. 혹시 나이가 어떻게 되세요? 저는 (30살)/(서른 살)(이에요)/(이예요)."
+  },
+  "train-economy_00019318": {
+    "action": "replace",
+    "text": "나에게 (20%)/(이십 프로) 할인 쿠폰이 있어."
+  },
+  "train-economy_00021430": {
+    "action": "replace",
+    "text": "오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-economy_00028143": {
+    "action": "replace",
+    "text": "우리 부모님이 결혼하신 지 (30년)/(삼십 년)이 넘었어.*"
+  },
+  "train-economy_00035721": {
+    "action": "replace",
+    "text": "그/ (4거리)/(사 거리)는 신호등 (4개)/(네 개)가 모두 동시에 켜져."
+  },
+  "train-economy_00036357": {
+    "action": "replace",
+    "text": "오늘 거리두기 (2.5단계)/(이 점 오 단계) 시행을 하루 앞뒀습니다."
+  },
+  "train-economy_00065419": {
+    "action": "replace",
+    "text": "어제 울진 앞바다에서 진도 (3.5)/(삼 점 오)의 지진이 발생하였습니다."
+  },
+  "train-economy_00065828": {
+    "action": "replace",
+    "text": "누구보다 건강 하나는 자신이 있어."
+  },
+  "train-economy_00065843": {
+    "action": "replace",
+    "text": "이번 지진은 (6.8)/(육 점 팔) 이래."
+  },
+  "train-economy_00068047": {
+    "action": "replace",
+    "text": "(3.1운동)/(삼 일 운동)을 모르면 간첩이지."
+  },
+  "train-economy_00068595": {
+    "action": "replace",
+    "text": "이번에 적금 통장 금리가 (2%)/(이 퍼센트) (나올랐더라고요)/(나올랐더라구요)."
+  },
+  "train-economy_00071601": {
+    "action": "replace",
+    "text": "다이어트 목적으로 헬스장을 방문하셨나요? 저희가 무료로 상담해드리고 있으니 (1번)/(한 번) 상담 받아보세요."
+  },
+  "train-economy_00071653": {
+    "action": "replace",
+    "text": "전세대출 알아보고 있어? 신혼부부는 전세대출을 (80%)/(팔십 프로)까지 지원해준다고 하니까 잘 알아봐."
+  },
+  "train-economy_00083907": {
+    "action": "replace",
+    "text": "만기된 적금이 (5개)/(다섯 개)가 되었어요."
+  },
+  "train-economy_00092955": {
+    "action": "replace",
+    "text": "주제 청소.  어투 존댓말."
+  },
+  "train-economy_00100629": {
+    "action": "replace",
+    "text": "운동은 최소한 (1주일)/(일주일)에 (3번)/(세 번)은 해야돼."
+  },
+  "train-economy_00103116": {
+    "action": "replace",
+    "text": "u/지금 반칙해서 선수가 하나가 빠졌어요."
+  },
+  "train-economy_00109912": {
+    "action": "replace",
+    "text": "그/ 이제 게임 안 해. (1주일)/(일 주일)에 (1번)/(한 번)만 할 (거야)/(꺼야)."
+  },
+  "train-economy_00150769": {
+    "action": "replace",
+    "text": "음/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-economy_00157351": {
+    "action": "replace",
+    "text": "그런데 다이어트는 언제나 작심삼일이었어요."
+  },
+  "train-economy_00165275": {
+    "action": "replace",
+    "text": "그/ 지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-economy_00177429": {
+    "action": "replace",
+    "text": "그런데 암만해도 누가뭐라해도 건강이 최고다. 마지막까지 마무리 잘해라."
+  },
+  "train-economy_00177902": {
+    "action": "replace",
+    "text": "요즘 은행들은 대부분 연 (1%)/(일 퍼센트)대의 금리입니다."
+  },
+  "train-economy_00178452": {
+    "action": "replace",
+    "text": "그/ 코로나 거리두기 (2.5단계)/(이 점 오 단계)가 연장됐대요."
+  },
+  "train-economy_00183666": {
+    "action": "replace",
+    "text": "저기/ 나는 이번 학기에는 (4.2)/(사 점 이) 학점 정도는 맞았으면 하는 (바람이)/(바램이) 있어."
+  },
+  "train-economy_00206292": {
+    "action": "replace",
+    "text": "저/ 그 사람들은 다시 페인트칠 하려고 (8시 30분)/(여덟 시 삼십 분)까지 오기로 했단 말이에요."
+  },
+  "train-economy_00213414": {
+    "action": "replace",
+    "text": "그+ 그래도 이번에는 좀 선방한 거 같아. 학점 (4.0)/(사 점 영)."
+  },
+  "train-economy_00221682": {
+    "action": "replace",
+    "text": "그런데 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-economy_00234692": {
+    "action": "replace",
+    "text": "그/ 다이어트는 식단이 (80%)/(팔십 프로) 이상이에요."
+  },
+  "train-economy_00245083": {
+    "action": "replace",
+    "text": "그/ 오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-economy_00246466": {
+    "action": "replace",
+    "text": "저기/ 지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-economy_00252780": {
+    "action": "replace",
+    "text": "그런데 옛날 마마는 치사율이 (30%)/(삼십 퍼센트)에 가까웠대요."
+  },
+  "train-economy_00254772": {
+    "action": "replace",
+    "text": "저기/ 반려 동문에 대해서 생각하면 긍정적인 생각이 들어."
+  },
+  "train-economy_00255788": {
+    "action": "replace",
+    "text": "그런데 현재 서울을 중심으로 (4.0)/(사 점 영) 강도의 지진이 발생 중입니다."
+  },
+  "train-economy_00257263": {
+    "action": "replace",
+    "text": "적금은 수입 금액의 (50%)/(오십 프로)가 적당해."
+  },
+  "train-economy_00257552": {
+    "action": "replace",
+    "text": "과장님. (6)/(육)개월간 수익률이 (500%)/(오백 퍼센트)가 넘으시네요. 주식의 신이십니다."
+  },
+  "train-economy_00259016": {
+    "action": "replace",
+    "text": "경주에 지진이 일어났어 (5.5)/(오 점 오) 지진이야."
+  },
+  "train-economy_00262064": {
+    "action": "replace",
+    "text": "아+ 아이돌을 꿈꾸는 수십만 명의 연습생 중 데뷔에 성공하는 건 (0.1%)/(영 점 일 프로)뿐입니다."
+  },
+  "train-economy_00263517": {
+    "action": "replace",
+    "text": "아/ 대출 금리 (2.9%)/(이 점 구 프로)면 괜찮은 거지?"
+  },
+  "train-economy_00265838": {
+    "action": "replace",
+    "text": "음/ 일본의 경제는 (6.25)/(육 이 오) 전쟁 때문에 발전했다고 할 수 있죠."
+  },
+  "train-economy_00266521": {
+    "action": "replace",
+    "text": "그/ 약간의 리스크를 감당할 수 있다면 (5%)/(오 프로) 금리를 받을 수 있는 펀드가 있어요."
+  },
+  "train-economy_00268943": {
+    "action": "replace",
+    "text": "그/ 이번 청약 (경쟁률이)/(경쟁율이) (1200/천이백) 대 (1/일) 이래요."
+  },
+  "train-economy_00277658": {
+    "action": "replace",
+    "text": "음/ 이자가 (4%)/(사 프로)로 정도 되면은 꽤 후한 거지요."
+  },
+  "train-economy_00281526": {
+    "action": "replace",
+    "text": "아/ 인도에 (6.0)/(육 점 영) 지진이 발생했나 봐 어떡해."
+  },
+  "train-economy_00281681": {
+    "action": "replace",
+    "text": "음/ 고객님 현재 저희 은행 정기적금 이자율은 연 금리 (1.6%)/(일 점 육 퍼센트)입니다."
+  },
+  "train-economy_00281807": {
+    "action": "replace",
+    "text": "음/ 이번엔 칠곡이라는 곳에서 (2.4)/(이 점 사)의 지진이 일어났어요."
+  },
+  "train-economy_00288343": {
+    "action": "replace",
+    "text": "음/ (2.5단계)/(이 점 오 단계) 때 자영업자들 피해 말도 못 할듯해."
+  },
+  "train-economy_00289784": {
+    "action": "replace",
+    "text": "그/ 다이어트에 성공한 사람은 (5%)/(오 퍼센트)도 안될걸?"
+  },
+  "train-economy_00290202": {
+    "action": "replace",
+    "text": "그/ (2%)/(이 프로) 금리면 진짜 저렴한 거 같아. 최고다."
+  },
+  "train-economy_00290752": {
+    "action": "replace",
+    "text": "그/ 금리 고정으로 하시면 (2.5%)/(이 점 오 프로) 정도 됩니다."
+  },
+  "train-economy_00291022": {
+    "action": "replace",
+    "text": "그/ 이번 지진은 (6.8)/(육 점 팔) 이래."
+  },
+  "train-economy_00299708": {
+    "action": "replace",
+    "text": "저/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-economy_00302533": {
+    "action": "replace",
+    "text": "음/ 선배는 단 거 싫어해요? 역시 어른이네."
+  },
+  "train-economy_00307542": {
+    "action": "replace",
+    "text": "저/ 올해 생애 건강검진은 만 (40)/(사십) (50)/(오십) (60)/(육십) (70)/(칠십) (80)/(팔십) 세에 해당되어요."
+  },
+  "train-economy_00307822": {
+    "action": "replace",
+    "text": "저/ 아무리 폭염이래도 40(° c/도씨)는 안 넘겠지."
+  },
+  "train-economy_00310337": {
+    "action": "replace",
+    "text": "음/ 소희야 머랭치기의 핵심은 바로 (1)/(일) 대 (1)/(일) 비율인 것 알고 있어?"
+  },
+  "train-economy_00310616": {
+    "action": "replace",
+    "text": "저/ IMF 땐 금리가 (12%)/(십 이 퍼센트) 넘는 상품도 많았어요."
+  },
+  "train-economy_00311991": {
+    "action": "replace",
+    "text": "저/ 금리가 (1%)/(일 프로)대니까 말 다 했죠 뭐."
+  },
+  "train-economy_00317269": {
+    "action": "replace",
+    "text": "저+ 저번 금리는 (2.9%)/(이 점 구 프로)였는데 이번에는 금리가 어떻게 되나요?"
+  },
+  "train-economy_00322077": {
+    "action": "replace",
+    "text": "저/ 코로나 경보 (2.5단계)/(이 점 오 단계)래. 거리두기 잘해라."
+  },
+  "train-economy_00324088": {
+    "action": "replace",
+    "text": "저/ 열리는 축제가 수도 없이 많은데 경보 (2.5단계)/(이 점 오 단계)야."
+  },
+  "train-economy_00324104": {
+    "action": "replace",
+    "text": "저/ LTV 한도가 (70%)/(칠십 프로)로 줄어들었어."
+  },
+  "train-hobby_00009855": {
+    "action": "replace",
+    "text": "이 음식 유기농 (100%)/(백 퍼센트)야."
+  },
+  "train-hobby_00011469": {
+    "action": "replace",
+    "text": "아메리카노 (1잔)/(한 잔)이랑 인절미 빙수 하나 주세요."
+  },
+  "train-hobby_00015839": {
+    "action": "replace",
+    "text": "영양제를 먹는건 몸에 좋지 않을까요?"
+  },
+  "train-hobby_00030381": {
+    "action": "replace",
+    "text": "(7.5)/(칠 점 오) 강도 지진이 발생했었어."
+  },
+  "train-hobby_00044672": {
+    "action": "replace",
+    "text": "음/ 이번에 질병관리본부에서 (2.5)/(이 점 오) 거리두기를 일주일간 더 한 대."
+  },
+  "train-hobby_00046337": {
+    "action": "replace",
+    "text": "인도에 (6.0)/(육 점 영) 지진이 발생했나 봐 어떡해."
+  },
+  "train-hobby_00052064": {
+    "action": "replace",
+    "text": "저기/ 이번에 성적이 저번 학기보다 한 (0.3점)/(영 점 삼 점) 오른 것 같아서 너무 좋아."
+  },
+  "train-hobby_00057593": {
+    "action": "replace",
+    "text": "저기/ (1번)/(한 번) 한 약속은 죽어도 지켜야 해."
+  },
+  "train-hobby_00064553": {
+    "action": "replace",
+    "text": "현재 금리라면 은행에 돈을 맡기는 게 무의미한 거 같습니다"
+  },
+  "train-hobby_00066779": {
+    "action": "replace",
+    "text": "아/ 퇴직연금 수익률이 (1%)/(일 프로) 대야."
+  },
+  "train-hobby_00069445": {
+    "action": "replace",
+    "text": "아/ 현재 금리라면 은행에 돈을 맡기는 게 무의미한 거 같습니다"
+  },
+  "train-hobby_00072333": {
+    "action": "replace",
+    "text": "음/ 이번 지진이 강도 (5.4)/(오 점 사)의 강진이었대요."
+  },
+  "train-hobby_00077556": {
+    "action": "replace",
+    "text": "저/ 강남 거기는 청약할 필요도 없어 (100%)/(백 퍼센트) 안된다니까."
+  },
+  "train-hobby_00078137": {
+    "action": "replace",
+    "text": "저/ 일본에는 지진이 (5.0)/(오 점 영) 강도로 일어났대요."
+  },
+  "train-hobby_00081473": {
+    "action": "replace",
+    "text": "저/ 어제 기사 봤어요?? 일본에서 지진이 (6.7)/(육 점 칠)도 가 났다네요."
+  },
+  "train-life_00001103": {
+    "action": "replace",
+    "text": "왼손잡이 타자는 그의 타율을 (0.323)/(영 점 삼 이 삼)으로 올렸다."
+  },
+  "train-life_00001483": {
+    "action": "replace",
+    "text": "일반적인 미국인에 관한 기대 수명은 (77.6세)/(칠십 칠 점 육 세)입니다."
+  },
+  "train-life_00001991": {
+    "action": "replace",
+    "text": "간은 분당 (1.4리터)/(일 점 사 리터) 이상 여과하는데 주된 역할을 한다."
+  },
+  "train-life_00002634": {
+    "action": "replace",
+    "text": "진도 (4.5)/(사 점 오)의 지진이 오전 (1시)/(한 시)가 되기 직전에 발생했다."
+  },
+  "train-life_00007279": {
+    "action": "replace",
+    "text": "(8월)/(팔 월) (6일)/(육 일)은 원자 폭탄이 일본 히로시마에 투하되었던 날이다. (70억)/(칠십 억) 번째 아기가 필리핀에서 태어났어요. (7.1)/(칠 점 일) 강도의 지진이 오후 (5시)/(다섯 시) (13분)/(십 삼분)에 발생했다."
+  },
+  "train-life_00007365": {
+    "action": "replace",
+    "text": "이 학교는 소방관이 되고 싶은 사람들을 위한 것이다. 그 학원은 내 선거구에 있다. 새 회원 가입은 엄격히 통제된다. 지난 해 합격률은 (0.5%)/(영 점 오 퍼센트)였습니다."
+  },
+  "train-life_00007366": {
+    "action": "replace",
+    "text": "그 수락율은 (2.5)/(이 점 오)였어요."
+  },
+  "train-life_00008585": {
+    "action": "replace",
+    "text": "이는 하키공보다 폭이 (1.5)/(일 점 오) 센치미터 정도 넓은 것이다."
+  },
+  "train-life_00010796": {
+    "action": "replace",
+    "text": "골프 선수는 (17홀)/(십 칠 홀)을 시작하기도 전에 패배를 인정했다. 그 선수의 그린 적중률은 (70%)/(칠십 퍼센트)다"
+  },
+  "train-life_00010906": {
+    "action": "replace",
+    "text": "정부는 (70%)/(칠십 퍼센트)를 인정하기로 현재 결정합니다."
+  },
+  "train-life_00010988": {
+    "action": "replace",
+    "text": "정부는 부실 은행들에 공적 자금을 투입하기로 결정했다. 정부는 무기 판매를 묶기로 결정했다. 정부는 트위터와 기타 SNS로부터 악성 루머를 제거해 내기로 결정했다. 정부는 토요일에 비상 사태를 선포했다. 정부는 전국에 호우경보를 발하고 태풍의 진로를 주의깊게 지켜보았다. 정부는 우리의 급료에서 (5%)/(오 퍼센트)의 소득세를 공제한다. 정부는 이 파업을 불법으로 규정하고 파업 주동자에 대한 강경한 조치를 천명했다."
+  },
+  "train-life_00011057": {
+    "action": "replace",
+    "text": "정부는 인플레이션 물가 상승을 (4%)/(사 퍼센트)로 낮추었습니다"
+  },
+  "train-life_00011141": {
+    "action": "replace",
+    "text": "정부는 올해 실업률을 (4.5%)/(사 점 오 퍼센트) 이하로 유지할 것으로 목표를 잡았다. 정부는 보건 교육에 천만 불을 할당하고 있다."
+  },
+  "train-life_00011616": {
+    "action": "replace",
+    "text": "GDP는 가장 중요한 경제 척도 중 하나이다. 그로스 가족은 지금 방을 떠났다. 매상 총수익이 (5.7%)/(오 점 칠 퍼센트)까지 증가했다. 판매 총이익률이 큰 성공이다. 상품의 총량은 (2톤)/(이 톤)이다. 그 괴상한 본질의 범죄는 많은 사람들을 놀라게 했다. 이 근처의 땅은 돌이 많아서 농업에는 좋지 않습니다."
+  },
+  "train-life_00012394": {
+    "action": "replace",
+    "text": "사적은 보존 상태가 좋다. 과거의 평균 적자는 GDP의 (2%)/(이 퍼센트)을 조금 넘었었다. 내역 데이터 도표가 화면에 표시됩니다."
+  },
+  "train-life_00012430": {
+    "action": "replace",
+    "text": "올랑드 정부는 좌파 성향의 정책을 더 고집할 수 없게 됐다. 안에 있는 유공 섬유가 더러운 물질을 (99%)/(구십 구 퍼센트) 걸러내요. 할리우드 파크는 거대한 호그와트 성을 중심으로 만들어질 계획입니다."
+  },
+  "train-life_00012598": {
+    "action": "replace",
+    "text": "그 양은 (1)/(일)년 전보다 (3.2배)/(삼 점 이 배) 증가한 것이다."
+  },
+  "train-life_00012655": {
+    "action": "replace",
+    "text": "도시화된 땅의 양은 (6.10)/(육 점 십) 제곱 킬로미터이다."
+  },
+  "train-life_00013062": {
+    "action": "replace",
+    "text": "(8월)/(팔 월)의 물가 수준은 (7월)/(칠 월)에 비해 (5%)/(오 퍼센트) 하락하고 있다"
+  },
+  "train-life_00013290": {
+    "action": "replace",
+    "text": "여성이 둘째 아이를 출산하는 평균 연령은 (31.8세)/(삼십 일 점 팔 세)이다."
+  },
+  "train-life_00013303": {
+    "action": "replace",
+    "text": "평균 나이는 (12.4세)/(십 이 점 사 세)였다."
+  },
+  "train-life_00013327": {
+    "action": "replace",
+    "text": "인도인들은 일주일에 평균 (10.42)/(십 점 사 이) 시간 책을 읽는다."
+  },
+  "train-life_00013328": {
+    "action": "replace",
+    "text": "장남의 평균 지능지수는 (103.2)/(백 삼 점 이)였다."
+  },
+  "train-life_00013329": {
+    "action": "replace",
+    "text": "평균 이탈리아 가족은 (1.27명)/(일 점 이 칠 명)의 어린이를 갖습니다."
+  },
+  "train-life_00013332": {
+    "action": "replace",
+    "text": "평균 결혼 기간은 (11.5년)/(십 일 점 오 년)이다."
+  },
+  "train-life_00013338": {
+    "action": "replace",
+    "text": "스페인에서 최저 평균 체류 기간이 (5.1일)/(오 점 일 일)이다."
+  },
+  "train-life_00013346": {
+    "action": "replace",
+    "text": "벨로루시 사람들의 평균 수명은 (68.7세)/(육십 팔 점 칠 세)입니다."
+  },
+  "train-life_00013369": {
+    "action": "replace",
+    "text": "북극곰은 보통 몸길이가 (2.5미터)/(이 점 오 미터)에서 (3미터)/(삼 미터)까지 자란다."
+  },
+  "train-life_00013372": {
+    "action": "replace",
+    "text": "재화의 평균가가 (2.2%)/(이 점 이 퍼센트)밖에 오르지 않았다."
+  },
+  "train-life_00013378": {
+    "action": "replace",
+    "text": "OECD 국가들의 평균 CLI 지수는 (92.2)/(구십 이 점 이)였다."
+  },
+  "train-life_00013407": {
+    "action": "replace",
+    "text": "평균 감원 인구는 (2년)/(이 년) 전의 (9.2%)/(구 점 이 퍼센트)에서 줄어든 (7.7%)/(칠 점 칠 퍼센트)였습니다."
+  },
+  "train-life_00018169": {
+    "action": "replace",
+    "text": "중앙은행은 금리를 (0.25%)/(영 점 이 오 퍼센트) 포인트 인상했다."
+  },
+  "train-life_00018556": {
+    "action": "replace",
+    "text": "급여의 최고 (3%)/(삼 퍼센트)까지 회사에서 적립액만큼 보조해 줍니다."
+  },
+  "train-life_00018661": {
+    "action": "replace",
+    "text": "그 회사의 주가는 하루 만에 (10%)/(십 퍼센트) 이상 폭락했다"
+  },
+  "train-life_00020551": {
+    "action": "replace",
+    "text": "비가 올 가능성은 (20%)/(이십 퍼센트)도 안 간다"
+  },
+  "train-life_00022122": {
+    "action": "replace",
+    "text": "원주율은 (3.14)/(삼 점 일 사) 정도 됩니다."
+  },
+  "train-life_00022502": {
+    "action": "replace",
+    "text": "실험의 반평균은 (96.11%)/(구십 육 점 일 일 퍼센트)였다."
+  },
+  "train-life_00023418": {
+    "action": "replace",
+    "text": "지금까지 기록된 가장 추운 온도는 영하 (89.4도)/(팔십 구 점 사 도)였답니다."
+  },
+  "train-life_00023797": {
+    "action": "replace",
+    "text": "위원회는 (50%)/(오십 퍼센트)를 입증받아야 한다."
+  },
+  "train-life_00023851": {
+    "action": "replace",
+    "text": "국민연금개선위원회는 (15년)/(십 오 년)간 전국민의 (4)/(사) (5%)/(오 퍼센트) 연금 납부금 인상을 결정했다."
+  },
+  "train-life_00023939": {
+    "action": "replace",
+    "text": "위원회는 더 많은 한국인들이 (6.25)/(육 이 오) 전쟁에 대해서 알길 바라고 있다. 그 위원회는 (53일)/(오십 삼 일)안에 (63명)/(육십 삼 명)의 증인을 심문할 예정이었다."
+  },
+  "train-life_00024289": {
+    "action": "replace",
+    "text": "그 회사는 시장을 (90%)/(구십 퍼센트) 점유하게 되었다."
+  },
+  "train-life_00025338": {
+    "action": "replace",
+    "text": "이것은 작년의 (30.1%)/(삼십 점 일 퍼센트) 보다 훨씬 높은 수치이다."
+  },
+  "train-life_00026784": {
+    "action": "replace",
+    "text": "이 진주는 높이가 거의 (1.6미터)/(일 점 육 미터)이고."
+  },
+  "train-life_00027522": {
+    "action": "replace",
+    "text": "이는 전 분기에 비해 (3.8%)/(삼 점 팔 퍼센트) 하락한 수치이다."
+  },
+  "train-life_00028067": {
+    "action": "replace",
+    "text": "이는 지난해의 (10.7%)/(십 점 칠 퍼센트)와 (2002년)/(이천 이 년) (9.9%)/(구 점 구 퍼센트)보다 증가한 수치이다."
+  },
+  "train-life_00028885": {
+    "action": "replace",
+    "text": "이는 미국 전체 인구의 (12.5%)/(십 이 점 오 퍼센트)를 넘는 수치입니다."
+  },
+  "train-life_00029256": {
+    "action": "replace",
+    "text": "(5%)/(오 퍼센트)의 절반 수준이 되는 것이다."
+  },
+  "train-life_00029713": {
+    "action": "replace",
+    "text": "(3)/(삼)만원에 세금 (10%)/(십 퍼센트)가 붙습니다."
+  },
+  "train-life_00029774": {
+    "action": "replace",
+    "text": "캠프에서 (0.001퍼센트)/(영 점 영 영 일 퍼센트)의 확률이 있다."
+  },
+  "train-life_00032447": {
+    "action": "replace",
+    "text": "기업 부문은 거의 (25%)/(이십 오 퍼센트)이다."
+  },
+  "train-life_00033367": {
+    "action": "replace",
+    "text": "실수입이 (50%)/(오십 퍼센트) 떨어졌다."
+  },
+  "train-life_00033547": {
+    "action": "replace",
+    "text": "새로운 계약은 연 (3%)/(삼 퍼센트) 인상 외에 물가 상승률 반영을 요구한다."
+  },
+  "train-life_00033841": {
+    "action": "replace",
+    "text": "새로운 미사일은 사정거리가 (15~30km)/(십오에서 삼십 킬로미터)됩니다."
+  },
+  "train-life_00034188": {
+    "action": "replace",
+    "text": "신설된 세금 때문에 연간 보너스가 (30%)/(삼십 퍼센트)나 대폭 삭감되었다."
+  },
+  "train-life_00053030": {
+    "action": "replace",
+    "text": "배추김치를 벌써 다+ (먹었더라고요)/(먹었더라구요) 깍두기를 담아야겠어요."
+  },
+  "train-life_00053204": {
+    "action": "replace",
+    "text": "배터리 수명이 (1%)/(일 프로) 줄었네 우와."
+  },
+  "train-life_00054042": {
+    "action": "replace",
+    "text": "근육 운동 (하려고)/(할려고) 하는데 이 보충 제면 될까요? 이거 (1번)/(한 번) 다시 써보시겠어요?"
+  },
+  "train-life_00059372": {
+    "action": "replace",
+    "text": "그/ 영화는 (2분)/(두 분)이서 보는 게 맞으실까요?"
+  },
+  "train-life_00062979": {
+    "action": "replace",
+    "text": "간접흡연은 (2차)/(이 차)+ (3차)/(삼 차)+ (4차)/(사 차)까지 있대."
+  },
+  "train-life_00071863": {
+    "action": "replace",
+    "text": "강아지 간식 (1개)/(한 개) (5,000원)/(오천 원) 이가? 그래서 (6개)/(여섯 개) 샀다."
+  },
+  "train-life_00078963": {
+    "action": "replace",
+    "text": "(2학기)/(이 학기)에도 성적비율 올려주는 건가?"
+  },
+  "train-life_00082131": {
+    "action": "replace",
+    "text": "(3일)/(삼 일)이요? 음.그것은 너무 길어요. 내일 이+ 옷들이 필요하거든요*."
+  },
+  "train-life_00084638": {
+    "action": "replace",
+    "text": "카레 돈까스 하나 돈까스 우동 하나요"
+  },
+  "train-life_00090193": {
+    "action": "replace",
+    "text": "지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-life_00091876": {
+    "action": "replace",
+    "text": "아직 (8살)/(여덟 살)인데 심부름을 정말 잘하네요."
+  },
+  "train-life_00097630": {
+    "action": "replace",
+    "text": "(2400개)/(이천 사백 개)라. 하루에 (100개)/(백 개)씩만 해봐야겠다."
+  },
+  "train-life_00097695": {
+    "action": "replace",
+    "text": "어제 낮에 책을 (1권)/(한 권) 샀어요. * 너무 재미있었어요."
+  },
+  "train-life_00110278": {
+    "action": "replace",
+    "text": "(1년)/(일 년) 만기형 이율 (2.5%)/(이 점 오 퍼센트) 이상 되는 적금 상품 있나요?"
+  },
+  "train-life_00110895": {
+    "action": "replace",
+    "text": "가품이면 (200%)/(이백 퍼센트) 환불 보장이라는데 어떻게 구분해?."
+  },
+  "train-life_00114692": {
+    "action": "replace",
+    "text": "벽면 누수로 불편을 드려 죄송합니다. 건설사 공사 진행중."
+  },
+  "train-life_00115400": {
+    "action": "replace",
+    "text": "아직 다 맞춰서 안 내서 그런 거 아닐까?"
+  },
+  "train-life_00117304": {
+    "action": "replace",
+    "text": "*우리 회사의 올해 매출을 (20%)/(이십 퍼센트) 높일 수 있게 해보자."
+  },
+  "train-life_00135694": {
+    "action": "replace",
+    "text": "나머지 (97%)/(구십 칠 프로)는 다시 헤어지는 거야."
+  },
+  "train-life_00139789": {
+    "action": "replace",
+    "text": "너희들의 그런 정신적 어둠이 아니라 육체적 어둠이란 말이야!"
+  },
+  "train-life_00141485": {
+    "action": "replace",
+    "text": "자신만만한 한석율의 발표력이 관건이다. 그의 히리+*힘이라면."
+  },
+  "train-life_00150097": {
+    "action": "replace",
+    "text": "전자레인지는 (1번)/(한 번) 사면 정말 오래 사용할 수 있어."
+  },
+  "train-life_00155494": {
+    "action": "replace",
+    "text": "나 오빠 아니면 안 되겠어서 미친 척해 보는 거야."
+  },
+  "train-life_00156513": {
+    "action": "replace",
+    "text": "난* 아이스 아메리카노."
+  },
+  "train-life_00158846": {
+    "action": "replace",
+    "text": "이러다가 어느 순간 (10월 11월 12월 2021년)/(시 월 십 일 월 십 이 월 이천 이십 일 년)이 되겠지."
+  },
+  "train-life_00168403": {
+    "action": "replace",
+    "text": "왜냐하면 앞으로 이럴 거니까."
+  },
+  "train-life_00168682": {
+    "action": "replace",
+    "text": "(40만원)/(사십 만 원) 빌려 주시면 감사하겠습니다."
+  },
+  "train-life_00171715": {
+    "action": "replace",
+    "text": "예금 금리가 (0%)/(영 퍼센트) 대 일 것 같은데요."
+  },
+  "train-life_00174918": {
+    "action": "replace",
+    "text": "하루 (1시간)/(한 시간)씩은 걷는게 운동이 되고 좋대."
+  },
+  "train-life_00189196": {
+    "action": "replace",
+    "text": "집 알아볼 때 부동산 (3 4개)/(세 네 개)는 돌아봐야 한다던데?"
+  },
+  "train-life_00205852": {
+    "action": "replace",
+    "text": "혹시 어떤 아이돌 제일 좋아하세요? 저는 여자아이돌은 다 좋아하는데 특히 레드벨벳을 제일 좋아해요. 춤도 너무 멋지고 얼굴도 너무 예뻐요. 요즘에는 블랙핑크가 참 인기가 많더라고요. 코첼라 페스티벌 공연도 올랐다 그러더라고요. 한국 아이돌로서는 이례적인 일이라는데 정말 대단한 것 같아요. 저도 그렇게 생각해요. 저는 오마이걸을 제일 좋아하는데 이번에 살짝 설랬어라는 노래로 (1위)/(일 위)를 해서 정말 기뻐요. 이전에 냈던 비밀정원이라는 노래는 사재기를 해서 (1위)/(일 위)를 차지한 가수들 때문에 (1번)/(한 번)도 정상을 차지하지 못했거든요. 와 정말 축하드려요."
+  },
+  "train-life_00211466": {
+    "action": "replace",
+    "text": "담아가실 비닐봉투 필요하신가요? 네. 담아주세요. (50원)/(오십 원) 추가입니다."
+  },
+  "train-life_00213366": {
+    "action": "drop"
+  },
+  "train-life_00213419": {
+    "action": "drop"
+  },
+  "train-life_00219590": {
+    "action": "replace",
+    "text": "미국 금리는 (0.01%)/(영 점 영 일 프로)인데 우리도 그 정도로 떨어지려나요?"
+  },
+  "train-life_00223915": {
+    "action": "replace",
+    "text": "(2.5단계)/(이 점 오 단계) 때 자영업자들 피해 말도 못 할듯해."
+  },
+  "train-life_00231236": {
+    "action": "replace",
+    "text": "적금은 넣고 (계시나요)/(계신가요)? 네 (1달)/(한 달)에 (100만원)/(백만 원) 씩 넣고 있어요."
+  },
+  "train-life_00232291": {
+    "action": "replace",
+    "text": "요새 청약은 (300)/(삼백) 대 (1)/(일) (400)/(사백) 대 (1)/(일)이라니 말이 돼?"
+  },
+  "train-life_00234840": {
+    "action": "replace",
+    "text": "집 산다더니 샀어? 올랐던데"
+  },
+  "train-life_00246865": {
+    "action": "replace",
+    "text": "이번에 성적이 저번 학기보다 한 (0.3점)/(영 점 삼 점) 오른 것 같아서 너무 좋아."
+  },
+  "train-life_00248518": {
+    "action": "replace",
+    "text": "우리 방송 시청률이 (30%)/(삼십 프로)에 육박했어요."
+  },
+  "train-life_00257416": {
+    "action": "replace",
+    "text": "무조건 보험이 좋은 것만은 아니에요."
+  },
+  "train-life_00273034": {
+    "action": "replace",
+    "text": "이번에 금리 인하 요구해서 이자가 (1%)/(일 프로) 내려갔어요."
+  },
+  "train-life_00282328": {
+    "action": "replace",
+    "text": "금리를 (3%)/(삼 퍼센트)나 (올렸더라고)/(올렸더라구)"
+  },
+  "train-life_00287312": {
+    "action": "replace",
+    "text": "일본 지바현 남남동 쪽 해역서 규모 (6.0)/(육 점 영) 지진이 발생했습니다."
+  },
+  "train-life_00287315": {
+    "action": "replace",
+    "text": "아이돌을 꿈꾸는 수십만 명의 연습생 중 데뷔에 성공하는 건 (0.1%)/(영 점 일 퍼센트)뿐입니다."
+  },
+  "train-life_00292226": {
+    "action": "replace",
+    "text": "내일 자전거 타고 한강에서 (5시)/(다섯 시)에 봐요."
+  },
+  "train-life_00294213": {
+    "action": "replace",
+    "text": "정년퇴직은 만 (65세)/(육십 오 세)입니다."
+  },
+  "train-life_00325654": {
+    "action": "replace",
+    "text": "오늘 걔가 자꾸 여자친구랑 같이 올 거야 여길? 오늘+ 하루 종일 잠만 잤더니 배가 너무 고파.*"
+  },
+  "train-life_00340518": {
+    "action": "replace",
+    "text": "이율이 (5.03%)/(오 점 영 삼 퍼센트)인 (1년)/(일 년) 만기 적금 들려고 하는데요."
+  },
+  "train-life_00343199": {
+    "action": "replace",
+    "text": "진심으로 생신 축하드립니다*."
+  },
+  "train-life_00343568": {
+    "action": "replace",
+    "text": "학점 평균이 (4.5 점)/(사 점 오 점)+ 만점에 (4.0)/(사 점 영) 은 돼야 편입이 가능하세요."
+  },
+  "train-life_00357232": {
+    "action": "replace",
+    "text": "그/ 삼촌 담배 줄이시고 밥 잘 챙겨 드세요. 갈수록 (셀카)/(셍카)는 잘 안 찍게 (되더라고요)/(되더라구요)"
+  },
+  "train-life_00378750": {
+    "action": "replace",
+    "text": "그런데 지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-life_00381408": {
+    "action": "replace",
+    "text": "아니/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-life_00414927": {
+    "action": "replace",
+    "text": "음/ 오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-life_00419729": {
+    "action": "replace",
+    "text": "저기/ 고객님이 선택하신 상품의 금리는 약 (1%)/(일 프로)입니다."
+  },
+  "train-life_00439676": {
+    "action": "replace",
+    "text": "금리가 (10%)/(십 프로)쯤 되면 좋겠어요."
+  },
+  "train-life_00462556": {
+    "action": "replace",
+    "text": "아까 뉴스를 봤는데 일본에서 (6.5)/(육 점 오) 강도의 지진이 났었데."
+  },
+  "train-life_00476076": {
+    "action": "replace",
+    "text": "저/ 대구가 우리나라 확진자 (82%)/(팔십 이 퍼센트)래요."
+  },
+  "train-life_00493560": {
+    "action": "replace",
+    "text": "아니/ 대구가 우리나라 확진자 (82%)/(팔십 이 퍼센트)래요."
+  },
+  "train-life_00497827": {
+    "action": "replace",
+    "text": "아니/ 고객님 저희 은행에서는 금리를 (1%)/(일 프로)밖에 제공해드리지 못합니다."
+  },
+  "train-life_00497993": {
+    "action": "replace",
+    "text": "아니/ 카카오뱅크에서는 신용 (4등급)/(사 등급)도 (3%)/(삼 퍼센트) 금리로 대출이 가능합니다."
+  },
+  "train-life_00503366": {
+    "action": "replace",
+    "text": "적금 상품 중에 (10%)/(십 프로)대 이율이 정말 있어요?"
+  },
+  "train-life_00523686": {
+    "action": "replace",
+    "text": "열차를 더 많이 운행했음"
+  },
+  "train-life_00529246": {
+    "action": "replace",
+    "text": "금리 (10%)/(십 프로) (20%)/(이십 프로) 그거 있긴 한 건가요??"
+  },
+  "train-life_00531830": {
+    "action": "replace",
+    "text": "아/ 금리가 (1.5%)/(일 점 오 프로) 면 좋은 거냐."
+  },
+  "train-life_00533609": {
+    "action": "replace",
+    "text": "아/ 이 대출 금리는 (3.2%)/(삼 점 이 프로)예요."
+  },
+  "train-life_00535286": {
+    "action": "replace",
+    "text": "음/ 미국 금리는 (0.01%)/(영 점 영 일 프로)인데 우리도 그 정도로 떨어지려나요?"
+  },
+  "train-life_00553235": {
+    "action": "replace",
+    "text": "아/ 가평휴게소에서 파는지 (1번)/(한 번) 가보고 (올게)/(오께)."
+  },
+  "train-life_00558835": {
+    "action": "replace",
+    "text": "아니/ (4차)/(사 차) 산업 혁명으로 다양한 직업이 생기고 있어."
+  },
+  "train-life_00618158": {
+    "action": "replace",
+    "text": "건강에 점점 신경을 쓰셔야 해요."
+  },
+  "train-life_00647140": {
+    "action": "replace",
+    "text": "아/ 바쁜 거 알지만 잠깐 얘기할 수 있을까? 제가 원두는 잘 모르는데 어떤 게 괜찮나요?"
+  },
+  "train-life_00653047": {
+    "action": "replace",
+    "text": "저기/ 오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-life_00661243": {
+    "action": "replace",
+    "text": "저기/ 이번 하나은행에서 (5%)/(오 프로)짜리 적금이 나왔어요."
+  },
+  "train-life_00663744": {
+    "action": "replace",
+    "text": "저기/ 무조건 보험이 좋은 것만은 아니에요."
+  },
+  "train-life_00668306": {
+    "action": "replace",
+    "text": "아니/ 일본에 강도 (7.0)/(칠 점 영)의 지진이 발생했습니다."
+  },
+  "train-life_00680658": {
+    "action": "replace",
+    "text": "거제도 해수욕장으로 휴가 가려고 합니다"
+  },
+  "train-life_00681847": {
+    "action": "replace",
+    "text": "스위스는 지구온난화로 인해 빙하가 (60%)/(육십 퍼센트)가량 녹았대."
+  },
+  "train-life_00682022": {
+    "action": "replace",
+    "text": "이 대출 금리는 (3.2%)/(삼 점 이 프로)예요."
+  },
+  "train-life_00691632": {
+    "action": "replace",
+    "text": "아/ 한국은행 기준금리는 (0.5%)/(영 점 오 프로)야."
+  },
+  "train-life_00692156": {
+    "action": "replace",
+    "text": "아/ 내가 일본에서 잠깐 살았잖아. 거긴 지진이 너무 많이 일어나서 (2.0)/(이 점 영) 정도는 그냥 무시해."
+  },
+  "train-life_00698940": {
+    "action": "replace",
+    "text": "음/ 저 커피숍은 가지고 온 텀블러를 사용하면 (10%)/(십 프로) 할인해줘서 좋아 단골 (숍)/(샵) 확정."
+  },
+  "train-life_00699357": {
+    "action": "replace",
+    "text": "아/ 미래를 위해 청약을 드는 게 좋을 거 같아요."
+  },
+  "train-life_00700437": {
+    "action": "drop"
+  },
+  "train-life_00701846": {
+    "action": "replace",
+    "text": "그/ 강도가 (8.0)/(팔 점 영)이었데. 와."
+  },
+  "train-life_00703951": {
+    "action": "replace",
+    "text": "그/ 어제 경주에서 진도 (5.5)/(오 점 오)의 지진이 났대."
+  },
+  "train-life_00705656": {
+    "action": "replace",
+    "text": "그/ 강남 거기는 청약할 필요도 없어 (100%)/(백 프로) 안된다니까."
+  },
+  "train-life_00710063": {
+    "action": "replace",
+    "text": "그/ 예금 금리가 (0%)/(영 퍼센트)대 일 것 같은데요."
+  },
+  "train-life_00710600": {
+    "action": "replace",
+    "text": "음/ 진도 (6.0)/(육 점 영)의 지진이란 어떤 걸까?"
+  },
+  "train-life_00712500": {
+    "action": "replace",
+    "text": "아/ 적금은 여유 금액 (50%)/(오십 프로)가 적당한 것 같아 (7)/(칠)요."
+  },
+  "train-life_00712612": {
+    "action": "replace",
+    "text": "음/ 코로나 (2.5단계)/(이 점 오 단계)인데도 (관광지에)/(광관지에) 가는 사람들은 항상 가."
+  },
+  "train-life_00712824": {
+    "action": "replace",
+    "text": "아/ 지진 강도가 (6.0)/(육 점 영)을 넘었다고 합니다."
+  },
+  "train-life_00713987": {
+    "action": "replace",
+    "text": "음/ 포항에 (6.5)/(육 점 오) 규모의 대지진이 발생할 수 있다."
+  },
+  "train-life_00718628": {
+    "action": "replace",
+    "text": "그/ 이 상품 금리 (3.5%)/(삼 점 오 프로)래. 완전 대박이지?"
+  },
+  "train-life_00721387": {
+    "action": "replace",
+    "text": "아/ 요즘 은행들은 대부분 연 (1%)/(일 프로)대의 금리입니다."
+  },
+  "train-life_00722944": {
+    "action": "replace",
+    "text": "그/ 적금 알아봤는데 여기가 금리 (3%)/(삼 프로)라 제일 낫더라고."
+  },
+  "train-life_00723061": {
+    "action": "replace",
+    "text": "음/ 이번에 가입하신 적금은 (3년)/(삼 년) 만기에 (3%)/(삼 프로) 고정이자입니다."
+  },
+  "train-life_00724675": {
+    "action": "replace",
+    "text": "아/ 스위스는 지구온난화로 인해 빙하가 (60%)/(육십 퍼센트)가량 녹았대."
+  },
+  "train-life_00726337": {
+    "action": "replace",
+    "text": "음/ 어제 미국 캘리포니아 남부에서 규모 (7.1)/(칠 점 일)의 강력한 지진이 발생했다는 뉴스 보셨나요?"
+  },
+  "train-life_00728043": {
+    "action": "replace",
+    "text": "아/ 이번에 부동산 상승해서 (2.5만)/(이 점 오 만) 명이 국가장학금 못 받거나 덜 받는데."
+  },
+  "train-life_00729439": {
+    "action": "replace",
+    "text": "아/ 적금 이자가 (1%)/(일 퍼센트) 더 높으면 들어도 될 텐데."
+  },
+  "train-life_00731671": {
+    "action": "replace",
+    "text": "음/ 나 금리 (5%)/(오 프로) 적용한 대출 상품 소개받았어."
+  },
+  "train-life_00732300": {
+    "action": "replace",
+    "text": "그/ 금리가 (8%)/(팔 프로)까지 뛰었습니다."
+  },
+  "train-life_00737083": {
+    "action": "replace",
+    "text": "아/ 금리 (10%)/(십 프로) (20%)/(이십 프로) 그거 있긴 한 건가요??"
+  },
+  "train-life_00738328": {
+    "action": "replace",
+    "text": "그/ 코로나 경보 (2.5단계)/(이 점 오 단계)래. 거리두기 잘해라."
+  },
+  "train-life_00745039": {
+    "action": "replace",
+    "text": "음/ 나 이번에 성적 (4.3)/(사 점 삼) 받았어. 부럽다."
+  },
+  "train-life_00745974": {
+    "action": "replace",
+    "text": "저기/ 골뱅이는 우리나라만 먹는데 세계 생산량을 (90%)/(구십 프로)가 우리나라가 수입을 한단다."
+  },
+  "train-life_00747164": {
+    "action": "replace",
+    "text": "아/ 청소 좀 하고 사세요 이게 (뭐예요)/(뭐에요)."
+  },
+  "train-life_00749625": {
+    "action": "replace",
+    "text": "그/ 열리는 축제가 수도 없이 많은데 경보 (2.5단계)/(이 점 오 단계)야."
+  },
+  "train-life_00752044": {
+    "action": "replace",
+    "text": "음/ 대학 성적을 (4.5점)/(사 점 오 점) 만점 기준으로 말씀해주세요."
+  },
+  "train-life_00754822": {
+    "action": "replace",
+    "text": "아/ 대출을 끼고 아파트를 구매하는데 매매가의 (60%)/(육십 프로)가 대출입니다."
+  },
+  "train-life_00756211": {
+    "action": "replace",
+    "text": "그/ 영양제를 먹는건 몸에 좋지 않을까요?"
+  },
+  "train-life_00758176": {
+    "action": "replace",
+    "text": "아/ 선생님이 늘 말씀하셨어요 정직하라고."
+  },
+  "train-life_00759292": {
+    "action": "replace",
+    "text": "음/ 너는 알바도 하면서 어떻게 학점이 (4.5)/(사 점 오)가 나오는 거야?"
+  },
+  "train-life_00759742": {
+    "action": "replace",
+    "text": "아/ 운동선수랑 싸우면 진짜 사람 죽지."
+  },
+  "train-life_00761153": {
+    "action": "replace",
+    "text": "그/ (1학기)/(일 학기) 성적은 평균 (4.0)/(사 점 영)이야."
+  },
+  "train-life_00762364": {
+    "action": "replace",
+    "text": "그/ 금리는 조만간 (0%)/(영 퍼센트) 될 수도 있어요."
+  },
+  "train-life_00763520": {
+    "action": "replace",
+    "text": "그/ 금리 (1%)/(일 프로) 대로 대출할 수 있는 데는 없어요."
+  },
+  "train-life_00764436": {
+    "action": "replace",
+    "text": "그/ 멕시코 지진이 (7.0)/(칠 점 영)이었나요."
+  },
+  "train-life_00767544": {
+    "action": "replace",
+    "text": "그/ (3.1)/(삼 일) 운동을 모르면 간첩이지."
+  },
+  "train-life_00768016": {
+    "action": "replace",
+    "text": "그/ 최저 은행 금리는 연 (5.9%)/(오 점 구 프로)입니다."
+  },
+  "train-life_00772414": {
+    "action": "replace",
+    "text": "음/ 저기 이모 여기 다대기랑 양파랑 마늘 좀 갖다 주세요."
+  },
+  "train-life_00779356": {
+    "action": "replace",
+    "text": "음/ 여보 커피가 아직 준비가 안되신 걸까요?"
+  },
+  "train-life_00786536": {
+    "action": "replace",
+    "text": "음/ 이번에 시험 잘 봤나? 나는 국장 받을 수 있을지 모르겠다."
+  },
+  "train-life_00788300": {
+    "action": "replace",
+    "text": "음/ 배터리 수명이 (1%)/(일 프로) 줄었네 우와."
+  },
+  "train-life_00800954": {
+    "action": "replace",
+    "text": "음/ 네 현대카드는 (5%)/(오 프로) 할인받아서 이용 가능하십니다."
+  },
+  "train-life_00809203": {
+    "action": "replace",
+    "text": "저/ 금리 좋게 준다더니 겨우 (1.2%)/(일 점 이 프로)라네 웃겨."
+  },
+  "train-life_00809218": {
+    "action": "replace",
+    "text": "저/ 약간의 리스크를 감당할 수 있다면 (5%)/(오 프로) 금리를 받을 수 있는 펀드가 있어요."
+  },
+  "train-life_00809699": {
+    "action": "replace",
+    "text": "저/ 어제 경주에서 진도 (5.5)/(오 점 오)의 지진이 났대."
+  },
+  "train-life_00810099": {
+    "action": "replace",
+    "text": "저/ 지금 일본에서 규모 (9.0)/(구 점 영)의 대지진이 일어났습니다."
+  },
+  "train-life_00814697": {
+    "action": "replace",
+    "text": "음/ 야 너 보조 배터리 있냐? 나 (11%)/(십 일 프로)밖에 안 남았어."
+  },
+  "train-life_00815612": {
+    "action": "replace",
+    "text": "저/ 이번 청약 (경쟁률이)/(경쟁율이) (1200)/(천이백) 대 (1)/(일) 이래요."
+  },
+  "train-life_00822706": {
+    "action": "replace",
+    "text": "저/ 아직도 (2%)/(이 퍼센트)대 금리인 적금 통장이 두 개나 있어."
+  },
+  "train-life_00824350": {
+    "action": "replace",
+    "text": "음/ 보통은 (15%)/(십 오 프로)를 주고 서비스가 좋으면 (20%)/(이십 프로)도 준대."
+  },
+  "train-life_00826386": {
+    "action": "replace",
+    "text": "저/ 이 상품 금리 (3.5%)/(삼 점 오 퍼센트)래. 완전 대박이지?"
+  },
+  "train-life_00831641": {
+    "action": "replace",
+    "text": "저/ 적금 알아봤는데 여기가 금리 (3%)/(삼 퍼센트)라 제일 낫더라고."
+  },
+  "train-life_00832015": {
+    "action": "replace",
+    "text": "저/ 우리 (6.9%)/(육 점 구 프로)야. 얼마나 저렴해."
+  },
+  "train-life_00834190": {
+    "action": "replace",
+    "text": "저/ 이번 시즌 성적이 중요해 (50%)/(오십 퍼센트) 반영되거든."
+  },
+  "train-life_00837981": {
+    "action": "replace",
+    "text": "음/ 정부에서 개선을 해야 하는데 그게 아닌가 복"
+  },
+  "train-life_00839116": {
+    "action": "replace",
+    "text": "저/ 주제 관광 지어 투 존댓말."
+  },
+  "train-life_00850474": {
+    "action": "replace",
+    "text": "저/ 영양제를 먹는건 몸에 좋지 않을까요?"
+  },
+  "train-life_00851716": {
+    "action": "replace",
+    "text": "저/ 대출 조금 받았는데 이자가 (3.5%)/(삼 점 오 퍼센트)래요."
+  },
+  "train-life_00851762": {
+    "action": "replace",
+    "text": "저/ 나 이번에 수술받은 거 보험에서 (90%)/(구십 프로) 나와서 얼마나 다행이었는지 몰라."
+  },
+  "train-life_00858986": {
+    "action": "replace",
+    "text": "포항에 (6.5)/(육 점 오) 규모의 대지진이 발생할 수 있다."
+  },
+  "train-life_00868276": {
+    "action": "replace",
+    "text": "우리 알바생 (1명)/(한 명) 잘렸어."
+  },
+  "train-life_00870395": {
+    "action": "replace",
+    "text": "(5학년)/(오 학년) 때 선생님이 너무 보고 싶어요."
+  },
+  "train-life_00872258": {
+    "action": "replace",
+    "text": "이번엔 칠곡이라는 곳에서 (2.4)/(이 점 사)의 지진이 일어났어요."
+  },
+  "train-life_00872507": {
+    "action": "replace",
+    "text": "폭발 소리가 (10마일)/(십 마일) 사방에 들렸다."
+  },
+  "train-life_00872855": {
+    "action": "replace",
+    "text": "공장은 (100%)/(백 퍼센트)의 가동률을 보이고 있다."
+  },
+  "train-life_00873265": {
+    "action": "replace",
+    "text": "이 요금은 보통택시보다 (20%)/(이십 퍼센트)나 비쌉니다."
+  },
+  "train-life_00873599": {
+    "action": "replace",
+    "text": "연방 준비 은행은 이자를 (0.5%)/(영 점 오 퍼센트) 내렸다."
+  },
+  "train-life_00873948": {
+    "action": "replace",
+    "text": "그 수치는 (24.5%)/(이십 사 점 오 퍼센트)로 뛰어올랐다."
+  },
+  "train-life_00873952": {
+    "action": "replace",
+    "text": "올해 수치는 (21.2%)/(이십 일 점 이 퍼센트)까지 증가했다."
+  },
+  "train-life_00873965": {
+    "action": "replace",
+    "text": "이 수치는 지난 해 급감하여 (75.8kg)/(칠십 오 점 팔 키로그램)이 되었다."
+  },
+  "train-life_00873977": {
+    "action": "replace",
+    "text": "이 숫자는 (2003년)/(이천 삼 년)의 (169만)/(백 육십 구만) 명보다 (10.2퍼센트)/(십 점 이 퍼센트) 감소한 것 이다."
+  },
+  "train-life_00875444": {
+    "action": "replace",
+    "text": "길은 사방 팔방으로 통해 있다. 길은 상당히 험하다 길은 여기서부터 내리막이 된다. 길을 (기역)/(기윽)자꼴로 돌다."
+  },
+  "train-life_00876535": {
+    "action": "replace",
+    "text": "(0.05)/(영 점 영 오)는 작은 수 같지만 아주 중요하다."
+  },
+  "train-life_00876551": {
+    "action": "replace",
+    "text": "모든 현금 구매는 (10%)/(십 프로) 할인입니다 ."
+  },
+  "train-life_00877192": {
+    "action": "drop"
+  },
+  "train-life_00877498": {
+    "action": "replace",
+    "text": "좀 더 존경심을 가지고 그녀를 더 존경해보세요.(13%원)/(십 삼 프로 원)이 약간 넘는 사람들은 불어만 말한다.약 (45%원)/(사십 오 프로 원) 정도의 일본 학생들이 수업 중 잠을 잤다."
+  },
+  "train-life_00877503": {
+    "action": "replace",
+    "text": "약(30%원)/(삼십 프로 원)은"
+  },
+  "train-life_00877733": {
+    "action": "replace",
+    "text": "(1%)/(일 프로) 컴퓨터 계정이 이미 있었습니다."
+  },
+  "train-life_00877980": {
+    "action": "replace",
+    "text": "상선이 항구에 도착했다.장사꾼은 그 배를 탐에게 팔았다.한 상인이 그 차를 그에게 팔았다.그들의 예산 중 겨우 (2%)/(이 프로)가 홍보용으로 쓰였다.방향의 단순한 변화가 반란을 정당화하지는 않는다.학문만 하는 사람은 유식한 바보다.나의 실제 일에 비하면 사소한 일이다.그들은 쓸데없는 일로 말질했다.실력주의자"
+  },
+  "train-life_00878000": {
+    "action": "replace",
+    "text": "그의 종이팩 주스로 떨어졌다. (1마일)/(일 마일)이 라면 상당한 도보길이다. (1마일)/(일 마일)은 (1.6km)/(일 점 육 킬로미터)와 같다. (1마일)/(일 마일)은 약 (1.6km)/(일 점 육 킬로미터) 상당한다. 군악대는 감미로운 음악 연주했다. 군악대는 장송곡을 연주했다. 군악단이 우울한 음악을 연주했다. 군악대의 연주가 있을 것이다군사 법원이 그들의 체포를 위해 영장을 발부했다. 군사적인 해결책은 정답이 아니다."
+  },
+  "train-life_00878555": {
+    "action": "replace",
+    "text": "초 단위로 시간을 재서 제곱한 뒤 (5.12)/(오 점 일 이)를 곱하세요."
+  },
+  "train-life_00879160": {
+    "action": "replace",
+    "text": "맥주의 세금은 (52%)/(오십 이 프로)나 올랐다.납세자들은 과태료를 낼 필요는 없지만 체납 세금에 대한 이자를 납부해야 합니다."
+  },
+  "train-life_00879301": {
+    "action": "replace",
+    "text": "제가 마찬가지로 진퇴양난에 처해있다.선생님들은 여러 가지 책무를 담당하고 있다.교사들은 (10%)/(십 프로)의 봉급 인상을 요구하고 있다.선생님들은 권위의 무력화로 인해 의욕을 상실했다.교사들은 롤모델로 보여진다 ."
+  },
+  "train-life_00881258": {
+    "action": "replace",
+    "text": "그것 또한 (무엇무엇)/(뭐뭐)에 따라 달라진다. 그것 또한 (무엇무엇)/(뭐뭐)에 의존된다. 따라 달라진다. 한 번 더, 그건 말이 안 돼."
+  },
+  "train-life_00881284": {
+    "action": "replace",
+    "text": "다시, 그들은 (25%)/(이십 오 프로)를 받게 될 것이다.다시한번, 모든것이 빠르게 바뀔것이다.다시, 이건 우연히 일어나지 않았"
+  },
+  "train-life_00881320": {
+    "action": "replace",
+    "text": "그 마녀에게 반대하여 당신의 마음은 굳어졌어요.엔화 대비 가치는 (3.2%)/(삼 점 이 프로) 떨어졌다.법에 반하긴 하지만, 악랄하거나 못된건 아니야.푸른하늘을 배경으로 연기는 똑바로 솟아올랐다.필요하다면, 세상을 거스르는 거지."
+  },
+  "train-life_00881362": {
+    "action": "replace",
+    "text": "어그레시브 인라인스케이팅 속을 준비를 시켜라!"
+  },
+  "train-life_00881611": {
+    "action": "replace",
+    "text": "사용되는 다양한 물건들이 거래된다.홍수로 모든 가구가 망가졌다.이 가게의 모든 물건들이 (20%원)/(이십 프로 원) 싸게 판매된다.반면에, 에이큰의 노래들은 불쾌한 내용들이다.네가 좋아하지 않는 것들을 겨냥 방아, 네가 좋아하지 않는 것들을 겨냥해서 방아쇠를 당겨라.자막에 따르면, 적을 향해 조준하라."
+  },
+  "train-life_00881678": {
+    "action": "replace",
+    "text": "공기는 주로 질소와 산소로 이루어져있다 공기는 냉각되면 수축하고 가열되면 팽창한다.직접적인 열을 피해 공기로 건조시킨다.항공 운임이 작년에 비해 (10%)/(십 프로)가량 올랐다비행기 요금이 (20%)/(이십 프로)나 급등했다이 경로들의 항공요금은 아주 비쌉니다."
+  },
+  "train-life_00881708": {
+    "action": "replace",
+    "text": "항공 여행은 매년 약 (6%)/(육 프로)씩 성장할 것이다 항공여행 그것은 내 삶의 골칫거리이다 ."
+  },
+  "train-life_00883623": {
+    "action": "replace",
+    "text": "태인스는 진짜 고생을 마다하지 않는 사람이다.녹슬지 않는 황동 팔찌는 작년 여름에 유행했었다.스테인레스는 강판 스테인레스 강판은 부식성 화학약품의 영향을 받지 않는다.그런 얼룩은 좀처럼 빠지지 않는다.계단진행 또는 계단참에 부적합한 매개변수가 있습니다."
+  },
+  "train-life_00883718": {
+    "action": "replace",
+    "text": "자신을 위한 (25%)/(이십 오 퍼센트) 정도의 시간을 활용해라"
+  },
+  "train-life_00883867": {
+    "action": "replace",
+    "text": "통계에 의하면 우리 나라의 인구성장률은 퍽 높은 편이다.통계학은 수학의 일종이다.통계는 지금 결혼의 (53%)/(오십 삼 프로)가 이혼으로 끝난다는 것을 보여준다통계에 의하면 우리 나라의 인구성장률은 퍽 높은 편이다.통계는 조심해서 다뤄야 한다.통계에 의하면 우리 나라의 인구성장률은 퍽 높은 편이다."
+  },
+  "train-life_00883868": {
+    "action": "replace",
+    "text": "통계를 보면 절도가 작년과 비교해 (30%)/(삼십 프로) 감소했어요."
+  },
+  "train-life_00884209": {
+    "action": "replace",
+    "text": "스톨라는 바닥까지 닿, 스톨라는 바닥까지 닿는 긴 튜닉이었다. 그에게 눈사람을 빼았, 그에게 눈사람을 빼았다. 도난 물품은 원, 도난 물품은 항상 원래 주인에게 되돌려 주어야 한다."
+  },
+  "train-life_00884212": {
+    "action": "replace",
+    "text": "선거가 있는 해에 일자리 감축을 납득하기란 어렵다. 죽은 사람은 말이 없다. 돌갑판이 수영장을 둘러싸고 있다. 그는 커피 한모금을 위해 멈춘다. 사악한 기운을 물리치기 위해 왕릉, 사악한 기운을 물리치기 위해 왕릉 상관 계수는 물리치기 위해 왕릉 주위에 양의 석상이 놓여있다. 그 가수의 팬들은 음반 가게로 향하여야 한다."
+  },
+  "train-life_00884232": {
+    "action": "replace",
+    "text": "멈추고 여러분의 삶을 균형 잡힌 것으로 보는지 자신에게 물어보세요. 플러스 끝내기 전에 모든 검색 작업을 중지 및 취소합니다."
+  },
+  "train-life_00884473": {
+    "action": "replace",
+    "text": "필요한 만큼만 챙겨 둬.서늘한 곳에 처트니를 보관하세요.포장해서 보관하고 (4~5)/(사 오)개월 내에 사용해라.시원하고 어두운 저장실에 저장하세요5일간 냉장고에 밀폐된 상태로 보관해둬라.3일동안 냉장고내에서 뚜껑덮은채로 보관하라각 반응에 대한 적합치와 잔차를 저장합니다."
+  },
+  "train-life_00884477": {
+    "action": "replace",
+    "text": "병이나 피클 병에 보관하세요.서늘하고 건조한 곳에 보관하시고 (10~12)/(십에서 십이)주 이내에 사용하십시오.서늘하고 건조한 곳에 보관하시고 6개월 이내에 사용하세요.서늘하고 건조한 곳에 보관하시고 (6달/여섯달)+ (6~6)/(육에서 여섯)달 (6~8달)/(여섯 달에서 여덟 달) 안에 사용해주세요.차가운 곳에 보관하시고 즉시 드세요.서늘한 장소에 밀봉하여 보관하십시오사용하기 전까지 서늘한 장소에서 보관하라.선선하고, 어두운 장소에서 적어도 6주 정도 보관해라.냉장고 안의 덮인 용기에 저장하라.병에 담아 시원한 곳에 보관하십시오.상에 내기 전"
+  },
+  "train-life_00884723": {
+    "action": "replace",
+    "text": "(12~13살)/(열 두살 열 세살) 중 일부가 그들의 가족을 알아본다."
+  },
+  "train-life_00884732": {
+    "action": "replace",
+    "text": "그것이 종교적인 기념물이었다고 생각한다.약간의 사람들은 신경질적으로 킥킥거린다.오늘 아침 몇몇 사람이 찾아 왔었다.몇몇 가격들은 (80%)/(팔십 퍼센트) 이상까지 떨어졌다.시작은 몇가지 질문들로 끝내."
+  },
+  "train-life_00884784": {
+    "action": "replace",
+    "text": "양 팀 선수들 간에 싸움이 벌어졌다두 폭력단 사이에서 싸움이 일어났다.싸움에는 시간과 에너지가 포함되지.지금 가족들간에 싸움이 일어났어요싸움이 판났다.싸움판이 벌어지다.젊은 권투선수를 위해 결투가 마련되었다.(100%)/(백 프로)이하의 수치는 이익을 표시한다.(1993년)/(천 구백 구십 삼 년)에 관한 수치는 아직 구할 수 없다.파일을 찾을 수 없습니다."
+  },
+  "train-life_00885009": {
+    "action": "replace",
+    "text": "임신의 모든 기간은 (38~42주)/(삼십 팔주에서 사십 이주) 간 지속된다. 다 자란 돼지의 이빨은 44개입니다."
+  },
+  "train-life_00885284": {
+    "action": "replace",
+    "text": "앨런의 모금 행사는 오후 5시 30분에 열렸어요.알레르기는 가장 흔한 만성적인 질병이다.알레르기가 원인으로 보이지는 않는다.알레르기나 천식은 너의 가족에게 번진다알러지 경보 진통제가 천식을 유발하는가?알러지테스트 또한 진료의 한 부분이 될 수 있다통증 완화는 즁요한 의학적 문제이다."
+  },
+  "train-life_00885315": {
+    "action": "replace",
+    "text": "내가 분명히 말하겠다 지구 온난화는 오류이다."
+  },
+  "train-life_00885362": {
+    "action": "replace",
+    "text": "실온에서 (4~5)/(사 오)시간 동안 두세요.몇분간 참도록 하세요.상온에 1시간 동안 두세요.사용 하기 전 1 시간동안 냉장고에 넣어두세요 제한된 사용자 계정 제거를 허용합니다."
+  },
+  "train-life_00886055": {
+    "action": "replace",
+    "text": "주는 좀 골칫덩이다 작은 상자 정확히 말해서 다섯은 좋지 않았다"
+  },
+  "train-life_00886210": {
+    "action": "replace",
+    "text": "년 (1월)/(일 월), 강한 지진이 아이티를 강타했어요.진도 (7.5)/(칠 점 오) 규모의 강진이 발생했다. 폭도에 대항할만한 강력한 군대가 파견되었다. 두 사람 사이에는 끈끈한 우정이 싹텄다. 강풍이 대서양 안을 휘몰아쳤다. 힘센"
+  },
+  "train-life_00886319": {
+    "action": "replace",
+    "text": "내가 아파트를 나갈때마다 미행자가 붙는다고? 재단사는 옷을 만들기 전에 정확한 치수를 재야한다. 재단사는 새 양복을 맞추기 위해 남자의 치수를 쟀다. 배가 순풍을 타고 빠르게 나아갔다. 타클로보는 길이가 (1.4m)/(일 점 사 미터)에 달할 수 있어요."
+  },
+  "train-life_00886414": {
+    "action": "replace",
+    "text": "실이 돌돌 풀린다내 생각엔 (3)/(삼)+ (3.8년)/(삼 점 팔 년) 된 것 같다."
+  },
+  "train-life_00886474": {
+    "action": "replace",
+    "text": "총 (32,000명)/(삼만 이천 명)의 사람들이 명칭 공모전에 참여했다. (33.6억)/(삼십 삼 점 육억) 명의 시청자들이 작년에 채널을 보고 있었다."
+  },
+  "train-life_00886606": {
+    "action": "replace",
+    "text": "일반적인 인도인 가정의 자녀 수는 약 (2.6명)/(이 점 육 명)이다."
+  },
+  "train-life_00886981": {
+    "action": "replace",
+    "text": "(1년)/(일 년) 전에는 약 (3.30)/(삼 점 삼 영)"
+  },
+  "train-life_00887053": {
+    "action": "replace",
+    "text": "약 (3.5PB)/(삼 점 오 피비)의 데이터가 백업됩니다."
+  },
+  "train-life_00887072": {
+    "action": "replace",
+    "text": "클럽이 약 (9.4%)/(구 점 사 퍼센트)를 점유하고 있었다. 약 (90마리)/(구십 마리)의 코끼리들이 이 행사에 참가했습니다."
+  },
+  "train-life_00887208": {
+    "action": "replace",
+    "text": "보트들이 있다.벽난로 위에 여왕의 초상화가 있었다.벽난로 위에 놓으 놓으면 좋겠네요. (무엇무엇)/(뭐뭐)에게는 알 수 없는, 너무 어려운."
+  },
+  "train-life_00887276": {
+    "action": "replace",
+    "text": "시장 출시 기간을 (75%)/(칠십 오 프로) 단축합니다."
+  },
+  "train-life_00887381": {
+    "action": "replace",
+    "text": "공식 통계에 따르면 실업률이 (6%)/(육 퍼센트)대에 이르고 있다.한 그림에 따르면 셰익스피어는 턱수염을 가졌다.어느 한 조사에 의하면, (8명)/(팔 명)의 여자 중 (1명)/(일 명)이 불임이다."
+  },
+  "train-life_00887391": {
+    "action": "replace",
+    "text": "(85%)/(팔십 오 퍼센트)가 스팸 메일이다.통계에 의하면 우리 나라의 인구성장률은 퍽 높은 편이다."
+  },
+  "train-life_00887407": {
+    "action": "replace",
+    "text": "그래프에 의하면 사슴이 가장 빨리 달린다. 최근 조사에 의하면 연 (5%)/(오 퍼센트) 정도 성장할거라고 합니다 ."
+  },
+  "train-life_00887459": {
+    "action": "replace",
+    "text": "(2%)/(이 프로) 계정을 원래대로 설정했습니다 ."
+  },
+  "train-life_00887506": {
+    "action": "replace",
+    "text": "정당 방위를 근거로 저를 무죄로 인정해주세요!타는 타이어에서 나는 매캐한 연기나는 말단거대증에 대하여 쓰기로 결정했다.유럽 전역에서 강경 보수파가 힘을 얻고 있다.우체국 건너편에 있어요. 걸어서 (5분)/(오 분) 이에요.그 계단 맞은 편에 큰 부숴진 창문이 있었다.전면적으로 전 부서에서 대답을, 대답은 예였다전반적으로 우리 관리품질은 형편없다.전면적으로, 준비는 당신의 친구이다전반적으로, 그들은 같은 것들을 원한다.전반적으로, 티켓 가격이 꾸준히 상승했다.미국 전역에서 싱글은 성인의 (40%)/(사십 퍼센트)를 차지한다.전국적으로 나는 여러 지방에 친구가 있다.사막을 가로지그면 약속된 땅이 있다.전 세계적으로 사람들은 더 많이 내고 있다.전 세계적으로 그 이야기는 동일하였다전국에 걸쳐 노동자는 생활비의 증, 생활비의 증가를 요구했다."
+  },
+  "train-life_00887949": {
+    "action": "replace",
+    "text": "그렇죠?비록 내가 하는 일은 아니지만 말야하지만 인종 차별은 여전히 삶을 피폐하게 만든다.왕이긴 하나 맥베스는 완전히 의혹을 벗지 못 했다.비록 나를 알아도, 나는 아마 그럴것이야.또한 기대 수명이 (50%)/(오십 프로) 증가한다.토마토는 칼로리는 낮으면서 포만감을 준다"
+  },
+  "train-life_00888688": {
+    "action": "replace",
+    "text": "큰 매미는 겨우 30일에서 40일을 살죠.성인 귀가시간 순서가 정각에 위배된다그 지역은 향락업소들이 난립해 있다성인 학습 배움에는 늦음이란 없다.성인 잡지는 청소년에게 유해하다.성인 잡지는 청소년에게 해가 된다.성인 잡지는 청소년의 의식을 흐려 놓는다."
+  },
+  "train-life_00888700": {
+    "action": "replace",
+    "text": "어른들은 오랫동안 화를 안 푸는 경향이 있어요.직업훈련을 받고자 원하는 성인들.어른들 역시 그것들을 좋아하게 될 것이다 임질에 걸린 성인들은 항생제로 치료를 받는다.계약금을 주다.사전 준비 미리 1주일 전부터 준비해라.사전등록 해주시기 바랍니다."
+  },
+  "train-life_00889159": {
+    "action": "replace",
+    "text": "이후론 (1.5배)/(일 점 오 배)씩 계산됩니다"
+  },
+  "train-life_00889177": {
+    "action": "replace",
+    "text": "그는 간신히 목숨이 붙어 있었다.사고 후에 그는 급히 병원으로 옮겨졌어요.그 사고 이후로, 저는 차를 폐차시켰어요.그 사고 이후에, 한 달 정도 발목을 안 썼어.그 사고 이후에 상황은 그녀 편으로 돌아섰다.(50세)/(오십 세) 이후로, 그 수들이 상당히 감소한다.비행기가 착륙하고 난 뒤에 나는 짐을 찾았다.수선을 하자 그 바지가 내게 꼭 맞았다.차례를 지낸 후 성묘를 갔다.그 발표 이후 주식은 (15%)/(십 오 퍼센트) 감소했다."
+  },
+  "train-life_00889337": {
+    "action": "replace",
+    "text": "피로가 풀렸으면 다시 일을 시작해라. 이후에 (무엇무엇이에요)/(뭐뭐에요)."
+  },
+  "train-life_00890013": {
+    "action": "replace",
+    "text": "전 상품 (10%)/(십 퍼센트) 할인합니다."
+  },
+  "train-life_00890222": {
+    "action": "replace",
+    "text": "모든 것은 사는 것이었다.그녀가 원하는 것은 내게 진하게 키스하는 것 뿐이다.그녀의 관심은 오직 자신의 승진에만 집중되어 있었다.모든 셰리주는 브랜디를 첨가한 포도주로 만든다.그녀가 요청하는 건 작은 도움이었을 뿐이에요.모든 발송물은 (100만원)/(백 만 원)의 보험에 가입될 것이다.모든 셔츠는 (10%)/(십 퍼센트) 할인된다."
+  },
+  "train-life_00890749": {
+    "action": "replace",
+    "text": "사공이 많으면 배가 산으로 가는 법이죠.이러한 패턴의 전형적인 예가 바로 에이즈이다.이것의 전형적인 예는 (무엇무엇)/(뭐뭐)라고 볼수 있다."
+  },
+  "train-life_00890914": {
+    "action": "replace",
+    "text": "노사 간에 협의가 이루어질 것이다.모든 상품에는 (5%)/(오 퍼센트)의 소비세가 부과된다.폐병"
+  },
+  "train-life_00890962": {
+    "action": "replace",
+    "text": "기술자들이 순회 공연 중인 그 악단과 동행하고 있다.시체는 결국 흙먼지로 환원된다.(무엇과)/(뭐와) B는 서로 관련이 있다.0에 가까운 상관 값은 선형 관계가 없음을 나타냅니다."
+  },
+  "train-life_00891504": {
+    "action": "replace",
+    "text": "기술적인 문제는 모두 그에게 일임되었다모든 대퇴부 샘플들은 많아야 (2%)/(이 퍼센트)를 갖고 있다."
+  },
+  "train-life_00891591": {
+    "action": "replace",
+    "text": "놀라운 꼬마 레슬링선수. 놀랄만한 제안. 놀랍군요. 놀라워 정말 잘했어. 놀랍게도 (99%)/(구십 구 퍼센트)나 맞혔대요. 놀랍게도, 그 임신기간은 (4일)/(사 일)뿐이다. 놀라워, 그들은 단지 점점 더 악화되고 있어."
+  },
+  "train-life_00891817": {
+    "action": "replace",
+    "text": "아프리카 판화예요.채 한 시간도 안돼 여진이 감지 되었다.도착하기 전에 시대가 바뀌었다.고령 사회는 그 비율이 (14%)/(십 사 퍼센트) 이상이다."
+  },
+  "train-life_00891940": {
+    "action": "replace",
+    "text": "(4)/(사)+ (4.1번)/(사 점 일 번) 갑니다."
+  },
+  "train-life_00891954": {
+    "action": "replace",
+    "text": "(42형)/(사십 이 형) 구축함들을 빨리 대체하는 것은 필수적이다.어디선가 찢어지는 듯한 비명 소리가 들렸다지진은 건물, 다리 도로를 파괴할 수 있다.지진은 밤에 오는 도둑처럼 경고 없이 온다.리히터 (4.0)/(사 점 영) 규모의 지진이 발생했다.지진은 도시의 여러 건물들을 쓰러뜨렸다.사람들을 죽음으로 모는 지진은 큰 재앙이다. 간밤에 지진이 있었다.지렁이는 축축한 흙 속에서 산다.지렁이가 움직거린다."
+  },
+  "train-life_00892669": {
+    "action": "replace",
+    "text": "국제적인 위기는 많은 직원들을 위협했다. 한 인터넷 카페 또한 발견되었다. 공유하려면 인터넷 연결이 필요합니다."
+  },
+  "train-life_00892887": {
+    "action": "replace",
+    "text": "(10%)/(십 퍼센트)는 영화를 보고 배웠다고 말했다.(1966년)/(천 구백 육십 육 년)은 그것이 최소치를 기록한 해였다.(23)/(이십 삼)은 이순신 장군의 연승 숫자를 말한다.그리고, 초등학교 학생들의 (49%)/(사십 구 퍼센트)가 눈이 나쁘다.그 중 (60.6%)/(육십 점 육 퍼센트)가 입원 치료를 받았다.그 중 (6억 명)/(육 억 명)이 어린이들입니다."
+  },
+  "train-life_00892913": {
+    "action": "replace",
+    "text": "(1/3)/(삼 분의 일)은 돈을 모으기 위해 세탁기를 덜 사용한다.하늘 아래 모든 것엔 각각의 목적에 맞는 때가 있어요.한주가지나고, 그는 하였다.무려 (62%)/(육십 이 퍼센트)는 그가 평균이하라고 말했다.마녀는 공포의 대상이 아닙니다."
+  },
+  "train-life_00893074": {
+    "action": "replace",
+    "text": "노년층 사망자 수는 (0.7%)/(영 점 칠 퍼센트) 늘었습니다."
+  },
+  "train-life_00893405": {
+    "action": "replace",
+    "text": "그의 목소리는 마치 미국 (R&B)/(알앤비)가수 같았죠.그는 서류작업의 마감기한을 놓치지 시작했다."
+  },
+  "train-life_00896766": {
+    "action": "replace",
+    "text": "또 다른 (8%)/(팔 퍼센트)는 군인자세로 잔다."
+  },
+  "train-life_00897946": {
+    "action": "replace",
+    "text": "세계 최고 (R&B)/(알앤비) 가수가 될 거예요."
+  },
+  "train-life_00898722": {
+    "action": "replace",
+    "text": "건축 사진. 빛과 희망이 있음에. 그것에 유리한 반동이 일었다. (0.05%)/(영 점 영 오 프로) 이상의 혈중 알콜 농도는 면허정지 수치이다. 읽어보기 및 설치 안내서를 다운로드할 수 있습니다."
+  },
+  "train-life_00898948": {
+    "action": "replace",
+    "text": "바로, 제품 기능성에 대해 (100%)/(백 프로) 확인할 수 있도록 노력하는 것입니다."
+  },
+  "train-life_00899568": {
+    "action": "replace",
+    "text": "그녀는 언제나 매사에 주의 깊다.걘 시애틀에서 날아올꺼고 비행기가 오전 (10:15)/(열시 십오분)에 도착할꺼야."
+  },
+  "train-life_00900222": {
+    "action": "replace",
+    "text": "물론이죠. 다시 반복하죠.물론이죠. 다시 말씀 드리죠.물론이죠. 구경시켜 드릴게요.좋아요. (4개)/(네 개)를 모두 구입하시면 총액에서 (10%)/(십 프로) 할인해 드리지요."
+  },
+  "train-life_00900392": {
+    "action": "replace",
+    "text": "놀랍게도 그녀의 목소리는 매우 침착했다.놀랍게도 그의 종이 비행기는 (69.1m)/(육십 구 점 일 미터)를 날았습니다."
+  },
+  "train-life_00900403": {
+    "action": "replace",
+    "text": "놀랍게도 무려 (2.7m)/(이 점 칠 미터) 라고 합니다."
+  },
+  "train-life_00900408": {
+    "action": "replace",
+    "text": "놀랍게도 그것은 연구하는 내내 무시되어졌다. 놀랍게도 이것은 제 자전거예요. 놀랍게도 이 곤충의 몸 길이는 (16.7m)/(십 육 점 칠 미터) 입니다."
+  },
+  "train-life_00900449": {
+    "action": "replace",
+    "text": "조사 결과에 따르면 온라인상의 저작권 침해가 여전히 만연해 있다. 설문에 의하면 작년에 모든 한국인 중 대략 (10%)/(십 프로)가 자원봉사를 했다. 생존적인 죄책감은 진실이다. 오늘날 급변하는 기업 환경에서 생존하려면 신속함과 민첩함 예지 등을 갖추고 있어야 합니다 ."
+  },
+  "train-life_00900939": {
+    "action": "replace",
+    "text": "내어 중간 부분에 선을 하나 그어라.줄넘기를 (20~30번)/(이십 번에서 삼십 번) 한 후에 잠깐 쉬세요."
+  },
+  "train-life_00901350": {
+    "action": "replace",
+    "text": "이 쿠폰으로 (20%)/(이십 프로)할인 받을 수 있나요 ."
+  },
+  "train-life_00901742": {
+    "action": "replace",
+    "text": "제가 점심 식사를 대접할게요.도와줘서 고맙구나 내 손 잡아줘서 고마워"
+  },
+  "train-life_00902280": {
+    "action": "replace",
+    "text": "그 항공사는 평일 항공편에 (5%)/(오 프로) 할인을 해 주+ 해 줘요 ."
+  },
+  "train-life_00902387": {
+    "action": "replace",
+    "text": "그것만으로 집의 가격을 약 (50%)/(오십 프로)까지 올라가게 한다."
+  },
+  "train-life_00902717": {
+    "action": "replace",
+    "text": "그건 그다지 새로운 얘기가 아닌 것 같은데요. (해설자)/(해설지) 그것이 매우 좋게는 들리지 않네요."
+  },
+  "train-life_00902806": {
+    "action": "replace",
+    "text": "전투기는 레이더 탐지에 의해 미사일을 피했다. 그 수치는 약 (200만)/(이백 만)의 성인들과 (50만)/(오십 만)의 어린이들로 구성된다 같은 수치는 남학생의 경우 (25%)/(이십 오 프로) 하락했다 이것은 작년보다 떨어진 수치이다. 그 조각은 너무 높다."
+  },
+  "train-life_00902855": {
+    "action": "replace",
+    "text": "그 무덤은 네 친구들을 깜짝 놀라게 하기에는 정말 좋은 장소였다. 저 골프 코스는 경기하기에 좋지 않다. 식료품점은 정말 지저분한 장소였어. 그것은 사회적 맥락을 극도로 무시한다. 그 그룹은 전 세계 거의 모든 곳에서 공연을 했다. 그 그룹은 우리가 훌륭한 (R&B)/(알앤비) 가수가 되기 위한 좋은 본보기예요."
+  },
+  "train-life_00903028": {
+    "action": "replace",
+    "text": "나는 거기에 관여하고 싶지 않아.(12년)/(십 이 년)의 기간을 넘어 투자는 이어진다.저것은 투표를 위해 신중한 준비를 포함한다.그것은 변두리에서 논쟁하는 것이다.그것은 규정에 어긋난다.도무지 알아들을 수 없는 소리이다.이 숫자는 전교생의 (10%)/(십 프로)에 해당한다.그것은 남부 소나무의 (3배)/(세 배) 내지 (5배)/(다섯 배)입니다."
+  },
+  "train-life_00903029": {
+    "action": "replace",
+    "text": "작년에 그것은 (57%)/(오십 칠 프로)가 올랐다."
+  },
+  "train-life_00903030": {
+    "action": "replace",
+    "text": "그것은 작년보다 (1.6%)/(일 점 육 퍼센트)증가한 것이다.저것이 (1년)/(일 년)에 (6.6%)/(육 점 육 프로) 증가한 것이다."
+  },
+  "train-life_00903061": {
+    "action": "replace",
+    "text": "그것은 장관이 부끄러워해야 할 암울한 기록이다.그것은 그에게 불평등한 요구이다.그것은 완전히 다른 가능성이야.그것은 소용없는 구별이다.그것은 끔찍한 타율이다.누구도 몰랐으면 하는 끔찍한 상황이야.그것은 (20%)/(이십 프로) 하락."
+  },
+  "train-life_00903192": {
+    "action": "replace",
+    "text": "그것은 전체 중 약 (80%)/(팔십 프로)이다."
+  },
+  "train-life_00903270": {
+    "action": "replace",
+    "text": "작년에 비해 (29%)/(이십 구 프로) 상승했다. 이 강수량은 (9.1%)/(구 점 일 프로) 이상 상승한 것이다. 저것은 엄청난 양의 에너지이다. 그것은 믿기힘든 상태의 일이다. 그거 엄청 심각한 문제군요. 그것은 믿을 수 없는 깜짝놀랄 만한 사실이다. 그것은 이전 정부의 폐단의 흔적이다. 그것은 우리가 관용할 수 없는 불일치 및 이례이다. 그것은 민주주의 절차의 위반이다. 저것은 독창적인 제안이다."
+  },
+  "train-life_00903349": {
+    "action": "replace",
+    "text": "그건 정말 아주 우스꽝스럽다그건 순전히 엉터리야.그것은 우리와 완전히 맞지 않는다.그것은 완전히 반칙이다.그것은 정말 심했다.그건 우리 생각으로 (100%)/(백 프로) 실현가능한 일이다."
+  },
+  "train-life_00903527": {
+    "action": "replace",
+    "text": "그것은 오해를 불러일으키고, 남에게 해를 끼치고, 틀린것이다.그것은 (16%)/(십 육 퍼센트)에 비하면 별거아니다."
+  },
+  "train-life_00903913": {
+    "action": "replace",
+    "text": "그것은 지금 공식적으로 사실이다.그것은 이제 그저 (19%)/(십 구 프로)로 내려갔다."
+  },
+  "train-life_00904449": {
+    "action": "replace",
+    "text": "이것이 이례적이기 때문에 그것은 옳지 않다그건 네 일이야. 간섭하지 않겠어.그것은 이 주식의 당연한 배당이다그것이 그녀에 대한 당신의 해석이다.그건 물품 보관함 열쇠예요. 손목에 차고 계시면 돼요.네가 보상해야 할 일이야.그건 니 관점일 뿐이다.즉, 회로의 (57%)/(오십 칠 프로)가 (52주)/(오십 이 주) 이후에도 생존합니다."
+  },
+  "train-life_00904484": {
+    "action": "replace",
+    "text": "즉 '신은 우리 주위에 계신다.'그 섬은 오래 전부터 날씨가 아름답기로 알려져 있었다.그 섬은 태평양의 낙원이라 일컬어진다.그것은 지나치게 신중한 것이 아니라 어리석은 것이다.이는 결코 공정한 비교라고 볼 수 없다고 전문가는 말한다.그건 마을의 대부분이 아니야!그건 네가 원하는 것이 아니다."
+  },
+  "train-life_00904683": {
+    "action": "replace",
+    "text": "그말은 (65%)/(육십 오 퍼센트) 에서 (80%)/(팔십 프로)의 미국인들이 충분히 절약하지 않았다는 뜻이야."
+  },
+  "train-life_00904861": {
+    "action": "replace",
+    "text": "그 숫자는 아마 두 배가 되어야 할 것이다. 이 수는 (2005년)/(이천 오 년)에 비해 (1.5배)/(일 점 오 배) 더 많은 것이다. 이 숫자는 (1년)/(일 년) 전에 비해 (22퍼센트)/(이십 이 퍼센트) 증가한 것이었다. 그 숫자는 내년에 두 배가 될 것이다. 그 번호는 사용되지 않는 번호입니다."
+  },
+  "train-life_00905014": {
+    "action": "replace",
+    "text": "그것이 나에게 상기시켜 주네요 나는 마트에서 아내를 데리러 가야해요."
+  },
+  "train-life_00905234": {
+    "action": "replace",
+    "text": "그 정지 신호는 효소 약물을 통해 제거될 수 있다.상점에서는 사진을 한 시간 내에 현상할 수 있다.그 가게는 갖가지 여성복을 갖추고 있다그 가계는 임부복을 판매하고 있다.저 가게는 고가품만 취급한다.저 가게에서는 가죽 장갑을 (20만원)/(이십 만 원)을 받는다.저 가게는 집까지 배달해 주고 추가 요금을 받는다.저 가게는 오전 아홉 시부터 저녁 여섯 시까지 영업한다.그 상점에서는 보통 가격에서 (10%)/(십 프로) 할인을 해 줍니다."
+  },
+  "train-life_00905235": {
+    "action": "replace",
+    "text": "그 가게에서는 보통 가격에서 (10%)/(십 프로)를 빼 줍니다."
+  },
+  "train-life_00905238": {
+    "action": "replace",
+    "text": "신발 가격을 (40%)/(사십 프로) 인하했다저 가게는 절대 깎아주지 않는다.저 상점은 무료로 수거를 해 간다.모퉁이에 있는 저 가게는 주인이 자주 바뀌었다.그 가게는 (9시)/(아홉 시)에 열었다"
+  },
+  "train-life_00905775": {
+    "action": "replace",
+    "text": "그것은 광고 같다 듣기엔 편안하지만 지루하고 쉽게 잊혀진다"
+  },
+  "train-life_00907118": {
+    "action": "replace",
+    "text": "그녀가 (1.5마일)/(일 점 오 마일) 경주 완주에 실패했음에 틀림없었다."
+  },
+  "train-life_00907454": {
+    "action": "replace",
+    "text": "맙소사, 믿을 수가 없군. 너 오늘 체스 게임 정말 잘한다."
+  },
+  "train-life_00908945": {
+    "action": "replace",
+    "text": "그는 이미 (2마일)/(이 마일)에 대한 국내 기록을 4초나 단축했다."
+  },
+  "train-life_00910216": {
+    "action": "replace",
+    "text": "이름, 날짜, 시간, 외근 목적을 쓰고, 차를 이용하기 전과 이용한 후의 마일을 기록하면 돼요."
+  },
+  "train-life_00910920": {
+    "action": "replace",
+    "text": "돼지고기에는 비타민 B1이 듬뿍 들어있습니다."
+  },
+  "train-life_00910921": {
+    "action": "replace",
+    "text": "비타민 B1은 피로회복에 효과가 있습니다."
+  },
+  "train-life_00910970": {
+    "action": "replace",
+    "text": "도미에는 비타민 B1과 E가 풍부합니다."
+  },
+  "train-life_00911032": {
+    "action": "replace",
+    "text": "아보카도는 비타민B2와 E가 풍부합니다."
+  },
+  "train-life_00912236": {
+    "action": "replace",
+    "text": "그는 (9.687점)/(구 점 육 팔 칠 점)으로 이번 해의 타이틀을 차지했다."
+  },
+  "train-life_00912267": {
+    "action": "replace",
+    "text": "그는 간단하고 관례적인 계약을 하고 계약금으로 (20%)/(이십 퍼센트)를 지불했다."
+  },
+  "train-life_00912767": {
+    "action": "replace",
+    "text": "이마트. 흐흐"
+  },
+  "train-life_00912896": {
+    "action": "replace",
+    "text": "잠온다는 뭐냐.잠은 보통 (2~3시간)/(두 시간에서 세 시간) 잡니다."
+  },
+  "train-life_00912965": {
+    "action": "replace",
+    "text": "전화 몇번 한걸로 왜이리 화를 내요?전화 안해도 올꺼야 전화 피하지 말아봐요.전화 한번 해볼까요?전화가 연결이 돼야 안오죠.전화가 와서 잠시만 받을께요전화도 안 해전화를 안 받으면 끝나는거 아니야?"
+  },
+  "train-life_00913095": {
+    "action": "replace",
+    "text": "주렁주렁에서 먹었지?"
+  },
+  "train-life_00913351": {
+    "action": "replace",
+    "text": "친구. 우리 친구구나."
+  },
+  "train-life_00913458": {
+    "action": "replace",
+    "text": "퐁퐁은 세제 이름으로만 알았지. 퐁퐁이라고?"
+  },
+  "train-life_00913501": {
+    "action": "replace",
+    "text": "하아, 그랬었어."
+  },
+  "train-life_00913518": {
+    "action": "replace",
+    "text": "학교는 비밀이에요 학교는 왜 비밀이야?학교도 가고 공부도 허기 싫어서 못 허고학교를 늦게 들어가서 중2에요."
+  },
+  "train-life_00913705": {
+    "action": "replace",
+    "text": "후 밖에 엄청 쏟아지네. 후추를 뿌리지 않는것을 추천드립니다."
+  },
+  "train-life_00913918": {
+    "action": "replace",
+    "text": "그는 매년 내리 (2.5할)/(이 점 오 할) 타자입니다."
+  },
+  "train-life_00914036": {
+    "action": "replace",
+    "text": "이 아파트에서 더 이상산다는 건 무리인 것같아요. 집세가 월급의 (40%)/(사십 프로) 가까이 돼요."
+  },
+  "train-life_00914580": {
+    "action": "replace",
+    "text": "가격이 여러 번 인하됐거든요. 지금은 (14.99달러)/(십 사 점 구 구 달러)입니다 ."
+  },
+  "train-play_00007194": {
+    "action": "replace",
+    "text": "대구가 우리나라 확진자 (82%)/(팔십 이 퍼센트)래요."
+  },
+  "train-play_00024522": {
+    "action": "replace",
+    "text": "요즘 은행 금리 (1%)/(일 퍼센트)도 (안돼요)/(안되요)."
+  },
+  "train-play_00029615": {
+    "action": "replace",
+    "text": "대출이자가 (4.5%)/(사 점 오 프로) 나 돼."
+  },
+  "train-play_00030046": {
+    "action": "replace",
+    "text": "너 (1주일)/(일 주일) 간 해외여행 갔다왔다며?"
+  },
+  "train-play_00069233": {
+    "action": "replace",
+    "text": "아니/ 집 산다더니 쳤어 올렸던데"
+  },
+  "train-play_00074214": {
+    "action": "replace",
+    "text": "금리가 (0%)/(영 프로) 대가 되면 투자로 종목을 바꿔야겠어요."
+  },
+  "train-play_00074994": {
+    "action": "replace",
+    "text": "그/ LTV 한도가 (70%)/(칠십 프로)로 줄어들었어."
+  },
+  "train-play_00080119": {
+    "action": "replace",
+    "text": "그/ 기존 금리에 (1%)/(일 프로)로 만 높아져도 좀 나을 텐데요."
+  },
+  "train-play_00084699": {
+    "action": "replace",
+    "text": "그런데 김대리 여름휴가는 어디로 가노? 코로나라서 어디 가기는 좀+ 글체?"
+  },
+  "train-play_00088658": {
+    "action": "replace",
+    "text": "아니/ 러시아에서 (6.4)/(육 점 사)의 지진이 일어났어요."
+  },
+  "train-play_00093076": {
+    "action": "replace",
+    "text": "음/ 지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-play_00094806": {
+    "action": "replace",
+    "text": "아니/ 금리 (1%)/(일 프로)라도 높은데 알려 줘."
+  },
+  "train-play_00100429": {
+    "action": "replace",
+    "text": "그/ 지금 일본에서 규모 (9.0)/(구 점 영)의 대지진이 일어났습니다."
+  },
+  "train-play_00102344": {
+    "action": "replace",
+    "text": "아/ 거제도 해수욕장으로 휴가 가려고 합니다"
+  },
+  "train-play_00108589": {
+    "action": "replace",
+    "text": "그/ 나 이번에 수술받은 거 보험에서 (90%)/(구십 퍼센트) 나와서 얼마나 다행이었는지 몰라."
+  },
+  "train-play_00116118": {
+    "action": "replace",
+    "text": "저/ 금리 (1%)/(일 프로) 시대에 살고 있으니 투자할 곳이 없네요."
+  },
+  "train-play_00116425": {
+    "action": "replace",
+    "text": "저/ 이번 주에도 코로나가 잠잠해지지 않아서 사회적 거리두기 (2.5단계)/(이 점 오 단계)가 일주일 연장됐네요."
+  },
+  "train-play_00116699": {
+    "action": "replace",
+    "text": "저/ 가족 중에 엄마만큼 (100%)/(백 퍼센트) 내 편인 사람 또 있을까요?"
+  },
+  "train-shopping_00002621": {
+    "action": "replace",
+    "text": "*벌써 (5분의 1)/(오 분의 일)을 돌파했어. 힘내."
+  },
+  "train-shopping_00003458": {
+    "action": "replace",
+    "text": "길거리 가판대에서 책을 (1권)/(한 권) 샀는데 별로 재미없어 보여요."
+  },
+  "train-shopping_00008785": {
+    "action": "replace",
+    "text": "그/ 친구는 매일 혼나면서도 야자를 단 (1번)/(한 번)도 나오지 않았어요."
+  },
+  "train-shopping_00008917": {
+    "action": "replace",
+    "text": "그/ 짧은 문장에 (30)/(서른)이란 단어를 (3번)/(세 번)이나 쓰다니. 신피질의 재앙이네요."
+  },
+  "train-shopping_00020064": {
+    "action": "replace",
+    "text": "자산에 (10%)/(십 프로)는 주식에 투자했어."
+  },
+  "train-shopping_00032490": {
+    "action": "replace",
+    "text": "어머님 이 성적으로 절대 (4년제)/(사 년 제) 대학은 어렵습니다."
+  },
+  "train-shopping_00036251": {
+    "action": "replace",
+    "text": "날씨가 좀 이상한 거 같이요. 요즘 이상 기후 현상이 종종 있는 거 같아요."
+  },
+  "train-shopping_00036592": {
+    "action": "replace",
+    "text": "다이어트는 항상해야해."
+  },
+  "train-shopping_00036611": {
+    "action": "replace",
+    "text": "(0%)/(영 프로) 대 금리라는 게 정말 있어?"
+  },
+  "train-shopping_00036948": {
+    "action": "replace",
+    "text": "(2%)/(이 프로) 대도 안되는 금리 어떻게 생각하세요."
+  },
+  "train-shopping_00041742": {
+    "action": "replace",
+    "text": "그/ 요즘 제습제는 얼마하노? 직접 사 본 적이 없어서."
+  },
+  "train-shopping_00043490": {
+    "action": "replace",
+    "text": "저기/ 앞으로 (2주)/(이 주) 동안 여러분들과 함께 할 (거예요)/(거에요). 잘 부탁드립니다."
+  },
+  "train-shopping_00051233": {
+    "action": "replace",
+    "text": "그런데 오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-shopping_00066624": {
+    "action": "replace",
+    "text": "우리 가족은 나 포함 총 4명입니다"
+  },
+  "train-shopping_00074206": {
+    "action": "replace",
+    "text": "그/ 일본에는 지진이 (5.0)/(오 점 영) 강도로 일어났대요."
+  },
+  "train-shopping_00078026": {
+    "action": "replace",
+    "text": "아니/ 금리 (30%)/(삼십 프로)면 얼마인지 아시나요?"
+  },
+  "train-shopping_00080540": {
+    "action": "replace",
+    "text": "저기/ 온난 혀에 대해서 아는 바가 거의 없어요."
+  },
+  "train-shopping_00087108": {
+    "action": "replace",
+    "text": "우리 집에서 키우는 강아지는 (2마리)/(두 마리)야."
+  },
+  "train-shopping_00095145": {
+    "action": "replace",
+    "text": "그런데 기준 금리는 (0.5%)/(영 점 오 퍼센트)입니다."
+  },
+  "train-shopping_00101992": {
+    "action": "replace",
+    "text": "아/ 우리 가족은 나 포함 총 4명입니다"
+  },
+  "train-shopping_00105689": {
+    "action": "replace",
+    "text": "음/ 전세대출 알아보고 있어? 신혼부부는 전세대출을 (80%)/(팔십 퍼센트)까지 지원해준다고 하니까 잘 알아봐."
+  },
+  "train-shopping_00108444": {
+    "action": "replace",
+    "text": "그/ 코로나 때문에 친구들을 만난 지가 너무 오래된 거 같아요"
+  },
+  "train-shopping_00114893": {
+    "action": "replace",
+    "text": "저/ 파일럿 교육은 실기의 가중치가 거의 (70%)/(칠십 프로)에 가깝다고 해요."
+  },
+  "train-shopping_00116671": {
+    "action": "replace",
+    "text": "저/ 이번 주에도 거리두기 (2.5단계)/(이 점 오 단계) 한다네요."
+  },
+  "train-shopping_00122392": {
+    "action": "replace",
+    "text": "저/ 코로나 때문에 친구들을 만난 지가 너무 오래된 거 같아요 "
+  },
+  "train-shopping_00124509": {
+    "action": "replace",
+    "text": "이자가 (4%)/(사 프로) 정도 되면은 꽤 후한 거지요."
+  },
+  "train-weather_00003428": {
+    "action": "replace",
+    "text": "(3)/(삼) 대 (3)/(삼) 미팅? 재밌겠다. 나도 갈래."
+  },
+  "train-weather_00007739": {
+    "action": "replace",
+    "text": "알았어. 고마워. (12층)/(십 이 층)이라는데?"
+  },
+  "train-weather_00007859": {
+    "action": "drop"
+  },
+  "train-weather_00008479": {
+    "action": "replace",
+    "text": "오늘 로또 (1등)/(일 등)에 당첨이 되었어."
+  },
+  "train-weather_00014203": {
+    "action": "replace",
+    "text": "주소는 이렇게 (2줄)/(두 줄)로 써서 보내면 돼요."
+  },
+  "train-weather_00030654": {
+    "action": "replace",
+    "text": "제과 업계 (1위)/(일 위)인 달콤 제과 최근 주력 (8개)/(여덟 개) 제품의 가격을 평균 (9%)/(구 프로) 올렸습니다."
+  },
+  "train-weather_00039988": {
+    "action": "replace",
+    "text": "나 이번에 수술받은 거 보험에서 (90%)/(구십 프로) 나와서 얼마나 다행이었는지 몰라."
+  },
+  "train-weather_00040298": {
+    "action": "replace",
+    "text": "코로나 때문에 친구들을 만난 지가 너무 오래된 거 같아요"
+  },
+  "train-weather_00042960": {
+    "action": "replace",
+    "text": "최저 은행 금리는 연 (5.9%)/(오 점 구 퍼센트)입니다."
+  },
+  "train-weather_00045893": {
+    "action": "replace",
+    "text": "고향 도착까지 아직 (4시간)/(네 시간)이나 남았어요."
+  },
+  "train-weather_00047870": {
+    "action": "replace",
+    "text": "생일인데 (케이크)/(케익) 하나 사주질 않네요 슬퍼요."
+  },
+  "train-weather_00049964": {
+    "action": "replace",
+    "text": "건강검진은 (2년)/(이 년)에 (1번)/(한 번) 씩 꼭 받아야 해요."
+  },
+  "train-weather_00055534": {
+    "action": "replace",
+    "text": "환경보호 캠페인부터 참가해 (보려고요)/(볼려구요)"
+  },
+  "train-weather_00062876": {
+    "action": "replace",
+    "text": "나 요즘 알렉사 쓰고 있거든? 근데 얘가 사람처럼 일상 대화를 능숙하게 잘하는 거야. 난 좀 무섭더라."
+  },
+  "train-weather_00064686": {
+    "action": "replace",
+    "text": "(2백)/(이백) 달러를 칩으로 바꿔 주세요."
+  },
+  "train-weather_00083889": {
+    "action": "replace",
+    "text": "그런데 대구가 우리나라 확진자 (82%)/(팔십 이 퍼센트)래요."
+  },
+  "train-weather_00086763": {
+    "action": "replace",
+    "text": "아니/ 오늘 음악 방송에서 아이들이 일등 했대."
+  },
+  "train-weather_00100022": {
+    "action": "replace",
+    "text": "그런데 뉴욕에는 (1번)/(한 번)도 가본적이 없네."
+  },
+  "train-weather_00104325": {
+    "action": "replace",
+    "text": "그런데 금리가 (1%)/(일 퍼센트) 대라 이자가 너무 얼마 안 (돼요)/(되요)."
+  },
+  "train-weather_00126941": {
+    "action": "replace",
+    "text": "미래를 위해 청약을 드는 게 좋을 거 같아요."
+  },
+  "train-weather_00134873": {
+    "action": "replace",
+    "text": "음/ 이 대출 상품은 고정금리로 연 (3.5%)/(삼 점 오 프로)입니다."
+  },
+  "train-weather_00135477": {
+    "action": "replace",
+    "text": "그/ 일본에 또 지진 났단다 (6.5)/(육 점 오)짜리."
+  },
+  "train-weather_00157433": {
+    "action": "replace",
+    "text": "그런데 증권사 종합자산관리계좌 잔고는 역대 최대치를 기록했습니다. 또한 대기자금도 증가세를 나타내면서 일반 청약에 (100조)/(백 조) 원이 몰릴 것이라는 전망도 나옵니다."
+  },
+  "train-weather_00157944": {
+    "action": "replace",
+    "text": "아니/ 정기 적금 들려고 알아봤는데 금리가 (0%)/(영 프로) 대야. 이게 말이 돼?"
+  },
+  "train-weather_00159244": {
+    "action": "replace",
+    "text": "그런데 학점 평균이 (4.5점)/(사 점 오 점)+ 만점에 (4.0)/(사 점 영) 은 돼야 편입이 가능하세요."
+  },
+  "train-weather_00159420": {
+    "action": "replace",
+    "text": "저기/ 고객님의 대출금리는 (2.5%)/(이 점 오 퍼센트)입니다."
+  },
+  "train-weather_00161610": {
+    "action": "replace",
+    "text": "한 (1~2)/(일 이)년에 한 번씩 건강검진을 받는 것도 좋아요. 이상이 있으면 초기에 케어할 수 있으니까요."
+  },
+  "train-weather_00164893": {
+    "action": "replace",
+    "text": "아/ 금리가 더 떨어지면 (0%)/(영 퍼센트)대인데 저축하는 의미가 있을까?"
+  },
+  "train-weather_00165979": {
+    "action": "replace",
+    "text": "그/ 올해 생애 건강검진은 만 (40)/(사십) (50)/(오십) (60)/(육십) (70)/(칠십) (80)/(팔십) 세에 해당되어요."
+  },
+  "train-weather_00167842": {
+    "action": "replace",
+    "text": "그/ 자산에 (10%)/(십 퍼센트)는 주식에 투자했어"
+  },
+  "train-weather_00168923": {
+    "action": "replace",
+    "text": "음/ 코로나로 인한 사회적 거리두기가 (2.5단계)/(이 점 오 단계)로 격상됐대요."
+  },
+  "train-weather_00169408": {
+    "action": "replace",
+    "text": "그이 적금 상품은 금리가 (5.5%)/(오 점 오 퍼센트)에요."
+  },
+  "train-weather_00170022": {
+    "action": "replace",
+    "text": "아/ 과장님. (6개월)/(육 개월)간 수익률이 (500%)/(오백 프로)가 넘으시네요. 주식의 신이십니다."
+  },
+  "train-weather_00170200": {
+    "action": "replace",
+    "text": "그/ 오 모 조 모 따져보고 (1%)/(일 프로)라도 높은 금리 쪽에 투자해야죠."
+  },
+  "train-weather_00173696": {
+    "action": "replace",
+    "text": "그/ 주제 관광 지어 투 존댓말."
+  },
+  "train-weather_00181903": {
+    "action": "replace",
+    "text": "그/ 이번에 지진이 (7.0)/(칠 점 영)이라며."
+  },
+  "train-weather_00188403": {
+    "action": "replace",
+    "text": "저/ 오늘 음악 방송에서 여자 아이들이 일등 했대."
+  },
+  "train-weather_00188404": {
+    "action": "replace",
+    "text": "저/ 지금 우리 할머니 집으로 가는 거야?"
+  },
+  "train-weather_00192765": {
+    "action": "replace",
+    "text": "저/ 강도가 (8.0)/(팔 점 영)이었는데. 와."
+  },
+  "train-weather_00194881": {
+    "action": "replace",
+    "text": "저/ 제주 앞바다에 (2.3)/(이 점 삼)의 지진이 관측됐습니다."
+  },
+  "train-weather_00196270": {
+    "action": "replace",
+    "text": "저/ 이 적금 상품은 금리가 (5.5%)/(오 점 오 퍼센트)에요."
+  },
+  "train-weather_00196849": {
+    "action": "replace",
+    "text": "음/ 금리가 몇 (프로라고요)/(프로라구요)? (4.5%)/(사 점 오 프로)요?"
+  },
+  "train-weather_00197072": {
+    "action": "replace",
+    "text": "저/ 오 모 조 모 따져보고 (1%)/(일 프로)라도 높은 금리 쪽에 투자해야죠."
+  },
+  "train-weather_00197509": {
+    "action": "replace",
+    "text": "저/ 그래도 이번에는 좀 선방한 거 같아. 학점 (4.0)/(사 점 영)."
+  },
+  "train-weather_00199330": {
+    "action": "replace",
+    "text": "저/ 금리 (12%)/(십 이 프로)가 넘었던 그 시절이 그립네요."
+  }
+}
